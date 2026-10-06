@@ -1,0 +1,13 @@
+{
+  "id": "work-example",
+  "image_path": "works/work-example/image.png",
+  "author_id": "待作者确认",
+  "author_words": "",
+  "license_label": "待确认；不可发布",
+  "authorization": {
+    "status": "pending",
+    "summary": "待确认作者允许的用途及 CDN/Git 历史持久保存",
+    "scopes": [],
+    "confirmed_on": ""
+  }
+}
