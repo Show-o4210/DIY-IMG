@@ -1,5 +1,101 @@
 {
   "schema_version": 2,
-  "featured_version": "players-001",
-  "works": []
+  "featured_version": "players-002",
+  "works": [
+    {
+      "id": "show-holly-emperor",
+      "image_path": "works/show-holly-emperor/image.png",
+      "author_id": "show",
+      "author_words": "希望大家多多分享自己的作品！",
+      "license_label": "作者允许本应用展示、缓存与个人署名收藏；其他用途请联系作者。",
+      "authorization": {
+        "status": "approved",
+        "summary": "2026-10-11，用户提供本件原图并明确要求以 show 署名收录玩家精选，授权上传公开 GitHub 及更新 Render，按既有精选流程用于 CDN 分发、应用展示、本地缓存和个人署名收藏。不授予其他用途或游戏原有元素的权利。",
+        "scopes": [
+          "public_git_hosting",
+          "cdn_distribution",
+          "in_app_display",
+          "local_cache",
+          "personal_collection"
+        ],
+        "confirmed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "show-holly-missile",
+      "image_path": "works/show-holly-missile/image.png",
+      "author_id": "show",
+      "author_words": "希望大家多多分享自己的作品！",
+      "license_label": "作者允许本应用展示、缓存与个人署名收藏；其他用途请联系作者。",
+      "authorization": {
+        "status": "approved",
+        "summary": "2026-10-11，用户提供本件原图并明确要求以 show 署名收录玩家精选，授权上传公开 GitHub 及更新 Render，按既有精选流程用于 CDN 分发、应用展示、本地缓存和个人署名收藏。不授予其他用途或游戏原有元素的权利。",
+        "scopes": [
+          "public_git_hosting",
+          "cdn_distribution",
+          "in_app_display",
+          "local_cache",
+          "personal_collection"
+        ],
+        "confirmed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "show-happy-holly",
+      "image_path": "works/show-happy-holly/image.png",
+      "author_id": "show",
+      "author_words": "希望大家多多分享自己的作品！",
+      "license_label": "作者允许本应用展示、缓存与个人署名收藏；其他用途请联系作者。",
+      "authorization": {
+        "status": "approved",
+        "summary": "2026-10-11，用户提供本件原图并明确要求以 show 署名收录玩家精选，授权上传公开 GitHub 及更新 Render，按既有精选流程用于 CDN 分发、应用展示、本地缓存和个人署名收藏。不授予其他用途或游戏原有元素的权利。",
+        "scopes": [
+          "public_git_hosting",
+          "cdn_distribution",
+          "in_app_display",
+          "local_cache",
+          "personal_collection"
+        ],
+        "confirmed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "show-happy-single-holly",
+      "image_path": "works/show-happy-single-holly/image.png",
+      "author_id": "show",
+      "author_words": "希望大家多多分享自己的作品！",
+      "license_label": "作者允许本应用展示、缓存与个人署名收藏；其他用途请联系作者。",
+      "authorization": {
+        "status": "approved",
+        "summary": "2026-10-11，用户提供本件原图并明确要求以 show 署名收录玩家精选，授权上传公开 GitHub 及更新 Render，按既有精选流程用于 CDN 分发、应用展示、本地缓存和个人署名收藏。不授予其他用途或游戏原有元素的权利。",
+        "scopes": [
+          "public_git_hosting",
+          "cdn_distribution",
+          "in_app_display",
+          "local_cache",
+          "personal_collection"
+        ],
+        "confirmed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "show-unhappy-holly",
+      "image_path": "works/show-unhappy-holly/image.png",
+      "author_id": "show",
+      "author_words": "希望大家多多分享自己的作品！",
+      "license_label": "作者允许本应用展示、缓存与个人署名收藏；其他用途请联系作者。",
+      "authorization": {
+        "status": "approved",
+        "summary": "2026-10-11，用户提供本件原图并明确要求以 show 署名收录玩家精选，授权上传公开 GitHub 及更新 Render，按既有精选流程用于 CDN 分发、应用展示、本地缓存和个人署名收藏。不授予其他用途或游戏原有元素的权利。",
+        "scopes": [
+          "public_git_hosting",
+          "cdn_distribution",
+          "in_app_display",
+          "local_cache",
+          "personal_collection"
+        ],
+        "confirmed_on": "2026-10-11"
+      }
+    }
+  ]
 }
