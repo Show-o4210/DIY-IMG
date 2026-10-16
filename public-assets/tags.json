@@ -1,9 +1,85 @@
 [
-  {"id": "demo", "label": "占位示例", "aliases": ["示例", "测试", "placeholder"]},
-  {"id": "flower", "label": "花朵", "aliases": ["花卉", "鲜花", "flower"]},
-  {"id": "plant", "label": "植物", "aliases": ["plant"]},
-  {"id": "yellow", "label": "黄色", "aliases": ["金黄", "yellow"]},
-  {"id": "pink", "label": "粉色", "aliases": ["pink"]},
-  {"id": "tile", "label": "平铺", "aliases": ["纹理", "重复", "tile"]},
-  {"id": "star", "label": "星星", "aliases": ["星空", "star"]}
+  {
+    "id": "demo",
+    "label": "占位示例",
+    "aliases": [
+      "示例",
+      "测试",
+      "placeholder"
+    ]
+  },
+  {
+    "id": "flower",
+    "label": "花朵",
+    "aliases": [
+      "花卉",
+      "鲜花",
+      "flower"
+    ]
+  },
+  {
+    "id": "plant",
+    "label": "植物",
+    "aliases": [
+      "plant"
+    ]
+  },
+  {
+    "id": "yellow",
+    "label": "黄色",
+    "aliases": [
+      "金黄",
+      "yellow"
+    ]
+  },
+  {
+    "id": "pink",
+    "label": "粉色",
+    "aliases": [
+      "pink"
+    ]
+  },
+  {
+    "id": "tile",
+    "label": "平铺",
+    "aliases": [
+      "纹理",
+      "重复",
+      "tile"
+    ]
+  },
+  {
+    "id": "star",
+    "label": "星星",
+    "aliases": [
+      "星空",
+      "star"
+    ]
+  },
+  {
+    "id": "math",
+    "label": "数学",
+    "aliases": [
+      "数学符号",
+      "数理",
+      "math"
+    ]
+  },
+  {
+    "id": "badge",
+    "label": "徽章",
+    "aliases": [
+      "纹章",
+      "badge"
+    ]
+  },
+  {
+    "id": "lineart",
+    "label": "线稿",
+    "aliases": [
+      "线条",
+      "黑白",
+      "lineart"
+    ]
+  }
 ]

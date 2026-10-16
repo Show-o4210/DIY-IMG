@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "BACKGROUND",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "background-demo-stars",
+      "name": "占位示例·星空底图",
+      "original": {
+        "bytes": 6021,
+        "format": "png",
+        "height": 1000,
+        "path": "files/9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b.png",
+        "sha256": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+        "width": 600
+      },
+      "revision": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/background-demo-stars",
+      "tags": [
+        "demo",
+        "star"
+      ],
+      "thumbnail": {
+        "bytes": 1116,
+        "format": "webp",
+        "height": 384,
+        "path": "files/7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df.webp",
+        "sha256": "7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df",
+        "width": 230
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "PATTERN",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "pattern-demo-flower",
+      "name": "占位示例·花朵图案",
+      "original": {
+        "bytes": 2382,
+        "format": "png",
+        "height": 384,
+        "path": "files/f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08.png",
+        "sha256": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+        "width": 384
+      },
+      "revision": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "pink",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 2312,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e.webp",
+        "sha256": "b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "数学徽章",
+        "圆周率",
+        "积分",
+        "无穷",
+        "几何",
+        "math",
+        "pi",
+        "infinity"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "透明背景的数学徽章四格线稿，包含圆周率、积分、无穷与几何运算徽章。整张作为背景图案平铺；保留维护者提供的原始 PNG。",
+      "id": "pattern-math-badges",
+      "name": "数学徽章四格线稿",
+      "original": {
+        "bytes": 1367108,
+        "format": "png",
+        "height": 1254,
+        "path": "files/4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408.png",
+        "sha256": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+        "width": 1254
+      },
+      "revision": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-math-badges",
+      "tags": [
+        "math",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 52248,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9.webp",
+        "sha256": "3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "STICKER",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "sticker-demo-flower",
+      "name": "占位示例·花朵贴纸",
+      "original": {
+        "bytes": 1955,
+        "format": "png",
+        "height": 256,
+        "path": "files/87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946.png",
+        "sha256": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+        "width": 256
+      },
+      "revision": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/sticker-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 5338,
+        "format": "webp",
+        "height": 384,
+        "path": "files/a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec.webp",
+        "sha256": "a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "SUBJECT",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "subject-demo-flower",
+      "name": "占位示例·花朵主体",
+      "original": {
+        "bytes": 5093,
+        "format": "png",
+        "height": 640,
+        "path": "files/8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883.png",
+        "sha256": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+        "width": 512
+      },
+      "revision": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/subject-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "plant",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 4832,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1.webp",
+        "sha256": "d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1",
+        "width": 307
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    }
+  ],
+  "schema_version": 1,
+  "tags": [
+    {
+      "aliases": [
+        "示例",
+        "测试",
+        "placeholder"
+      ],
+      "id": "demo",
+      "label": "占位示例"
+    },
+    {
+      "aliases": [
+        "花卉",
+        "鲜花",
+        "flower"
+      ],
+      "id": "flower",
+      "label": "花朵"
+    },
+    {
+      "aliases": [
+        "plant"
+      ],
+      "id": "plant",
+      "label": "植物"
+    },
+    {
+      "aliases": [
+        "金黄",
+        "yellow"
+      ],
+      "id": "yellow",
+      "label": "黄色"
+    },
+    {
+      "aliases": [
+        "pink"
+      ],
+      "id": "pink",
+      "label": "粉色"
+    },
+    {
+      "aliases": [
+        "纹理",
+        "重复",
+        "tile"
+      ],
+      "id": "tile",
+      "label": "平铺"
+    },
+    {
+      "aliases": [
+        "星空",
+        "star"
+      ],
+      "id": "star",
+      "label": "星星"
+    },
+    {
+      "aliases": [
+        "数学符号",
+        "数理",
+        "math"
+      ],
+      "id": "math",
+      "label": "数学"
+    },
+    {
+      "aliases": [
+        "纹章",
+        "badge"
+      ],
+      "id": "badge",
+      "label": "徽章"
+    },
+    {
+      "aliases": [
+        "线条",
+        "黑白",
+        "lineart"
+      ],
+      "id": "lineart",
+      "label": "线稿"
+    }
+  ],
+  "version": "resources-a7e8091c0aadf366"
+}

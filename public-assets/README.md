@@ -1,6 +1,6 @@
 # 热拉公共资源
 
-本目录独立于根目录的玩家精选。资源信息、预览和原图均由 GitHub 管理，通过本仓库的 GitHub Pages 静态发布获取，不通过 Render 或第三方图片分发。当前仅收录维护工具生成、明确标注的占位示例，不代表正式素材内容。
+本目录独立于根目录的玩家精选。资源信息、预览和原图均由 GitHub 管理，通过本仓库的 GitHub Pages 静态发布获取，不通过 Render 或第三方图片分发。当前收录 show 授权的「数学徽章四格线稿」背景图案，允许使用、修改和分享；另保留四项维护工具生成、明确标注的占位示例。素材使用范围以各项说明为准。
 
 客户端默认地址为 `https://show-o4210.github.io/DIY-IMG/public-assets`。原始仓库地址 `https://raw.githubusercontent.com/Show-o4210/DIY-IMG/main/public-assets` 也保留，开发构建可用 `-PpublicAssetsBaseUrl=...` 指定；部分网络无法直连原始文件域名，因此正式接入使用 GitHub Pages。用户不需要 GitHub 账号或 Token，也不通过 Contents API 逐张读取图片。
 
