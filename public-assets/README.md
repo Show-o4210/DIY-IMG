@@ -1,6 +1,8 @@
 # 热拉公共资源
 
-本目录独立于根目录的玩家精选。资源信息、预览和原图均由客户端直接从本 GitHub 仓库获取，不通过 Render 或 jsDelivr。当前仅收录维护工具生成、明确标注的占位示例，不代表正式素材内容。
+本目录独立于根目录的玩家精选。资源信息、预览和原图均由 GitHub 管理，通过本仓库的 GitHub Pages 静态发布获取，不通过 Render 或第三方图片分发。当前仅收录维护工具生成、明确标注的占位示例，不代表正式素材内容。
+
+客户端默认地址为 `https://show-o4210.github.io/DIY-IMG/public-assets`。原始仓库地址 `https://raw.githubusercontent.com/Show-o4210/DIY-IMG/main/public-assets` 也保留，开发构建可用 `-PpublicAssetsBaseUrl=...` 指定；部分网络无法直连原始文件域名，因此正式接入使用 GitHub Pages。用户不需要 GitHub 账号或 Token，也不通过 Contents API 逐张读取图片。
 
 ## 添加与修改
 
@@ -13,7 +15,7 @@
 
 ## 发布与回退
 
-`catalog/index.json` 指向哈希命名的不可变目录，目录再指向 `files/<sha256>.<format>`。先提交完整生成文件再更新索引；脚本完成这两步，客户端校验目录及每张图片的哈希与尺寸。只改说明 / 标签会换目录版本；原图变化会换资源 revision，同 ID 的旧原图仍保留。
+`catalog/index.json` 指向哈希命名的不可变目录，目录再指向 `files/<sha256>.<format>`。先提交完整生成文件再更新索引；脚本完成这两步，客户端校验目录及每张图片的哈希与尺寸。只改说明 / 标签会换目录版本；原图变化会换资源 revision，同 ID 的旧原图仍保留。合并 main 后由 `Publish public materials to GitHub Pages` 校验并发布静态文件；绿色检查 / 部署完成后客户端手动刷新获取。
 
 不要修改或清理已经发布的 `files/` 和 `catalog/manifests/`，旧客户端缓存的目录可能仍引用它们。下架时移走对应 `items/<ID>` 输入并重新生成目录，已加入用户本地仓库的文件不删除。回退时恢复上一版 `catalog/index.json` 即可，后续再次发布前以当前 inputs 重新生成并核对。
 

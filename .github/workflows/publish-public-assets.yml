@@ -26,8 +26,8 @@ jobs:
       - run: python scripts/build_public_assets.py
       - name: Stage only public materials
         run: |
-          mkdir -p _public_site
-          cp -R public-assets _public_site/public-assets
+          mkdir -p _public_site/public-assets
+          cp -R public-assets/catalog public-assets/files _public_site/public-assets/
           cp public-assets/index.html _public_site/index.html
           touch _public_site/.nojekyll
       - uses: actions/configure-pages@v5
