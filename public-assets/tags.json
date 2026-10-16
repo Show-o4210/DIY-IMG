@@ -1,85 +1,269 @@
 [
   {
-    "id": "demo",
-    "label": "占位示例",
     "aliases": [
       "示例",
       "测试",
       "placeholder"
-    ]
+    ],
+    "id": "demo",
+    "label": "占位示例"
   },
   {
-    "id": "flower",
-    "label": "花朵",
     "aliases": [
       "花卉",
       "鲜花",
       "flower"
-    ]
+    ],
+    "id": "flower",
+    "label": "花朵"
   },
   {
-    "id": "plant",
-    "label": "植物",
     "aliases": [
       "plant"
-    ]
+    ],
+    "id": "plant",
+    "label": "植物"
   },
   {
-    "id": "yellow",
-    "label": "黄色",
     "aliases": [
       "金黄",
       "yellow"
-    ]
+    ],
+    "id": "yellow",
+    "label": "黄色"
   },
   {
-    "id": "pink",
-    "label": "粉色",
     "aliases": [
       "pink"
-    ]
+    ],
+    "id": "pink",
+    "label": "粉色"
   },
   {
-    "id": "tile",
-    "label": "平铺",
     "aliases": [
       "纹理",
       "重复",
       "tile"
-    ]
+    ],
+    "id": "tile",
+    "label": "平铺"
   },
   {
-    "id": "star",
-    "label": "星星",
     "aliases": [
       "星空",
       "star"
-    ]
+    ],
+    "id": "star",
+    "label": "星星"
   },
   {
-    "id": "math",
-    "label": "数学",
     "aliases": [
       "数学符号",
       "数理",
       "math"
-    ]
+    ],
+    "id": "math",
+    "label": "数学"
   },
   {
-    "id": "badge",
-    "label": "徽章",
     "aliases": [
       "纹章",
       "badge"
-    ]
+    ],
+    "id": "badge",
+    "label": "徽章"
   },
   {
-    "id": "lineart",
-    "label": "线稿",
     "aliases": [
       "线条",
       "黑白",
       "lineart"
-    ]
+    ],
+    "id": "lineart",
+    "label": "线稿"
+  },
+  {
+    "aliases": [
+      "炼金",
+      "炼金阵",
+      "神秘学",
+      "alchemy",
+      "occult"
+    ],
+    "id": "tag-d68148cafc044a63be920ace56a7856d",
+    "label": "炼金术"
+  },
+  {
+    "aliases": [
+      "工业",
+      "工程",
+      "齿轮",
+      "mechanical",
+      "engineering"
+    ],
+    "id": "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+    "label": "机械"
+  },
+  {
+    "aliases": [
+      "电磁",
+      "力学",
+      "physics"
+    ],
+    "id": "tag-480181675bc34e478792a1748a3f6e20",
+    "label": "物理"
+  },
+  {
+    "aliases": [
+      "自然元素",
+      "火水土风",
+      "elemental"
+    ],
+    "id": "tag-42e36e00dfff4546829dfe8c6e126b0c",
+    "label": "四元素"
+  },
+  {
+    "aliases": [
+      "军徽",
+      "军章",
+      "military",
+      "army"
+    ],
+    "id": "tag-328df90c1e8c431f89aee25bf10a78e9",
+    "label": "军事"
+  },
+  {
+    "aliases": [
+      "日月星辰",
+      "星月",
+      "天体",
+      "celestial",
+      "astronomy"
+    ],
+    "id": "tag-20d6314042a64a4da946b4b1860ae5b4",
+    "label": "天文"
+  },
+  {
+    "aliases": [
+      "实验室",
+      "实验器材",
+      "chemistry",
+      "laboratory"
+    ],
+    "id": "tag-995c1cae82824d529b2fd1e457673db3",
+    "label": "化学"
+  },
+  {
+    "aliases": [
+      "纯白",
+      "白色图案",
+      "white"
+    ],
+    "id": "white",
+    "label": "白色"
+  },
+  {
+    "aliases": [
+      "双色卡框",
+      "双职业",
+      "two-tone"
+    ],
+    "id": "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+    "label": "双色"
+  },
+  {
+    "aliases": [
+      "绿",
+      "green"
+    ],
+    "id": "green",
+    "label": "绿色"
+  },
+  {
+    "aliases": [
+      "红",
+      "red"
+    ],
+    "id": "red",
+    "label": "红色"
+  },
+  {
+    "aliases": [
+      "银色",
+      "灰银",
+      "gray",
+      "silver"
+    ],
+    "id": "tag-598ead10a7d24ea1ac340378a112a0a0",
+    "label": "灰色"
+  },
+  {
+    "aliases": [
+      "棕",
+      "褐色",
+      "brown"
+    ],
+    "id": "tag-178911e40079466b969cf2c29cf74778",
+    "label": "棕色"
+  },
+  {
+    "aliases": [
+      "蓝",
+      "blue"
+    ],
+    "id": "blue",
+    "label": "蓝色"
+  },
+  {
+    "aliases": [
+      "黑",
+      "black"
+    ],
+    "id": "black",
+    "label": "黑色"
+  },
+  {
+    "aliases": [
+      "紫",
+      "purple"
+    ],
+    "id": "purple",
+    "label": "紫色"
+  },
+  {
+    "aliases": [
+      "金属边框",
+      "metal",
+      "metallic"
+    ],
+    "id": "tag-b95c22f1fd9643d5884b568cd524dd38",
+    "label": "金属"
+  },
+  {
+    "aliases": [
+      "暗色",
+      "哥特",
+      "dark"
+    ],
+    "id": "tag-4dd88a38ef604a80bd07891588c969f1",
+    "label": "暗黑"
+  },
+  {
+    "aliases": [
+      "国风",
+      "中国风",
+      "chinese"
+    ],
+    "id": "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+    "label": "中式"
+  },
+  {
+    "aliases": [
+      "春节",
+      "新春",
+      "festival"
+    ],
+    "id": "tag-2f9be048117b4975a9cd98f65dfd537a",
+    "label": "节日"
   }
 ]

@@ -1,0 +1,27 @@
+{
+  "aliases": [
+    "海龟螺猫2",
+    "卡框",
+    "边框",
+    "frame",
+    "红黑",
+    "骷髅",
+    "头骨",
+    "黑红"
+  ],
+  "author": "海龟螺猫2",
+  "category": "FRAME",
+  "description": "红黑骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+  "file": "original.png",
+  "id": "asset-c1dca26f47ee4b4182fd20745d60e8f6",
+  "name": "红黑骷髅卡框",
+  "published_at": "2026-10-16T23:58:00+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-c1dca26f47ee4b4182fd20745d60e8f6",
+  "tags": [
+    "red",
+    "black",
+    "tag-4dd88a38ef604a80bd07891588c969f1"
+  ],
+  "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+}

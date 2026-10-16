@@ -1,0 +1,27 @@
+{
+  "aliases": [
+    "休007",
+    "卡框",
+    "边框",
+    "frame",
+    "幽紫",
+    "骷髅",
+    "幽灵",
+    "藤蔓",
+    "骨饰"
+  ],
+  "author": "show",
+  "category": "FRAME",
+  "description": "幽紫骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+  "file": "original.png",
+  "id": "asset-591be064cf5e46f2887c6f5136c7c92f",
+  "name": "幽紫骷髅卡框",
+  "published_at": "2026-10-16T23:58:00+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-591be064cf5e46f2887c6f5136c7c92f",
+  "tags": [
+    "purple",
+    "tag-4dd88a38ef604a80bd07891588c969f1"
+  ],
+  "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+}

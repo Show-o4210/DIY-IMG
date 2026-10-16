@@ -1,0 +1,27 @@
+{
+  "aliases": [
+    "休003",
+    "卡框",
+    "边框",
+    "frame",
+    "蓝银",
+    "盾牌",
+    "盾纹",
+    "金属边框"
+  ],
+  "author": "show",
+  "category": "FRAME",
+  "description": "蓝银盾纹卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+  "file": "original.png",
+  "id": "asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+  "name": "蓝银盾纹卡框",
+  "published_at": "2026-10-16T23:58:00+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+  "tags": [
+    "blue",
+    "tag-598ead10a7d24ea1ac340378a112a0a0",
+    "tag-b95c22f1fd9643d5884b568cd524dd38"
+  ],
+  "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+}

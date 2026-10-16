@@ -1,13 +1,4 @@
 {
-  "id": "pattern-math-badges",
-  "name": "数学徽章四格线稿",
-  "category": "PATTERN",
-  "tags": [
-    "math",
-    "badge",
-    "lineart",
-    "tile"
-  ],
   "aliases": [
     "数学徽章",
     "圆周率",
@@ -16,12 +7,27 @@
     "几何",
     "math",
     "pi",
-    "infinity"
+    "infinity",
+    "数学符号",
+    "无穷大",
+    "π",
+    "运算",
+    "加减乘除",
+    "圆规"
   ],
   "author": "show",
-  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-math-badges",
-  "usage": "作者 show 授权：允许使用、修改和分享本素材。",
-  "description": "透明背景的数学徽章四格线稿，包含圆周率、积分、无穷与几何运算徽章。整张作为背景图案平铺；保留维护者提供的原始 PNG。",
+  "category": "PATTERN",
+  "description": "包含圆周率、积分、无穷与几何运算徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
   "file": "original.png",
-  "published_at": "2026-10-16T19:43:48+08:00"
+  "id": "pattern-math-badges",
+  "name": "数学徽章四格线稿",
+  "published_at": "2026-10-16T19:43:48+08:00",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-math-badges",
+  "tags": [
+    "math",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
 }

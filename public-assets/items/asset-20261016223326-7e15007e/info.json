@@ -1,0 +1,35 @@
+{
+  "aliases": [
+    "军徽四格线稿",
+    "军徽",
+    "军事",
+    "军章",
+    "星徽",
+    "步枪",
+    "交叉步枪",
+    "坦克",
+    "战机",
+    "空军",
+    "陆军",
+    "military",
+    "army",
+    "tank",
+    "aircraft"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含星徽、交叉步枪、坦克与战机四款军徽。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-20261016223326-7e15007e",
+  "name": "军徽",
+  "published_at": "2026-10-16T22:33:26+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-20261016223326-7e15007e",
+  "tags": [
+    "tag-328df90c1e8c431f89aee25bf10a78e9",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

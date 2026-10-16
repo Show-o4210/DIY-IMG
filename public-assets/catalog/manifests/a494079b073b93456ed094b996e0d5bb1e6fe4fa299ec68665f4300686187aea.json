@@ -1,0 +1,1577 @@
+{
+  "items": [
+    {
+      "aliases": [
+        "休003",
+        "卡框",
+        "边框",
+        "frame",
+        "蓝银",
+        "盾牌",
+        "盾纹",
+        "金属边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "蓝银盾纹卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+      "name": "蓝银盾纹卡框",
+      "original": {
+        "bytes": 429674,
+        "format": "png",
+        "height": 1888,
+        "path": "files/3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94.png",
+        "sha256": "3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+      "tags": [
+        "blue",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 5278,
+        "format": "webp",
+        "height": 384,
+        "path": "files/c86bd086987e0fa91f8ada24307b17754a1d1fba2c01190fc54f650d1719e1e9.webp",
+        "sha256": "c86bd086987e0fa91f8ada24307b17754a1d1fba2c01190fc54f650d1719e1e9",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "军徽四格线稿",
+        "军徽",
+        "军事",
+        "军章",
+        "星徽",
+        "步枪",
+        "交叉步枪",
+        "坦克",
+        "战机",
+        "空军",
+        "陆军",
+        "military",
+        "army",
+        "tank",
+        "aircraft"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含星徽、交叉步枪、坦克与战机四款军徽。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-20261016223326-7e15007e",
+      "name": "军徽",
+      "original": {
+        "bytes": 1254913,
+        "format": "png",
+        "height": 1254,
+        "path": "files/7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95.png",
+        "sha256": "7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95",
+        "width": 1254
+      },
+      "published_at": 1792161206000,
+      "revision": "7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-20261016223326-7e15007e",
+      "tags": [
+        "tag-328df90c1e8c431f89aee25bf10a78e9",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 46152,
+        "format": "webp",
+        "height": 384,
+        "path": "files/4baa620e2fbccb35d8ce0a00fc1a620ccc096d10a170cb00edefd25592e5b561.webp",
+        "sha256": "4baa620e2fbccb35d8ce0a00fc1a620ccc096d10a170cb00edefd25592e5b561",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "原子",
+        "磁铁",
+        "磁力",
+        "电磁",
+        "闪电",
+        "电能",
+        "牛顿摆",
+        "科学",
+        "实验",
+        "physics",
+        "atom",
+        "magnet",
+        "electricity"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含原子、磁铁、闪电与牛顿摆徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-2731782da8ae46718e456fee304406a1",
+      "name": "物理徽章四格线稿",
+      "original": {
+        "bytes": 1748102,
+        "format": "png",
+        "height": 1254,
+        "path": "files/6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7.png",
+        "sha256": "6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-2731782da8ae46718e456fee304406a1",
+      "tags": [
+        "tag-480181675bc34e478792a1748a3f6e20",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 68618,
+        "format": "webp",
+        "height": 384,
+        "path": "files/963ecb48bf87f95c5d28cf50cd6a5df4eef1e3d0911fc1e0a46087e2929595fc.webp",
+        "sha256": "963ecb48bf87f95c5d28cf50cd6a5df4eef1e3d0911fc1e0a46087e2929595fc",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318878274",
+        "卡框",
+        "边框",
+        "frame",
+        "银黄",
+        "黄银",
+        "学士帽",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·银黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-3904863fd8734367ba52e8a8e6c0cfcf",
+      "name": "双色卡框·银黄",
+      "original": {
+        "bytes": 283646,
+        "format": "png",
+        "height": 915,
+        "path": "files/6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d.png",
+        "sha256": "6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-3904863fd8734367ba52e8a8e6c0cfcf",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 15642,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6ec89fea342997dc198bf28374016b0f131d66cda895da786a4d21153e889bce.webp",
+        "sha256": "6ec89fea342997dc198bf28374016b0f131d66cda895da786a4d21153e889bce",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318894989",
+        "卡框",
+        "边框",
+        "frame",
+        "棕红",
+        "红棕",
+        "盾牌",
+        "爆裂",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕红，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-3d22644ad8c9467b9e417ee4e287d447",
+      "name": "双色卡框·棕红",
+      "original": {
+        "bytes": 281207,
+        "format": "png",
+        "height": 915,
+        "path": "files/72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d.png",
+        "sha256": "72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-3d22644ad8c9467b9e417ee4e287d447",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 15224,
+        "format": "webp",
+        "height": 384,
+        "path": "files/97b6200c022862617a0098f79089473350f8056c4f1caba737792ea412d2e4c3.webp",
+        "sha256": "97b6200c022862617a0098f79089473350f8056c4f1caba737792ea412d2e4c3",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318810662",
+        "卡框",
+        "边框",
+        "frame",
+        "棕绿",
+        "绿棕",
+        "盾牌",
+        "树叶",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕绿，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-4706163217a34159a8e4221aeee86447",
+      "name": "双色卡框·棕绿",
+      "original": {
+        "bytes": 278653,
+        "format": "png",
+        "height": 915,
+        "path": "files/7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec.png",
+        "sha256": "7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4706163217a34159a8e4221aeee86447",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "green"
+      ],
+      "thumbnail": {
+        "bytes": 15416,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3d4a581265cdb55ed612e7d20c342839f5fdb85beb59a796b05ecff04f94477f.webp",
+        "sha256": "3d4a581265cdb55ed612e7d20c342839f5fdb85beb59a796b05ecff04f94477f",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休007",
+        "卡框",
+        "边框",
+        "frame",
+        "幽紫",
+        "骷髅",
+        "幽灵",
+        "藤蔓",
+        "骨饰"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "幽紫骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-591be064cf5e46f2887c6f5136c7c92f",
+      "name": "幽紫骷髅卡框",
+      "original": {
+        "bytes": 648457,
+        "format": "png",
+        "height": 1888,
+        "path": "files/74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe.png",
+        "sha256": "74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-591be064cf5e46f2887c6f5136c7c92f",
+      "tags": [
+        "purple",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 7312,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0654de272f190687dbeebced66b3ae3a84d6d4586629a2cc0de4fb9e0c0c158b.webp",
+        "sha256": "0654de272f190687dbeebced66b3ae3a84d6d4586629a2cc0de4fb9e0c0c158b",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "齿轮",
+        "活塞",
+        "仪表",
+        "风机",
+        "管道",
+        "机械维修",
+        "扳手",
+        "螺丝刀",
+        "工程",
+        "蒸汽朋克",
+        "工业",
+        "mechanical",
+        "gear",
+        "piston",
+        "engineering"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含齿轮、活塞、风机仪表管道及交叉工具徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-5ffab5f6122b417ba6339b4d2d869b56",
+      "name": "机械徽章四格线稿",
+      "original": {
+        "bytes": 1704204,
+        "format": "png",
+        "height": 1254,
+        "path": "files/7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8.png",
+        "sha256": "7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-5ffab5f6122b417ba6339b4d2d869b56",
+      "tags": [
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 60976,
+        "format": "webp",
+        "height": 384,
+        "path": "files/810c31820a5731ba341eac78f5a00cfb3925574d74a1185e61a5c5a4b10807ac.webp",
+        "sha256": "810c31820a5731ba341eac78f5a00cfb3925574d74a1185e61a5c5a4b10807ac",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318612235",
+        "卡框",
+        "边框",
+        "frame",
+        "绿黄",
+        "黄绿",
+        "树叶",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-66f8c83c963c4331bc5408ddb71f0527",
+      "name": "双色卡框·绿黄",
+      "original": {
+        "bytes": 287292,
+        "format": "png",
+        "height": 915,
+        "path": "files/62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b.png",
+        "sha256": "62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-66f8c83c963c4331bc5408ddb71f0527",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16742,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0f57d52935fcb28f320c0f3c49850bd9a639dd996fdd67a82636c0c8ff2ff017.webp",
+        "sha256": "0f57d52935fcb28f320c0f3c49850bd9a639dd996fdd67a82636c0c8ff2ff017",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318620295",
+        "卡框",
+        "边框",
+        "frame",
+        "绿银",
+        "银绿",
+        "树叶",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-69096455910240de8a7db64a9573cfe6",
+      "name": "双色卡框·绿银",
+      "original": {
+        "bytes": 273619,
+        "format": "png",
+        "height": 915,
+        "path": "files/b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942.png",
+        "sha256": "b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-69096455910240de8a7db64a9573cfe6",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 15078,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1a07c4dc11aa42a108dffccc2a93be97739c63545538c253027f4dc03ca8f154.webp",
+        "sha256": "1a07c4dc11aa42a108dffccc2a93be97739c63545538c253027f4dc03ca8f154",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休006",
+        "卡框",
+        "边框",
+        "frame",
+        "新春",
+        "春节",
+        "竹子",
+        "竹饰",
+        "福签",
+        "桃花",
+        "中式边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "新春竹饰卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-6e01c89d12c445caa10242a054847cf3",
+      "name": "新春竹饰卡框",
+      "original": {
+        "bytes": 444600,
+        "format": "png",
+        "height": 1888,
+        "path": "files/839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883.png",
+        "sha256": "839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6e01c89d12c445caa10242a054847cf3",
+      "tags": [
+        "red",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+        "tag-2f9be048117b4975a9cd98f65dfd537a"
+      ],
+      "thumbnail": {
+        "bytes": 6788,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1581ac688c0beee59d919cf20c89e08ebd3e64f804747aa40c48f7d675590e72.webp",
+        "sha256": "1581ac688c0beee59d919cf20c89e08ebd3e64f804747aa40c48f7d675590e72",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "炼金",
+        "炼金术",
+        "炼金阵",
+        "魔法阵",
+        "符文",
+        "神秘学",
+        "衔尾蛇",
+        "药剂",
+        "坩埚",
+        "alchemy",
+        "alchemical",
+        "occult",
+        "magic"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含炼金阵、药剂瓶、衔尾蛇与坩埚徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-72eaf15aa43040a1b597f3eee7e78978",
+      "name": "炼金术徽章四格线稿",
+      "original": {
+        "bytes": 1474587,
+        "format": "png",
+        "height": 1254,
+        "path": "files/3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e.png",
+        "sha256": "3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-72eaf15aa43040a1b597f3eee7e78978",
+      "tags": [
+        "tag-d68148cafc044a63be920ace56a7856d",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 55464,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6f1a01d3e934cc37f86b1ef1637316e8b626fbaa8056fa1b395e0f34d71189c6.webp",
+        "sha256": "6f1a01d3e934cc37f86b1ef1637316e8b626fbaa8056fa1b395e0f34d71189c6",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318822841",
+        "卡框",
+        "边框",
+        "frame",
+        "棕黄",
+        "黄棕",
+        "盾牌",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-7c5ab7abd696452ea51b7806dda299b9",
+      "name": "双色卡框·棕黄",
+      "original": {
+        "bytes": 290501,
+        "format": "png",
+        "height": 915,
+        "path": "files/a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c.png",
+        "sha256": "a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-7c5ab7abd696452ea51b7806dda299b9",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16232,
+        "format": "webp",
+        "height": 384,
+        "path": "files/07c0783722b124f2998c34c34020b676ef018ccfa6cbbf0dd07e5d8b40a7dffc.webp",
+        "sha256": "07c0783722b124f2998c34c34020b676ef018ccfa6cbbf0dd07e5d8b40a7dffc",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休005",
+        "卡框",
+        "边框",
+        "frame",
+        "暗红",
+        "蝙蝠",
+        "夜色",
+        "蝠翼"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "暗红蝙蝠卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-7d792501349d476faf8685f796720443",
+      "name": "暗红蝙蝠卡框",
+      "original": {
+        "bytes": 480109,
+        "format": "png",
+        "height": 1888,
+        "path": "files/ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303.png",
+        "sha256": "ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-7d792501349d476faf8685f796720443",
+      "tags": [
+        "red",
+        "black",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 4512,
+        "format": "webp",
+        "height": 384,
+        "path": "files/bf156bab1ef6aeedd3f76aceee1c1b55c051855133c7d79620138677d6688a5d.webp",
+        "sha256": "bf156bab1ef6aeedd3f76aceee1c1b55c051855133c7d79620138677d6688a5d",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "化学",
+        "实验室",
+        "量筒",
+        "锥形瓶",
+        "烧杯",
+        "试剂瓶",
+        "药剂",
+        "实验器材",
+        "科学",
+        "白色",
+        "透明PNG",
+        "chemistry",
+        "laboratory",
+        "beaker",
+        "flask"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含量筒、锥形瓶、烧杯与试剂瓶徽章；白色图形适合深色背景。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-86d11e052dba4ac2aba22ddcbd27e284",
+      "name": "化学实验室四格白色图案",
+      "original": {
+        "bytes": 899960,
+        "format": "png",
+        "height": 1254,
+        "path": "files/8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d.png",
+        "sha256": "8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-86d11e052dba4ac2aba22ddcbd27e284",
+      "tags": [
+        "tag-995c1cae82824d529b2fd1e457673db3",
+        "white",
+        "badge",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 46008,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0dba8eb7bdcf2899f23b3a0a810de92ea494d0f2b5fd03c2852a4f7a02e3498e.webp",
+        "sha256": "0dba8eb7bdcf2899f23b3a0a810de92ea494d0f2b5fd03c2852a4f7a02e3498e",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318592924",
+        "卡框",
+        "边框",
+        "frame",
+        "绿红",
+        "红绿",
+        "树叶",
+        "爆裂",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿红，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-905899b24310403983237911e3a9d360",
+      "name": "双色卡框·绿红",
+      "original": {
+        "bytes": 278909,
+        "format": "png",
+        "height": 915,
+        "path": "files/9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b.png",
+        "sha256": "9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-905899b24310403983237911e3a9d360",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 15966,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f2d2584d23c27f8e419f5689a509aec0bd30e62903f5074246ae1b9a08257a36.webp",
+        "sha256": "f2d2584d23c27f8e419f5689a509aec0bd30e62903f5074246ae1b9a08257a36",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "海龟螺猫",
+        "卡框",
+        "边框",
+        "frame",
+        "暗红",
+        "爪痕",
+        "抓痕",
+        "三爪"
+      ],
+      "author": "海龟螺猫",
+      "category": "FRAME",
+      "description": "暗红爪痕卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-9c65840e670740d9ae04f8e4b638ae35",
+      "name": "暗红爪痕卡框",
+      "original": {
+        "bytes": 364412,
+        "format": "png",
+        "height": 1080,
+        "path": "files/072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a.png",
+        "sha256": "072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a",
+        "width": 1080
+      },
+      "published_at": 1792166280000,
+      "revision": "072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-9c65840e670740d9ae04f8e4b638ae35",
+      "tags": [
+        "red",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 12678,
+        "format": "webp",
+        "height": 384,
+        "path": "files/5d18cb7b6476d95b7da1d0fd920469008e238e97ae8bc2b98aa7d8c8d35fd9d5.webp",
+        "sha256": "5d18cb7b6476d95b7da1d0fd920469008e238e97ae8bc2b98aa7d8c8d35fd9d5",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318679116",
+        "卡框",
+        "边框",
+        "frame",
+        "红银",
+        "银红",
+        "爆裂",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·红银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-bec25e56341b4f20b232227e5e5ea18c",
+      "name": "双色卡框·红银",
+      "original": {
+        "bytes": 275050,
+        "format": "png",
+        "height": 915,
+        "path": "files/d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99.png",
+        "sha256": "d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-bec25e56341b4f20b232227e5e5ea18c",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "red",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 14838,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d491b9098689c01c53500554aa01b21df0ed4928ca7731cbd3ba42589c2dd284.webp",
+        "sha256": "d491b9098689c01c53500554aa01b21df0ed4928ca7731cbd3ba42589c2dd284",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "海龟螺猫2",
+        "卡框",
+        "边框",
+        "frame",
+        "红黑",
+        "骷髅",
+        "头骨",
+        "黑红"
+      ],
+      "author": "海龟螺猫2",
+      "category": "FRAME",
+      "description": "红黑骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-c1dca26f47ee4b4182fd20745d60e8f6",
+      "name": "红黑骷髅卡框",
+      "original": {
+        "bytes": 227647,
+        "format": "png",
+        "height": 2201,
+        "path": "files/f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda.png",
+        "sha256": "f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda",
+        "width": 1000
+      },
+      "published_at": 1792166280000,
+      "revision": "f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-c1dca26f47ee4b4182fd20745d60e8f6",
+      "tags": [
+        "red",
+        "black",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 4490,
+        "format": "webp",
+        "height": 384,
+        "path": "files/c27b42c13c5272fd37b60f36b42ca02cb8e1f989adc75083631bfbdc418474b5.webp",
+        "sha256": "c27b42c13c5272fd37b60f36b42ca02cb8e1f989adc75083631bfbdc418474b5",
+        "width": 174
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休004",
+        "卡框",
+        "边框",
+        "frame",
+        "米白",
+        "象牙白",
+        "羽翼",
+        "翅膀",
+        "金色边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "米白羽翼卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-e13a793925a64c868dfabc0c2b66cece",
+      "name": "米白羽翼卡框",
+      "original": {
+        "bytes": 546857,
+        "format": "png",
+        "height": 1888,
+        "path": "files/21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127.png",
+        "sha256": "21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e13a793925a64c868dfabc0c2b66cece",
+      "tags": [
+        "white",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 6000,
+        "format": "webp",
+        "height": 384,
+        "path": "files/06d61fe8f671aa6bf2ce1284db9f9d18db34cecd1f171f7435d8d11c789e8bdc.webp",
+        "sha256": "06d61fe8f671aa6bf2ce1284db9f9d18db34cecd1f171f7435d8d11c789e8bdc",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "元素",
+        "火",
+        "水",
+        "土",
+        "风",
+        "火焰",
+        "水滴",
+        "山岩",
+        "晶体",
+        "旋风",
+        "自然元素",
+        "elemental",
+        "fire",
+        "water",
+        "earth",
+        "wind"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含火焰、水滴、山岩晶体与旋风四种元素徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-e51ba82e9ab74deea7b041ec2b7dded5",
+      "name": "四元素徽章四格线稿",
+      "original": {
+        "bytes": 1643972,
+        "format": "png",
+        "height": 1254,
+        "path": "files/05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2.png",
+        "sha256": "05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e51ba82e9ab74deea7b041ec2b7dded5",
+      "tags": [
+        "tag-42e36e00dfff4546829dfe8c6e126b0c",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 59410,
+        "format": "webp",
+        "height": 384,
+        "path": "files/9701308c5fa8fe981e31b1f9805a4a63453a873ba890869fbeb9bd6c3c299cd2.webp",
+        "sha256": "9701308c5fa8fe981e31b1f9805a4a63453a873ba890869fbeb9bd6c3c299cd2",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "星月",
+        "太阳",
+        "月亮",
+        "星星",
+        "日月",
+        "天体",
+        "星空",
+        "白昼",
+        "夜晚",
+        "星辰",
+        "celestial",
+        "sun",
+        "moon",
+        "stars"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含太阳、弯月星光及日月组合的四款徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-e764ba12d17246c1958197296edfb5c9",
+      "name": "日月星辰徽章四格线稿",
+      "original": {
+        "bytes": 1191166,
+        "format": "png",
+        "height": 1254,
+        "path": "files/eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a.png",
+        "sha256": "eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e764ba12d17246c1958197296edfb5c9",
+      "tags": [
+        "tag-20d6314042a64a4da946b4b1860ae5b4",
+        "star",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 44810,
+        "format": "webp",
+        "height": 384,
+        "path": "files/65cec553a856ccce2c3aca1a459b1956ae6aa5bdea26be4644dc8ca77e8b200c.webp",
+        "sha256": "65cec553a856ccce2c3aca1a459b1956ae6aa5bdea26be4644dc8ca77e8b200c",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318633882",
+        "卡框",
+        "边框",
+        "frame",
+        "棕银",
+        "银棕",
+        "盾牌",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-ed38dd26035a43c6a120007332478497",
+      "name": "双色卡框·棕银",
+      "original": {
+        "bytes": 275526,
+        "format": "png",
+        "height": 915,
+        "path": "files/3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786.png",
+        "sha256": "3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ed38dd26035a43c6a120007332478497",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 14656,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f5b8c0059bc55e36d836f3c67c818652d02e290475d3e833e1283fd0c3e23ca3.webp",
+        "sha256": "f5b8c0059bc55e36d836f3c67c818652d02e290475d3e833e1283fd0c3e23ca3",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318703453",
+        "卡框",
+        "边框",
+        "frame",
+        "红黄",
+        "黄红",
+        "爆裂",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·红黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-f6fe98e4a04e48edb631e8e14fc82353",
+      "name": "双色卡框·红黄",
+      "original": {
+        "bytes": 289762,
+        "format": "png",
+        "height": 915,
+        "path": "files/5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215.png",
+        "sha256": "5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f6fe98e4a04e48edb631e8e14fc82353",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "red",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16538,
+        "format": "webp",
+        "height": 384,
+        "path": "files/e19e2ac77b122031ad73877f46aed4bb9c79f54573f5d7904cf578b0a0bfd0ab.webp",
+        "sha256": "e19e2ac77b122031ad73877f46aed4bb9c79f54573f5d7904cf578b0a0bfd0ab",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "BACKGROUND",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "background-demo-stars",
+      "name": "占位示例·星空底图",
+      "original": {
+        "bytes": 6021,
+        "format": "png",
+        "height": 1000,
+        "path": "files/9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b.png",
+        "sha256": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+        "width": 600
+      },
+      "published_at": 1792135964000,
+      "revision": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/background-demo-stars",
+      "tags": [
+        "demo",
+        "star"
+      ],
+      "thumbnail": {
+        "bytes": 1116,
+        "format": "webp",
+        "height": 384,
+        "path": "files/7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df.webp",
+        "sha256": "7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df",
+        "width": 230
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "PATTERN",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "pattern-demo-flower",
+      "name": "占位示例·花朵图案",
+      "original": {
+        "bytes": 2382,
+        "format": "png",
+        "height": 384,
+        "path": "files/f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08.png",
+        "sha256": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+        "width": 384
+      },
+      "published_at": 1792135964000,
+      "revision": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "pink",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 2312,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e.webp",
+        "sha256": "b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "数学徽章",
+        "圆周率",
+        "积分",
+        "无穷",
+        "几何",
+        "math",
+        "pi",
+        "infinity",
+        "数学符号",
+        "无穷大",
+        "π",
+        "运算",
+        "加减乘除",
+        "圆规"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含圆周率、积分、无穷与几何运算徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "pattern-math-badges",
+      "name": "数学徽章四格线稿",
+      "original": {
+        "bytes": 1367108,
+        "format": "png",
+        "height": 1254,
+        "path": "files/4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408.png",
+        "sha256": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+        "width": 1254
+      },
+      "published_at": 1792151028000,
+      "revision": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-math-badges",
+      "tags": [
+        "math",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 52248,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9.webp",
+        "sha256": "3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "STICKER",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "sticker-demo-flower",
+      "name": "占位示例·花朵贴纸",
+      "original": {
+        "bytes": 1955,
+        "format": "png",
+        "height": 256,
+        "path": "files/87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946.png",
+        "sha256": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+        "width": 256
+      },
+      "published_at": 1792135964000,
+      "revision": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/sticker-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 5338,
+        "format": "webp",
+        "height": 384,
+        "path": "files/a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec.webp",
+        "sha256": "a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "SUBJECT",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "subject-demo-flower",
+      "name": "占位示例·花朵主体",
+      "original": {
+        "bytes": 5093,
+        "format": "png",
+        "height": 640,
+        "path": "files/8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883.png",
+        "sha256": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+        "width": 512
+      },
+      "published_at": 1792135964000,
+      "revision": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/subject-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "plant",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 4832,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1.webp",
+        "sha256": "d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1",
+        "width": 307
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    }
+  ],
+  "schema_version": 1,
+  "tags": [
+    {
+      "aliases": [
+        "示例",
+        "测试",
+        "placeholder"
+      ],
+      "id": "demo",
+      "label": "占位示例"
+    },
+    {
+      "aliases": [
+        "花卉",
+        "鲜花",
+        "flower"
+      ],
+      "id": "flower",
+      "label": "花朵"
+    },
+    {
+      "aliases": [
+        "plant"
+      ],
+      "id": "plant",
+      "label": "植物"
+    },
+    {
+      "aliases": [
+        "金黄",
+        "yellow"
+      ],
+      "id": "yellow",
+      "label": "黄色"
+    },
+    {
+      "aliases": [
+        "pink"
+      ],
+      "id": "pink",
+      "label": "粉色"
+    },
+    {
+      "aliases": [
+        "纹理",
+        "重复",
+        "tile"
+      ],
+      "id": "tile",
+      "label": "平铺"
+    },
+    {
+      "aliases": [
+        "星空",
+        "star"
+      ],
+      "id": "star",
+      "label": "星星"
+    },
+    {
+      "aliases": [
+        "数学符号",
+        "数理",
+        "math"
+      ],
+      "id": "math",
+      "label": "数学"
+    },
+    {
+      "aliases": [
+        "纹章",
+        "badge"
+      ],
+      "id": "badge",
+      "label": "徽章"
+    },
+    {
+      "aliases": [
+        "线条",
+        "黑白",
+        "lineart"
+      ],
+      "id": "lineart",
+      "label": "线稿"
+    },
+    {
+      "aliases": [
+        "炼金",
+        "炼金阵",
+        "神秘学",
+        "alchemy",
+        "occult"
+      ],
+      "id": "tag-d68148cafc044a63be920ace56a7856d",
+      "label": "炼金术"
+    },
+    {
+      "aliases": [
+        "工业",
+        "工程",
+        "齿轮",
+        "mechanical",
+        "engineering"
+      ],
+      "id": "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+      "label": "机械"
+    },
+    {
+      "aliases": [
+        "电磁",
+        "力学",
+        "physics"
+      ],
+      "id": "tag-480181675bc34e478792a1748a3f6e20",
+      "label": "物理"
+    },
+    {
+      "aliases": [
+        "自然元素",
+        "火水土风",
+        "elemental"
+      ],
+      "id": "tag-42e36e00dfff4546829dfe8c6e126b0c",
+      "label": "四元素"
+    },
+    {
+      "aliases": [
+        "军徽",
+        "军章",
+        "military",
+        "army"
+      ],
+      "id": "tag-328df90c1e8c431f89aee25bf10a78e9",
+      "label": "军事"
+    },
+    {
+      "aliases": [
+        "日月星辰",
+        "星月",
+        "天体",
+        "celestial",
+        "astronomy"
+      ],
+      "id": "tag-20d6314042a64a4da946b4b1860ae5b4",
+      "label": "天文"
+    },
+    {
+      "aliases": [
+        "实验室",
+        "实验器材",
+        "chemistry",
+        "laboratory"
+      ],
+      "id": "tag-995c1cae82824d529b2fd1e457673db3",
+      "label": "化学"
+    },
+    {
+      "aliases": [
+        "纯白",
+        "白色图案",
+        "white"
+      ],
+      "id": "white",
+      "label": "白色"
+    },
+    {
+      "aliases": [
+        "双色卡框",
+        "双职业",
+        "two-tone"
+      ],
+      "id": "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+      "label": "双色"
+    },
+    {
+      "aliases": [
+        "绿",
+        "green"
+      ],
+      "id": "green",
+      "label": "绿色"
+    },
+    {
+      "aliases": [
+        "红",
+        "red"
+      ],
+      "id": "red",
+      "label": "红色"
+    },
+    {
+      "aliases": [
+        "银色",
+        "灰银",
+        "gray",
+        "silver"
+      ],
+      "id": "tag-598ead10a7d24ea1ac340378a112a0a0",
+      "label": "灰色"
+    },
+    {
+      "aliases": [
+        "棕",
+        "褐色",
+        "brown"
+      ],
+      "id": "tag-178911e40079466b969cf2c29cf74778",
+      "label": "棕色"
+    },
+    {
+      "aliases": [
+        "蓝",
+        "blue"
+      ],
+      "id": "blue",
+      "label": "蓝色"
+    },
+    {
+      "aliases": [
+        "黑",
+        "black"
+      ],
+      "id": "black",
+      "label": "黑色"
+    },
+    {
+      "aliases": [
+        "紫",
+        "purple"
+      ],
+      "id": "purple",
+      "label": "紫色"
+    },
+    {
+      "aliases": [
+        "金属边框",
+        "metal",
+        "metallic"
+      ],
+      "id": "tag-b95c22f1fd9643d5884b568cd524dd38",
+      "label": "金属"
+    },
+    {
+      "aliases": [
+        "暗色",
+        "哥特",
+        "dark"
+      ],
+      "id": "tag-4dd88a38ef604a80bd07891588c969f1",
+      "label": "暗黑"
+    },
+    {
+      "aliases": [
+        "国风",
+        "中国风",
+        "chinese"
+      ],
+      "id": "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+      "label": "中式"
+    },
+    {
+      "aliases": [
+        "春节",
+        "新春",
+        "festival"
+      ],
+      "id": "tag-2f9be048117b4975a9cd98f65dfd537a",
+      "label": "节日"
+    }
+  ],
+  "version": "resources-4248d5e88817847a"
+}

@@ -1,0 +1,36 @@
+{
+  "aliases": [
+    "元素",
+    "火",
+    "水",
+    "土",
+    "风",
+    "火焰",
+    "水滴",
+    "山岩",
+    "晶体",
+    "旋风",
+    "自然元素",
+    "elemental",
+    "fire",
+    "water",
+    "earth",
+    "wind"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含火焰、水滴、山岩晶体与旋风四种元素徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-e51ba82e9ab74deea7b041ec2b7dded5",
+  "name": "四元素徽章四格线稿",
+  "published_at": "2026-10-16T23:50:33+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e51ba82e9ab74deea7b041ec2b7dded5",
+  "tags": [
+    "tag-42e36e00dfff4546829dfe8c6e126b0c",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

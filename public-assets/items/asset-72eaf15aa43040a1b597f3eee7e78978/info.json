@@ -1,0 +1,33 @@
+{
+  "aliases": [
+    "炼金",
+    "炼金术",
+    "炼金阵",
+    "魔法阵",
+    "符文",
+    "神秘学",
+    "衔尾蛇",
+    "药剂",
+    "坩埚",
+    "alchemy",
+    "alchemical",
+    "occult",
+    "magic"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含炼金阵、药剂瓶、衔尾蛇与坩埚徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-72eaf15aa43040a1b597f3eee7e78978",
+  "name": "炼金术徽章四格线稿",
+  "published_at": "2026-10-16T23:50:33+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-72eaf15aa43040a1b597f3eee7e78978",
+  "tags": [
+    "tag-d68148cafc044a63be920ace56a7856d",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

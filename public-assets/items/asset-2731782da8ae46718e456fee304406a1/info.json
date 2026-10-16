@@ -1,0 +1,33 @@
+{
+  "aliases": [
+    "原子",
+    "磁铁",
+    "磁力",
+    "电磁",
+    "闪电",
+    "电能",
+    "牛顿摆",
+    "科学",
+    "实验",
+    "physics",
+    "atom",
+    "magnet",
+    "electricity"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含原子、磁铁、闪电与牛顿摆徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-2731782da8ae46718e456fee304406a1",
+  "name": "物理徽章四格线稿",
+  "published_at": "2026-10-16T23:50:33+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-2731782da8ae46718e456fee304406a1",
+  "tags": [
+    "tag-480181675bc34e478792a1748a3f6e20",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

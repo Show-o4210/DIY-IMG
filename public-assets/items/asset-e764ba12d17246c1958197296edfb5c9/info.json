@@ -1,0 +1,35 @@
+{
+  "aliases": [
+    "星月",
+    "太阳",
+    "月亮",
+    "星星",
+    "日月",
+    "天体",
+    "星空",
+    "白昼",
+    "夜晚",
+    "星辰",
+    "celestial",
+    "sun",
+    "moon",
+    "stars"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含太阳、弯月星光及日月组合的四款徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-e764ba12d17246c1958197296edfb5c9",
+  "name": "日月星辰徽章四格线稿",
+  "published_at": "2026-10-16T23:50:33+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e764ba12d17246c1958197296edfb5c9",
+  "tags": [
+    "tag-20d6314042a64a4da946b4b1860ae5b4",
+    "star",
+    "badge",
+    "lineart",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

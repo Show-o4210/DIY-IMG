@@ -1,0 +1,35 @@
+{
+  "aliases": [
+    "化学",
+    "实验室",
+    "量筒",
+    "锥形瓶",
+    "烧杯",
+    "试剂瓶",
+    "药剂",
+    "实验器材",
+    "科学",
+    "白色",
+    "透明PNG",
+    "chemistry",
+    "laboratory",
+    "beaker",
+    "flask"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "包含量筒、锥形瓶、烧杯与试剂瓶徽章；白色图形适合深色背景。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+  "file": "original.png",
+  "id": "asset-86d11e052dba4ac2aba22ddcbd27e284",
+  "name": "化学实验室四格白色图案",
+  "published_at": "2026-10-16T23:50:33+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-86d11e052dba4ac2aba22ddcbd27e284",
+  "tags": [
+    "tag-995c1cae82824d529b2fd1e457673db3",
+    "white",
+    "badge",
+    "tile"
+  ],
+  "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+}

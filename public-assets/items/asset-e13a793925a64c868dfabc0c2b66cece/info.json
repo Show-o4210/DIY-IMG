@@ -1,0 +1,27 @@
+{
+  "aliases": [
+    "休004",
+    "卡框",
+    "边框",
+    "frame",
+    "米白",
+    "象牙白",
+    "羽翼",
+    "翅膀",
+    "金色边框"
+  ],
+  "author": "show",
+  "category": "FRAME",
+  "description": "米白羽翼卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+  "file": "original.png",
+  "id": "asset-e13a793925a64c868dfabc0c2b66cece",
+  "name": "米白羽翼卡框",
+  "published_at": "2026-10-16T23:58:00+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e13a793925a64c868dfabc0c2b66cece",
+  "tags": [
+    "white",
+    "tag-b95c22f1fd9643d5884b568cd524dd38"
+  ],
+  "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+}
