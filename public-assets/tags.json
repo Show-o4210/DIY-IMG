@@ -521,5 +521,13 @@
     ],
     "id": "orange",
     "label": "橙色"
+  },
+  {
+    "aliases": [
+      "Android",
+      "安卓机器人"
+    ],
+    "id": "tag-2ad5a274836c4e2aa489af931a5986f4",
+    "label": "安卓"
   }
 ]
