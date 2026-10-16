@@ -61,6 +61,18 @@ class PublicAssetsTest(unittest.TestCase):
         self.assertNotEqual(old['version'], new['version'])
         self.assertEqual(old['items'][0]['revision'], new['items'][0]['revision'])
 
+    def test_publication_time_is_explicit_timezone_aware_and_legacy_optional(self):
+        old = builder.compile_catalog(self.root, True)
+        self.assertEqual(0, old['items'][0]['published_at'])
+        self.info['published_at'] = '2024-01-01T08:00:00+08:00'; self.write_info()
+        new = builder.compile_catalog(self.root, True)
+        self.assertEqual(1704067200000, new['items'][0]['published_at'])
+        self.assertEqual(old['items'][0]['revision'], new['items'][0]['revision'])
+        for bad in ['2024-01-01', 'not-a-date', '1969-01-01T00:00:00Z', 1704067200000]:
+            self.info['published_at'] = bad; self.write_info()
+            with self.assertRaises(ValueError):
+                builder.compile_catalog(self.root, True)
+
 
 if __name__ == '__main__':
     unittest.main()

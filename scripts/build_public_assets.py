@@ -5,6 +5,7 @@ import argparse
 import hashlib
 import json
 import re
+from datetime import datetime, timezone, timedelta
 from io import BytesIO
 from pathlib import Path
 from urllib.parse import urlparse
@@ -36,6 +37,23 @@ def strings(values):
     result = [text(x, 80) for x in values]
     require(len(result) == len(set(result)), '标签 / 别名重复')
     return result
+
+
+def published_at(info):
+    """Missing legacy dates sort before known dates; never infer from local file mtimes."""
+    value = info.get('published_at')
+    if value is None:
+        return 0
+    require(isinstance(value, str), '上架时间必须为带时区的 ISO 8601 文字')
+    try:
+        date = datetime.fromisoformat(value.replace('Z', '+00:00'))
+        require(date.tzinfo is not None, '上架时间必须包含时区')
+        epoch = datetime(1970, 1, 1, tzinfo=timezone.utc)
+        stamp = (date.astimezone(timezone.utc) - epoch) // timedelta(milliseconds=1)
+    except (ValueError, OverflowError) as error:
+        raise ValueError('上架时间无效') from error
+    require(0 <= stamp <= 253402300799999, '上架时间超出范围')
+    return stamp
 
 
 def image_spec(data, thumbnail=False):
@@ -104,7 +122,7 @@ def compile_catalog(root=ROOT, build=False):
         write_immutable(root / spec['path'], original, build)
         write_immutable(root / thumb_spec['path'], thumb_data, build)
         item = {k: info[k] for k in ['id', 'name', 'category', 'tags', 'author', 'source_url', 'usage']}
-        item.update(aliases=info.get('aliases', []), description=info.get('description', ''), ribbon_scope=info.get('ribbon_scope', 'COMMON'),
+        item.update(aliases=info.get('aliases', []), description=info.get('description', ''), ribbon_scope=info.get('ribbon_scope', 'COMMON'), published_at=published_at(info),
                     revision=spec['sha256'], original=spec, thumbnail=thumb_spec)
         items.append(item)
     content = {'schema_version': 1, 'tags': tags, 'items': items}

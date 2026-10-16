@@ -8,6 +8,7 @@
 
 1. 在 `items/<固定ID>/` 放入 `original.png` 或 `original.jpg`，新增 `info.json`，参考现有占位示例。ID 一经使用不要修改或分配给另一资源。
 2. 填写 `name`、`category`、`tags`、`author`、`source_url`、`usage`、`description`、`aliases` 和 `file`。标签引用 `tags.json` 中的 ID，显示时客户端添加 `#`；同义词放在标签 aliases，不重复创建同义标签。
+   新素材同时填写 `published_at`，例如 `2026-10-16T19:43:48+08:00`（必须包含时区），表示首次上架时间；后续改名称、标签或图片时保留它。客户端默认按上架时间从新到旧，并可切换旧到新、名称正序 / 倒序；不会使用缓存文件时间。历史五项按首次资源提交时间补齐，旧输入缺省为 0（时间未知）；新客户端仍能读取旧目录，旧客户端会忽略这个可选字段。
 3. 运行 `python scripts/build_public_assets.py --build`，自动生成缩略图、原图 / 缩略图哈希文件与客户端目录；运行 `python scripts/build_public_assets.py` 和 `python -m unittest discover -s tests -v` 校验。
 4. 提交原图、说明、缩略图、生成文件和目录。协作者通过 PR 提交，由维护者审核合并。公开前先确认素材可用于下载、创作及对应分享用途；精选的展示授权不自动扩展到素材再利用。
 
