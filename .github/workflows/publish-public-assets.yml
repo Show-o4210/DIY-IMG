@@ -1,0 +1,38 @@
+name: Publish public materials to GitHub Pages
+on:
+  push:
+    branches: [main]
+    paths: ['public-assets/**', 'scripts/build_public_assets.py', '.github/workflows/publish-public-assets.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: public-assets-pages
+  cancel-in-progress: true
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements-publish.txt
+      - run: python scripts/build_public_assets.py
+      - name: Stage only public materials
+        run: |
+          mkdir -p _public_site
+          cp -R public-assets _public_site/public-assets
+          cp public-assets/index.html _public_site/index.html
+          touch _public_site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _public_site
+      - uses: actions/deploy-pages@v4
+        id: deploy
