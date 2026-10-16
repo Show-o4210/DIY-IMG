@@ -265,5 +265,261 @@
     ],
     "id": "tag-2f9be048117b4975a9cd98f65dfd537a",
     "label": "节日"
+  },
+  {
+    "aliases": [
+      "僵尸角色",
+      "zombie"
+    ],
+    "id": "tag-96bd1072c0b1493085f0026b51a49a42",
+    "label": "僵尸"
+  },
+  {
+    "aliases": [
+      "豌豆射手",
+      "pea",
+      "peashooter"
+    ],
+    "id": "tag-687d815ee5cd45f9af830c5b66286929",
+    "label": "豌豆"
+  },
+  {
+    "aliases": [
+      "太阳花",
+      "sunflower"
+    ],
+    "id": "tag-e45dc97cb325441eb6a5eb268e24f4c3",
+    "label": "向日葵"
+  },
+  {
+    "aliases": [
+      "菌菇",
+      "mushroom"
+    ],
+    "id": "tag-20d30a39902047c1a72148a230dba8af",
+    "label": "蘑菇"
+  },
+  {
+    "aliases": [
+      "火爆辣椒",
+      "pepper"
+    ],
+    "id": "tag-e66caa3363e24dcca05184220c4c3f3a",
+    "label": "辣椒"
+  },
+  {
+    "aliases": [
+      "机器人",
+      "机械载具",
+      "mecha",
+      "robot"
+    ],
+    "id": "tag-13a34529f254489da39505a0197fe64f",
+    "label": "机甲"
+  },
+  {
+    "aliases": [
+      "未来",
+      "高科技",
+      "sci-fi"
+    ],
+    "id": "tag-ae5a694191254de1a8aadf374593bc1b",
+    "label": "科幻"
+  },
+  {
+    "aliases": [
+      "古埃及",
+      "法老",
+      "egypt"
+    ],
+    "id": "tag-428baff549e7486e93a1d02578d86172",
+    "label": "埃及"
+  },
+  {
+    "aliases": [
+      "火",
+      "喷火",
+      "fire"
+    ],
+    "id": "tag-952308829dc94b298e0cb5c5e851503d",
+    "label": "火焰"
+  },
+  {
+    "aliases": [
+      "电光",
+      "电弧",
+      "闪电",
+      "electric"
+    ],
+    "id": "tag-c93adab081bc41549f85261c385053ac",
+    "label": "雷电"
+  },
+  {
+    "aliases": [
+      "歌唱",
+      "舞台",
+      "music"
+    ],
+    "id": "tag-7f7d8c3920024eaa88a9e05ac15b522c",
+    "label": "音乐"
+  },
+  {
+    "aliases": [
+      "冰",
+      "冰面",
+      "ice"
+    ],
+    "id": "tag-0b4477f505a74f718f8f57a58bb0c5e7",
+    "label": "冰雪"
+  },
+  {
+    "aliases": [
+      "爆弹",
+      "炸弹",
+      "explosive"
+    ],
+    "id": "tag-db61f628292e4a7b8e8323b20caa1654",
+    "label": "爆炸"
+  },
+  {
+    "aliases": [
+      "毒素",
+      "毒",
+      "poison"
+    ],
+    "id": "tag-afb0c824e120447eb1bbc26bca4f0ce6",
+    "label": "毒液"
+  },
+  {
+    "aliases": [
+      "服装",
+      "伪装",
+      "costume"
+    ],
+    "id": "tag-a90921b2fd31416cb9d1ee2b8622d79b",
+    "label": "装扮"
+  },
+  {
+    "aliases": [
+      "冬青浆果",
+      "holly"
+    ],
+    "id": "tag-71895e1e50a44752bf9d385555e79192",
+    "label": "冬青"
+  },
+  {
+    "aliases": [
+      "墓碑",
+      "坟墓",
+      "graveyard"
+    ],
+    "id": "tag-00e16cf749b242be93738beee266c94a",
+    "label": "墓地"
+  },
+  {
+    "aliases": [
+      "幽魂",
+      "亡灵",
+      "ghost"
+    ],
+    "id": "tag-dc958d1634254e03984b9224614058d1",
+    "label": "幽灵"
+  },
+  {
+    "aliases": [
+      "导弹",
+      "推进",
+      "rocket"
+    ],
+    "id": "tag-14af4986f07d4533b89820dbb840cf24",
+    "label": "火箭"
+  },
+  {
+    "aliases": [
+      "科学家",
+      "实验",
+      "science"
+    ],
+    "id": "tag-b5927b1682db4f30b74f81703aa24c93",
+    "label": "科学"
+  },
+  {
+    "aliases": [
+      "肌肉",
+      "健身",
+      "strength"
+    ],
+    "id": "tag-385593fee23745d98bf48d25337c7fcb",
+    "label": "力量"
+  },
+  {
+    "aliases": [
+      "真人",
+      "人像",
+      "person"
+    ],
+    "id": "tag-8b52a20311af413a96b513941bfe921e",
+    "label": "人物"
+  },
+  {
+    "aliases": [
+      "banana"
+    ],
+    "id": "tag-ee82e33f40e84c82bbbd1f949d1895c5",
+    "label": "香蕉"
+  },
+  {
+    "aliases": [
+      "树桩",
+      "树干",
+      "木头",
+      "tree",
+      "wood"
+    ],
+    "id": "tag-440f51ce44b842b997f7a0f4bef8b181",
+    "label": "树木"
+  },
+  {
+    "aliases": [
+      "种荚",
+      "种壳",
+      "seed"
+    ],
+    "id": "tag-264e6528778943119f465979b7f52521",
+    "label": "种子"
+  },
+  {
+    "aliases": [
+      "果子",
+      "fruit"
+    ],
+    "id": "tag-31cc1de23c9a45e4b058d32b125b42ac",
+    "label": "果实"
+  },
+  {
+    "aliases": [
+      "法术",
+      "魔幻",
+      "magic"
+    ],
+    "id": "tag-5a4f1386714145a4be3be6167eddd586",
+    "label": "魔法"
+  },
+  {
+    "aliases": [
+      "水环",
+      "流水",
+      "water"
+    ],
+    "id": "tag-b065a4e51760488d80b2978194b2f271",
+    "label": "水系"
+  },
+  {
+    "aliases": [
+      "橙",
+      "orange"
+    ],
+    "id": "orange",
+    "label": "橙色"
   }
 ]
