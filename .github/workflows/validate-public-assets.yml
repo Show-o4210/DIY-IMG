@@ -1,0 +1,19 @@
+name: Validate public materials
+on:
+  push:
+    paths: ['public-assets/**', 'scripts/build_public_assets.py', 'tests/test_public_assets.py', '.github/workflows/validate-public-assets.yml']
+  pull_request:
+    paths: ['public-assets/**', 'scripts/build_public_assets.py', 'tests/test_public_assets.py', '.github/workflows/validate-public-assets.yml']
+permissions:
+  contents: read
+jobs:
+  public-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements-publish.txt
+      - run: python scripts/build_public_assets.py
+      - run: python -m unittest discover -s tests -v

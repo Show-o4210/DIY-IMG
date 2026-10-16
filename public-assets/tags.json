@@ -1,0 +1,9 @@
+[
+  {"id": "demo", "label": "占位示例", "aliases": ["示例", "测试", "placeholder"]},
+  {"id": "flower", "label": "花朵", "aliases": ["花卉", "鲜花", "flower"]},
+  {"id": "plant", "label": "植物", "aliases": ["plant"]},
+  {"id": "yellow", "label": "黄色", "aliases": ["金黄", "yellow"]},
+  {"id": "pink", "label": "粉色", "aliases": ["pink"]},
+  {"id": "tile", "label": "平铺", "aliases": ["纹理", "重复", "tile"]},
+  {"id": "star", "label": "星星", "aliases": ["星空", "star"]}
+]
