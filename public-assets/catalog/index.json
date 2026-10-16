@@ -1,6 +1,6 @@
 {
-  "manifest": "catalog/manifests/0cdf27b8f6e4e740e7d444e28353c4eec288522a84997da689cfc20123ebb80d.json",
+  "manifest": "catalog/manifests/e7d79bf56250a12a4e015abef2e575067dba0c3753f1175e9ba5a0927326e25b.json",
   "schema_version": 1,
-  "sha256": "0cdf27b8f6e4e740e7d444e28353c4eec288522a84997da689cfc20123ebb80d",
-  "version": "resources-8989918533a51275"
+  "sha256": "e7d79bf56250a12a4e015abef2e575067dba0c3753f1175e9ba5a0927326e25b",
+  "version": "resources-1d30b68b103401a4"
 }

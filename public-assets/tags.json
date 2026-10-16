@@ -529,5 +529,13 @@
     ],
     "id": "tag-2ad5a274836c4e2aa489af931a5986f4",
     "label": "安卓"
+  },
+  {
+    "aliases": [
+      "方舟",
+      "Arknights"
+    ],
+    "id": "tag-1d229bb75c4245eca6abbd8cf867a122",
+    "label": "明日方舟"
   }
 ]
