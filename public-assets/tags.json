@@ -537,5 +537,26 @@
     ],
     "id": "tag-1d229bb75c4245eca6abbd8cf867a122",
     "label": "明日方舟"
+  },
+  {
+    "aliases": [
+      "Shu"
+    ],
+    "id": "tag-90266d2e35134994a7613f699be4c817",
+    "label": "黍"
+  },
+  {
+    "aliases": [
+      "Platinum"
+    ],
+    "id": "tag-2fe5ec63414649a3828a53278744cb88",
+    "label": "白金"
+  },
+  {
+    "aliases": [
+      "Lappland"
+    ],
+    "id": "tag-f923342ec19c4d1dbd13251bc92bda21",
+    "label": "拉普兰德"
   }
 ]

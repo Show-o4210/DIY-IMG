@@ -1,0 +1,29 @@
+{
+  "aliases": [
+    "黍",
+    "Shu",
+    "嘉禾盈仓",
+    "shu-pattern.png",
+    "明日方舟",
+    "AI辅助"
+  ],
+  "author": "show",
+  "category": "PATTERN",
+  "description": "明日方舟角色「黍」配套原创设计，show策划、AI辅助制作。稻穗与水纹透明平铺图案；建议深玉绿底色#173A31，图案缩放100%、不透明度20%。 套系题名为原创设计用名，并非官方技能名。",
+  "file": "original.png",
+  "id": "asset-f42db85384b743498e9089de9f4c7b06",
+  "name": "明日方舟 · 黍 · 丰稔图案",
+  "published_at": "2026-10-18T00:37:18+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f42db85384b743498e9089de9f4c7b06",
+  "tags": [
+    "tag-1d229bb75c4245eca6abbd8cf867a122",
+    "tag-90266d2e35134994a7613f699be4c817",
+    "plant",
+    "yellow",
+    "green",
+    "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+    "tile"
+  ],
+  "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+}

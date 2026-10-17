@@ -1,0 +1,5321 @@
+{
+  "items": [
+    {
+      "aliases": [
+        "黍",
+        "Shu",
+        "嘉禾盈仓",
+        "shu-ribbon-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "RIBBON",
+      "description": "明日方舟角色「黍」配套原创设计，show策划、AI辅助制作。普通卡彩带，完整1000×2201透明大底图，文字中心(500,1302.5)；请保持完整画布，不裁成窄条。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-007351da5f914b8ca8b336debd480927",
+      "name": "明日方舟 · 黍 · 嘉禾盈仓彩带",
+      "original": {
+        "bytes": 265697,
+        "format": "png",
+        "height": 2201,
+        "path": "files/91c3ee9b974ee4d333fa9b763c1ff53f10267ed404e21e75e40a3ee7db6c6542.png",
+        "sha256": "91c3ee9b974ee4d333fa9b763c1ff53f10267ed404e21e75e40a3ee7db6c6542",
+        "width": 1000
+      },
+      "published_at": 1792255038000,
+      "revision": "91c3ee9b974ee4d333fa9b763c1ff53f10267ed404e21e75e40a3ee7db6c6542",
+      "ribbon_scope": "CARD",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-007351da5f914b8ca8b336debd480927",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-90266d2e35134994a7613f699be4c817",
+        "yellow",
+        "green",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9"
+      ],
+      "thumbnail": {
+        "bytes": 3506,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6e27f8dde785673ed4b9ad65476b7db2877a6a7b0f996f768f2d3f7febe60e37.webp",
+        "sha256": "6e27f8dde785673ed4b9ad65476b7db2877a6a7b0f996f768f2d3f7febe60e37",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "拉普兰德",
+        "03.png",
+        "03",
+        "明日方舟",
+        "双刀",
+        "狼耳",
+        "白发"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "明日方舟角色「拉普兰德」主题创作，作者 show；保留原始透明 PNG 字节、尺寸及完整画布。",
+      "id": "asset-0aadf5fe7da641e2a3cc44201f40fde4",
+      "name": "明日方舟 · 拉普兰德",
+      "original": {
+        "bytes": 1918151,
+        "format": "png",
+        "height": 1199,
+        "path": "files/c25024e5adb194784f7a641e88909be2a04a5a769b2fa25e55d1121dcad4d1d9.png",
+        "sha256": "c25024e5adb194784f7a641e88909be2a04a5a769b2fa25e55d1121dcad4d1d9",
+        "width": 1312
+      },
+      "published_at": 1792178414000,
+      "revision": "c25024e5adb194784f7a641e88909be2a04a5a769b2fa25e55d1121dcad4d1d9",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-0aadf5fe7da641e2a3cc44201f40fde4",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-8b52a20311af413a96b513941bfe921e",
+        "white",
+        "black",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 45404,
+        "format": "webp",
+        "height": 351,
+        "path": "files/9f4db4b8fc20d68b553bd6a9926cbbf7ada9b22faabd2545f8580b4569b0a3d8.webp",
+        "sha256": "9f4db4b8fc20d68b553bd6a9926cbbf7ada9b22faabd2545f8580b4569b0a3d8",
+        "width": 384
+      },
+      "usage": "本图作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "白金",
+        "02.png",
+        "02",
+        "明日方舟",
+        "弓箭",
+        "弓手",
+        "白发"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "明日方舟角色「白金」主题创作，作者 show；保留原始透明 PNG 字节、尺寸及完整画布。",
+      "id": "asset-0bef05ce119346428890c7598334d9cd",
+      "name": "明日方舟 · 白金",
+      "original": {
+        "bytes": 2110363,
+        "format": "png",
+        "height": 1375,
+        "path": "files/8684261dfb08273eb757760b615a990ca4b995c8d4f1c102977f44b5cb6d02cd.png",
+        "sha256": "8684261dfb08273eb757760b615a990ca4b995c8d4f1c102977f44b5cb6d02cd",
+        "width": 1144
+      },
+      "published_at": 1792178414000,
+      "revision": "8684261dfb08273eb757760b615a990ca4b995c8d4f1c102977f44b5cb6d02cd",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-0bef05ce119346428890c7598334d9cd",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-8b52a20311af413a96b513941bfe921e",
+        "plant",
+        "white",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 49904,
+        "format": "webp",
+        "height": 384,
+        "path": "files/e535e309cb5d415dfaccbdc8eb0525db126d0cebb1cc5e104180ce535b4828f8.webp",
+        "sha256": "e535e309cb5d415dfaccbdc8eb0525db126d0cebb1cc5e104180ce535b4828f8",
+        "width": 319
+      },
+      "usage": "本图作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "侏罗纪老头",
+        "主角",
+        "主体",
+        "立绘",
+        "肌肉",
+        "健身",
+        "人物",
+        "黑色短裤"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "真人风格的肌肉人物主体，沿用作者文件名。保留原始透明 PNG、画布与像素。",
+      "id": "asset-0c5a81f471a94b28afee56afe17c6456",
+      "name": "侏罗纪老头",
+      "original": {
+        "bytes": 1889367,
+        "format": "png",
+        "height": 1347,
+        "path": "files/3881468fe812fa440a46d7a475bd367e440d75268e7945772f821d0ad5ccb447.png",
+        "sha256": "3881468fe812fa440a46d7a475bd367e440d75268e7945772f821d0ad5ccb447",
+        "width": 1168
+      },
+      "published_at": 1792168734000,
+      "revision": "3881468fe812fa440a46d7a475bd367e440d75268e7945772f821d0ad5ccb447",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-0c5a81f471a94b28afee56afe17c6456",
+      "tags": [
+        "tag-8b52a20311af413a96b513941bfe921e",
+        "tag-385593fee23745d98bf48d25337c7fcb"
+      ],
+      "thumbnail": {
+        "bytes": 17600,
+        "format": "webp",
+        "height": 384,
+        "path": "files/727007d526cc2cb81a00267d054cc8312aa5e552c0b306f2c45fb76987f4c7e2.webp",
+        "sha256": "727007d526cc2cb81a00267d054cc8312aa5e552c0b306f2c45fb76987f4c7e2",
+        "width": 333
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT 图像 2026年9月28日 23_56_17.png",
+        "ChatGPT 图像 2026年9月28日 23_56_17",
+        "Android",
+        "安卓机器人",
+        "圆润",
+        "圆身"
+      ],
+      "author": "show",
+      "category": "BACKGROUND",
+      "description": "整张竖版背景底图，保留原始 PNG 字节及完整画布，按作者指定归入背景底图分区；显示名称按画面特征整理。",
+      "id": "asset-103ef3375df6499bae3c8db24a89f293",
+      "name": "安卓机器人背景（圆润）",
+      "original": {
+        "bytes": 1517722,
+        "format": "png",
+        "height": 1672,
+        "path": "files/96bf4f128a13b883e3bec98a71aa583cb6a0d5dd699022575280a759e1ac39a3.png",
+        "sha256": "96bf4f128a13b883e3bec98a71aa583cb6a0d5dd699022575280a759e1ac39a3",
+        "width": 941
+      },
+      "published_at": 1792172160000,
+      "revision": "96bf4f128a13b883e3bec98a71aa583cb6a0d5dd699022575280a759e1ac39a3",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-103ef3375df6499bae3c8db24a89f293",
+      "tags": [
+        "green",
+        "tag-2ad5a274836c4e2aa489af931a5986f4",
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f"
+      ],
+      "thumbnail": {
+        "bytes": 24166,
+        "format": "webp",
+        "height": 384,
+        "path": "files/984eee4a3bc6f51aa6540e4b786d9edb3856b8565c4bd493b55aeadea503e39f.webp",
+        "sha256": "984eee4a3bc6f51aa6540e4b786d9edb3856b8565c4bd493b55aeadea503e39f",
+        "width": 216
+      },
+      "usage": "作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "ChatGPT 图像 2026年9月27日 23_32_25.png",
+        "ChatGPT 图像 2026年9月27日 23_32_25",
+        "浅紫",
+        "淡紫",
+        "叶芽",
+        "齿轮",
+        "盾牌"
+      ],
+      "author": "show",
+      "category": "BACKGROUND",
+      "description": "整张竖版背景底图，保留原始 PNG 字节及完整画布，按作者指定归入背景底图分区；显示名称按画面特征整理。",
+      "id": "asset-142fc81e938549f894dcceafe868dd57",
+      "name": "浅紫叶芽齿轮背景",
+      "original": {
+        "bytes": 1530863,
+        "format": "png",
+        "height": 1672,
+        "path": "files/50eca69bbfcf8cb8fa8757255b4492a0b8735778b1eb3bb37311c198c24b7bef.png",
+        "sha256": "50eca69bbfcf8cb8fa8757255b4492a0b8735778b1eb3bb37311c198c24b7bef",
+        "width": 941
+      },
+      "published_at": 1792172160000,
+      "revision": "50eca69bbfcf8cb8fa8757255b4492a0b8735778b1eb3bb37311c198c24b7bef",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-142fc81e938549f894dcceafe868dd57",
+      "tags": [
+        "purple",
+        "plant",
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+        "badge"
+      ],
+      "thumbnail": {
+        "bytes": 20156,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1afe25cf8076a7db42e8e106be3c8500c7cd5c7fa2ea088d901459702a37a109.webp",
+        "sha256": "1afe25cf8076a7db42e8e106be3c8500c7cd5c7fa2ea088d901459702a37a109",
+        "width": 216
+      },
+      "usage": "作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "白金",
+        "Platinum",
+        "银羽弦音",
+        "platinum-pattern-large-unit.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "明日方舟角色「白金」配套原创设计，show策划、AI辅助制作。单个弓箭羽饰透明纹样；建议深灰蓝底色#202532，图案缩放175%、不透明度20%，可见卡面约4×4疏朗密度，边缘会截断。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-17c1c21bbddc4caf93962fb51f184324",
+      "name": "明日方舟 · 白金 · 银羽弓箭图案",
+      "original": {
+        "bytes": 664890,
+        "format": "png",
+        "height": 1254,
+        "path": "files/8b2128e63e7273c19c3edd28015db565d834e1a67faba3df967757f3679117b5.png",
+        "sha256": "8b2128e63e7273c19c3edd28015db565d834e1a67faba3df967757f3679117b5",
+        "width": 1254
+      },
+      "published_at": 1792255038000,
+      "revision": "8b2128e63e7273c19c3edd28015db565d834e1a67faba3df967757f3679117b5",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-17c1c21bbddc4caf93962fb51f184324",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-2fe5ec63414649a3828a53278744cb88",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "white",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 22110,
+        "format": "webp",
+        "height": 384,
+        "path": "files/cb01676594e710e03ae695cb657d5af163149716f8f288f757503b5e0f1477bd.webp",
+        "sha256": "cb01676594e710e03ae695cb657d5af163149716f8f288f757503b5e0f1477bd",
+        "width": 384
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1788268912707",
+        "主角",
+        "主体",
+        "立绘",
+        "叶帽",
+        "绿果",
+        "果子",
+        "叶片",
+        "green fruit"
+      ],
+      "author": "食虎草",
+      "category": "SUBJECT",
+      "description": "戴叶片帽、带夸张表情的绿色果实造型。保留原始透明 PNG、1080 × 1080 画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-1880ab10504b4a289b91eeee0e7698b3",
+      "name": "叶帽绿果",
+      "original": {
+        "bytes": 144157,
+        "format": "png",
+        "height": 1080,
+        "path": "files/11fd71e68ad095263fb26d5e5ff87842c786f30928b6b0a69a93a53962b52341.png",
+        "sha256": "11fd71e68ad095263fb26d5e5ff87842c786f30928b6b0a69a93a53962b52341",
+        "width": 1080
+      },
+      "published_at": 1792169198000,
+      "revision": "11fd71e68ad095263fb26d5e5ff87842c786f30928b6b0a69a93a53962b52341",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1880ab10504b4a289b91eeee0e7698b3",
+      "tags": [
+        "plant",
+        "tag-31cc1de23c9a45e4b058d32b125b42ac",
+        "green"
+      ],
+      "thumbnail": {
+        "bytes": 8536,
+        "format": "webp",
+        "height": 384,
+        "path": "files/de662801365e1654586f5686e4d34dab9263fe6949cbb9ec41510c472c5d4297.webp",
+        "sha256": "de662801365e1654586f5686e4d34dab9263fe6949cbb9ec41510c472c5d4297",
+        "width": 384
+      },
+      "usage": "作者：食虎草；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休003",
+        "卡框",
+        "边框",
+        "frame",
+        "蓝银",
+        "盾牌",
+        "盾纹",
+        "金属边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "蓝银盾纹卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+      "name": "蓝银盾纹卡框",
+      "original": {
+        "bytes": 429674,
+        "format": "png",
+        "height": 1888,
+        "path": "files/3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94.png",
+        "sha256": "3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "3b0751b2e2e6ece1204487dcc2fac08e0ad242f2576d6e069d3f34726d2a2d94",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-19f1d492ad1d4f1e9bf9de0ca68e7748",
+      "tags": [
+        "blue",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 5278,
+        "format": "webp",
+        "height": 384,
+        "path": "files/c86bd086987e0fa91f8ada24307b17754a1d1fba2c01190fc54f650d1719e1e9.webp",
+        "sha256": "c86bd086987e0fa91f8ada24307b17754a1d1fba2c01190fc54f650d1719e1e9",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "拉普兰德",
+        "Lappland",
+        "霜刃夜行",
+        "lappland-pattern.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "明日方舟角色「拉普兰德」配套原创设计，show策划、AI辅助制作。单个双刃黑晶透明纹样；建议炭灰底色#25252C，图案缩放175%、不透明度20%，可见卡面约4×4疏朗密度，边缘会截断。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-1a0a524872cf46c8ad5c9ec2d284132c",
+      "name": "明日方舟 · 拉普兰德 · 霜刃黑晶图案",
+      "original": {
+        "bytes": 864547,
+        "format": "png",
+        "height": 1254,
+        "path": "files/9610a4d1af428786bdb26c0b8573e8ecebe8ba70e401417c9017678497701a30.png",
+        "sha256": "9610a4d1af428786bdb26c0b8573e8ecebe8ba70e401417c9017678497701a30",
+        "width": 1254
+      },
+      "published_at": 1792255038000,
+      "revision": "9610a4d1af428786bdb26c0b8573e8ecebe8ba70e401417c9017678497701a30",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1a0a524872cf46c8ad5c9ec2d284132c",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-f923342ec19c4d1dbd13251bc92bda21",
+        "black",
+        "white",
+        "tag-4dd88a38ef604a80bd07891588c969f1",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 25542,
+        "format": "webp",
+        "height": 384,
+        "path": "files/03bcf9c4445d06db0c7132e9f05c2ca5f7ac507ed81586503e8ee545f9812413.webp",
+        "sha256": "03bcf9c4445d06db0c7132e9f05c2ca5f7ac507ed81586503e8ee545f9812413",
+        "width": 384
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "exec-84cad786-395e-4bfa-b705-20e74c333271",
+        "主角",
+        "主体",
+        "立绘",
+        "导弹",
+        "火箭",
+        "推进",
+        "喷射"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "带火焰推进尾部的冬青导弹。保留原始透明 PNG、画布与像素。",
+      "id": "asset-1b93307c6fc141e28475ad21bb3bb9f2",
+      "name": "冬青导弹",
+      "original": {
+        "bytes": 1355910,
+        "format": "png",
+        "height": 1024,
+        "path": "files/d777dcd71166bd12ecf4d2e2326869e5ccecc691ea5b6a9c110d2c251ce3d99c.png",
+        "sha256": "d777dcd71166bd12ecf4d2e2326869e5ccecc691ea5b6a9c110d2c251ce3d99c",
+        "width": 1536
+      },
+      "published_at": 1792168733000,
+      "revision": "d777dcd71166bd12ecf4d2e2326869e5ccecc691ea5b6a9c110d2c251ce3d99c",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1b93307c6fc141e28475ad21bb3bb9f2",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "tag-14af4986f07d4533b89820dbb840cf24",
+        "tag-952308829dc94b298e0cb5c5e851503d"
+      ],
+      "thumbnail": {
+        "bytes": 15664,
+        "format": "webp",
+        "height": 256,
+        "path": "files/d45353883106955ee4a9e2e4e0263f227cc1cce929f3b923a3291f89ac6e829f.webp",
+        "sha256": "d45353883106955ee4a9e2e4e0263f227cc1cce929f3b923a3291f89ac6e829f",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-2008c94c-d5a9-42d4-820f-61da9259e44e",
+        "主角",
+        "主体",
+        "立绘",
+        "皇帝",
+        "王冠",
+        "皇冠",
+        "国王"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "佩戴王冠的红色冬青组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-1bf05aec58c545f5a665f4ca06f9d2fd",
+      "name": "冬青皇帝",
+      "original": {
+        "bytes": 1045817,
+        "format": "png",
+        "height": 1153,
+        "path": "files/ba7bddf29bb9e10cffcb3874083a056dd9306bc753fd6e33cb7fb928bfc5a702.png",
+        "sha256": "ba7bddf29bb9e10cffcb3874083a056dd9306bc753fd6e33cb7fb928bfc5a702",
+        "width": 1364
+      },
+      "published_at": 1792168733000,
+      "revision": "ba7bddf29bb9e10cffcb3874083a056dd9306bc753fd6e33cb7fb928bfc5a702",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1bf05aec58c545f5a665f4ca06f9d2fd",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 24630,
+        "format": "webp",
+        "height": 325,
+        "path": "files/57d5a8edd1fbd4b504faa06127eb23578134be35569acb9cd3fedf7bd0c7023a.webp",
+        "sha256": "57d5a8edd1fbd4b504faa06127eb23578134be35569acb9cd3fedf7bd0c7023a",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787879084527",
+        "主角",
+        "主体",
+        "立绘",
+        "紫色花瓣",
+        "花装",
+        "花瓣外套",
+        "伪装",
+        "petal"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "紫色花瓣环绕的僵尸造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-1e5758ab07ef4c428e20db619aa514ee",
+      "name": "紫瓣僵尸",
+      "original": {
+        "bytes": 751337,
+        "format": "png",
+        "height": 1080,
+        "path": "files/0f7dc01d2552f505421ec6f83c2eb2428812578d1e991e265cbed0d6f11338c9.png",
+        "sha256": "0f7dc01d2552f505421ec6f83c2eb2428812578d1e991e265cbed0d6f11338c9",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "0f7dc01d2552f505421ec6f83c2eb2428812578d1e991e265cbed0d6f11338c9",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1e5758ab07ef4c428e20db619aa514ee",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b",
+        "purple"
+      ],
+      "thumbnail": {
+        "bytes": 26056,
+        "format": "webp",
+        "height": 384,
+        "path": "files/03b67c2c2bafd08f6c1cd61d6a15688c0f687b5f67809c28aef791429fb4b6e2.webp",
+        "sha256": "03b67c2c2bafd08f6c1cd61d6a15688c0f687b5f67809c28aef791429fb4b6e2",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1788004859058",
+        "主角",
+        "主体",
+        "立绘",
+        "辣椒",
+        "惊恐",
+        "张嘴",
+        "橙红",
+        "pepper"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "橙红色辣椒，带夸张惊恐表情。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-1f144d7e98144ce6a0dd9c84186fe884",
+      "name": "惊恐辣椒",
+      "original": {
+        "bytes": 246107,
+        "format": "png",
+        "height": 1080,
+        "path": "files/63f4be925787aef70d122a960b4b3d99fb2c276f72563b12d907fe4f8417ec44.png",
+        "sha256": "63f4be925787aef70d122a960b4b3d99fb2c276f72563b12d907fe4f8417ec44",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "63f4be925787aef70d122a960b4b3d99fb2c276f72563b12d907fe4f8417ec44",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-1f144d7e98144ce6a0dd9c84186fe884",
+      "tags": [
+        "plant",
+        "tag-e66caa3363e24dcca05184220c4c3f3a",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 12090,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1241257ed470f1f89da4f3fc4b570a19505a43e3f11d0cf49e67386003eceade.webp",
+        "sha256": "1241257ed470f1f89da4f3fc4b570a19505a43e3f11d0cf49e67386003eceade",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "军徽四格线稿",
+        "军徽",
+        "军事",
+        "军章",
+        "星徽",
+        "步枪",
+        "交叉步枪",
+        "坦克",
+        "战机",
+        "空军",
+        "陆军",
+        "military",
+        "army",
+        "tank",
+        "aircraft"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含星徽、交叉步枪、坦克与战机四款军徽。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-20261016223326-7e15007e",
+      "name": "军徽",
+      "original": {
+        "bytes": 1254913,
+        "format": "png",
+        "height": 1254,
+        "path": "files/7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95.png",
+        "sha256": "7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95",
+        "width": 1254
+      },
+      "published_at": 1792161206000,
+      "revision": "7e15007e0c93b3c628f2fddc52663ecfc5acd6c8fe6fd8608f8973ef0a517f95",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-20261016223326-7e15007e",
+      "tags": [
+        "tag-328df90c1e8c431f89aee25bf10a78e9",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 46152,
+        "format": "webp",
+        "height": 384,
+        "path": "files/4baa620e2fbccb35d8ce0a00fc1a620ccc096d10a170cb00edefd25592e5b561.webp",
+        "sha256": "4baa620e2fbccb35d8ce0a00fc1a620ccc096d10a170cb00edefd25592e5b561",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1787213481518",
+        "1787213481518 (1)",
+        "主角",
+        "主体",
+        "立绘",
+        "军盔",
+        "士兵",
+        "头盔",
+        "星纹",
+        "helmet pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "佩戴星纹军盔的豌豆造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-207f4b88aa764784a5b59751299eb17d",
+      "name": "军盔豌豆",
+      "original": {
+        "bytes": 366263,
+        "format": "png",
+        "height": 1080,
+        "path": "files/b5a75eb0970fdeb87cb9f5ac42fac735bb4bb8d87652bae4ad0846cb3df8a22a.png",
+        "sha256": "b5a75eb0970fdeb87cb9f5ac42fac735bb4bb8d87652bae4ad0846cb3df8a22a",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "b5a75eb0970fdeb87cb9f5ac42fac735bb4bb8d87652bae4ad0846cb3df8a22a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-207f4b88aa764784a5b59751299eb17d",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-328df90c1e8c431f89aee25bf10a78e9"
+      ],
+      "thumbnail": {
+        "bytes": 15960,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f36a14c19214079143719f5e079fc23ad182280e59f33b41c2a507a7d9f99035.webp",
+        "sha256": "f36a14c19214079143719f5e079fc23ad182280e59f33b41c2a507a7d9f99035",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_5",
+        "主角",
+        "主体",
+        "立绘",
+        "紫芽",
+        "花卫",
+        "花苞",
+        "紫色",
+        "purple bud"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "紫色尖瓣花冠与弯茎花苞造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-2092185a299e4b4db5d9075afd2b18fe",
+      "name": "紫芽花卫",
+      "original": {
+        "bytes": 1162298,
+        "format": "png",
+        "height": 1254,
+        "path": "files/d78d731d19a076279d2d6dc1e18d97042277eccc4f43729738bc170174f6b555.png",
+        "sha256": "d78d731d19a076279d2d6dc1e18d97042277eccc4f43729738bc170174f6b555",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "d78d731d19a076279d2d6dc1e18d97042277eccc4f43729738bc170174f6b555",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-2092185a299e4b4db5d9075afd2b18fe",
+      "tags": [
+        "plant",
+        "flower",
+        "purple"
+      ],
+      "thumbnail": {
+        "bytes": 27242,
+        "format": "webp",
+        "height": 384,
+        "path": "files/25e085f060bc5107d365c9c215ac2d1ceea2b79b45c51e2266bb4708722d16c3.webp",
+        "sha256": "25e085f060bc5107d365c9c215ac2d1ceea2b79b45c51e2266bb4708722d16c3",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT 图像 2026年9月28日 23_54_58.png",
+        "ChatGPT 图像 2026年9月28日 23_54_58",
+        "Android",
+        "安卓机器人",
+        "方形",
+        "方身"
+      ],
+      "author": "show",
+      "category": "BACKGROUND",
+      "description": "整张竖版背景底图，保留原始 PNG 字节及完整画布，按作者指定归入背景底图分区；显示名称按画面特征整理。",
+      "id": "asset-2134d793dba449e397ca660ce88af230",
+      "name": "安卓机器人背景（方形）",
+      "original": {
+        "bytes": 1390744,
+        "format": "png",
+        "height": 1672,
+        "path": "files/29b1eebe2a8fa4942a73d5b3c8db123f15be18ae5dca155218313d5a60945ef5.png",
+        "sha256": "29b1eebe2a8fa4942a73d5b3c8db123f15be18ae5dca155218313d5a60945ef5",
+        "width": 941
+      },
+      "published_at": 1792172160000,
+      "revision": "29b1eebe2a8fa4942a73d5b3c8db123f15be18ae5dca155218313d5a60945ef5",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-2134d793dba449e397ca660ce88af230",
+      "tags": [
+        "green",
+        "tag-2ad5a274836c4e2aa489af931a5986f4",
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f"
+      ],
+      "thumbnail": {
+        "bytes": 20916,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f4997286fb6248ed26913c4e7f7dbaf27e761214a69c9a7c107639d47893534c.webp",
+        "sha256": "f4997286fb6248ed26913c4e7f7dbaf27e761214a69c9a7c107639d47893534c",
+        "width": 216
+      },
+      "usage": "作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "原子",
+        "磁铁",
+        "磁力",
+        "电磁",
+        "闪电",
+        "电能",
+        "牛顿摆",
+        "科学",
+        "实验",
+        "physics",
+        "atom",
+        "magnet",
+        "electricity"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含原子、磁铁、闪电与牛顿摆徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-2731782da8ae46718e456fee304406a1",
+      "name": "物理徽章四格线稿",
+      "original": {
+        "bytes": 1748102,
+        "format": "png",
+        "height": 1254,
+        "path": "files/6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7.png",
+        "sha256": "6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "6423813703daf4019cfefef0fced69443a560f464e4f44d78b8ab7d09e47f5e7",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-2731782da8ae46718e456fee304406a1",
+      "tags": [
+        "tag-480181675bc34e478792a1748a3f6e20",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 68618,
+        "format": "webp",
+        "height": 384,
+        "path": "files/963ecb48bf87f95c5d28cf50cd6a5df4eef1e3d0911fc1e0a46087e2929595fc.webp",
+        "sha256": "963ecb48bf87f95c5d28cf50cd6a5df4eef1e3d0911fc1e0a46087e2929595fc",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "拉普兰德",
+        "Lappland",
+        "霜刃夜行",
+        "lappland-frame-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "明日方舟角色「拉普兰德」配套原创设计，show策划、AI辅助制作。1000×2201完整画布，黑银刃形边框、半透明炭黑内衬、狼耳与黑晶装饰，人物圆窗透明，适用于普通卡。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-284174fd2347491d81a74c8effa029be",
+      "name": "明日方舟 · 拉普兰德 · 霜刃暗底卡框",
+      "original": {
+        "bytes": 1165672,
+        "format": "png",
+        "height": 2201,
+        "path": "files/a8afd87888260aab70e603a592811f81ee4f6352081103d45c48cc717f4d1ef3.png",
+        "sha256": "a8afd87888260aab70e603a592811f81ee4f6352081103d45c48cc717f4d1ef3",
+        "width": 1000
+      },
+      "published_at": 1792255038000,
+      "revision": "a8afd87888260aab70e603a592811f81ee4f6352081103d45c48cc717f4d1ef3",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-284174fd2347491d81a74c8effa029be",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-f923342ec19c4d1dbd13251bc92bda21",
+        "black",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "red",
+        "tag-b95c22f1fd9643d5884b568cd524dd38",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 14138,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d839c06f1b6f19fec987bb1fdf58a3cf234458c2f5916890027d707926434995.webp",
+        "sha256": "d839c06f1b6f19fec987bb1fdf58a3cf234458c2f5916890027d707926434995",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "retouch_2026082511051626",
+        "主角",
+        "主体",
+        "立绘",
+        "传送柜",
+        "传送门",
+        "衣柜",
+        "空间",
+        "星球",
+        "角饰",
+        "portal"
+      ],
+      "author": "zz",
+      "category": "SUBJECT",
+      "description": "紫色柜门、空间旋涡与角饰僵尸组合造型。保留原始透明 PNG、画布及像素；名称按画面特征整理。",
+      "id": "asset-315c992284f84e1fb7e3ec6efe312462",
+      "name": "传送柜僵尸",
+      "original": {
+        "bytes": 2275659,
+        "format": "png",
+        "height": 2340,
+        "path": "files/392dcbfa6049d20d6be0ba8464b4336da43292e1850366eee288e4104ce982fc.png",
+        "sha256": "392dcbfa6049d20d6be0ba8464b4336da43292e1850366eee288e4104ce982fc",
+        "width": 1943
+      },
+      "published_at": 1792168314000,
+      "revision": "392dcbfa6049d20d6be0ba8464b4336da43292e1850366eee288e4104ce982fc",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-315c992284f84e1fb7e3ec6efe312462",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-ae5a694191254de1a8aadf374593bc1b",
+        "purple"
+      ],
+      "thumbnail": {
+        "bytes": 21562,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d34666918b31c605f11cf84f85ebfdd40d5d657f4f9649df4e1c8c8b4af75b03.webp",
+        "sha256": "d34666918b31c605f11cf84f85ebfdd40d5d657f4f9649df4e1c8c8b4af75b03",
+        "width": 319
+      },
+      "usage": "作者：zz；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-f37a5469-12a5-4195-8660-8a600b70cc8d",
+        "主角",
+        "主体",
+        "立绘",
+        "单青",
+        "单颗",
+        "快乐",
+        "红浆果"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "单颗红色冬青与叶片组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-33d16a07d77e4d3299ade7313d453810",
+      "name": "快乐的单青",
+      "original": {
+        "bytes": 704843,
+        "format": "png",
+        "height": 1153,
+        "path": "files/906cf223013f75c0dfed54ac5b56366be4b51baacecd22072215c5a7772feef8.png",
+        "sha256": "906cf223013f75c0dfed54ac5b56366be4b51baacecd22072215c5a7772feef8",
+        "width": 1364
+      },
+      "published_at": 1792168734000,
+      "revision": "906cf223013f75c0dfed54ac5b56366be4b51baacecd22072215c5a7772feef8",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-33d16a07d77e4d3299ade7313d453810",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 15960,
+        "format": "webp",
+        "height": 325,
+        "path": "files/7ccf2bbc9f21e3e562426cd784693ff1004c45fc82041f1f78c030fab82f344a.webp",
+        "sha256": "7ccf2bbc9f21e3e562426cd784693ff1004c45fc82041f1f78c030fab82f344a",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1791084453825",
+        "主角",
+        "主体",
+        "立绘",
+        "格纹",
+        "帽子",
+        "侦探",
+        "棕色帽",
+        "plaid pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "戴棕色格纹帽的豌豆造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-38b2efbbe5dd446a83b33c46d8c8558e",
+      "name": "格纹帽豌豆",
+      "original": {
+        "bytes": 336584,
+        "format": "png",
+        "height": 1080,
+        "path": "files/b6f9d493c7970689a4fe84f9e69ea298af7523d78a6467f4f64a02fe1f6fb158.png",
+        "sha256": "b6f9d493c7970689a4fe84f9e69ea298af7523d78a6467f4f64a02fe1f6fb158",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "b6f9d493c7970689a4fe84f9e69ea298af7523d78a6467f4f64a02fe1f6fb158",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-38b2efbbe5dd446a83b33c46d8c8558e",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b"
+      ],
+      "thumbnail": {
+        "bytes": 15860,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b72b47a02236057e953d4095b7affc4c701c6a9962331df327dec4ebdf83d3bb.webp",
+        "sha256": "b72b47a02236057e953d4095b7affc4c701c6a9962331df327dec4ebdf83d3bb",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318878274",
+        "卡框",
+        "边框",
+        "frame",
+        "银黄",
+        "黄银",
+        "学士帽",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·银黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-3904863fd8734367ba52e8a8e6c0cfcf",
+      "name": "双色卡框·银黄",
+      "original": {
+        "bytes": 283646,
+        "format": "png",
+        "height": 915,
+        "path": "files/6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d.png",
+        "sha256": "6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "6390fe700e877c0a8fb87e5125361a3d94b99ad84a8e74237b2fc88a4c4e8c6d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-3904863fd8734367ba52e8a8e6c0cfcf",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 15642,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6ec89fea342997dc198bf28374016b0f131d66cda895da786a4d21153e889bce.webp",
+        "sha256": "6ec89fea342997dc198bf28374016b0f131d66cda895da786a4d21153e889bce",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT 图像 2026年9月27日 23_32_27.png",
+        "ChatGPT 图像 2026年9月27日 23_32_27",
+        "深紫",
+        "叶芽",
+        "齿轮",
+        "盾牌"
+      ],
+      "author": "show",
+      "category": "BACKGROUND",
+      "description": "整张竖版背景底图，保留原始 PNG 字节及完整画布，按作者指定归入背景底图分区；显示名称按画面特征整理。",
+      "id": "asset-3aaf52e8f14b4f8a83b9a5b2c5011d0f",
+      "name": "深紫叶芽齿轮背景",
+      "original": {
+        "bytes": 1665107,
+        "format": "png",
+        "height": 1672,
+        "path": "files/23e2af6984110e96b3d5589c89843483fa946e7b5d640c92c68fa3f30fc8214d.png",
+        "sha256": "23e2af6984110e96b3d5589c89843483fa946e7b5d640c92c68fa3f30fc8214d",
+        "width": 941
+      },
+      "published_at": 1792172160000,
+      "revision": "23e2af6984110e96b3d5589c89843483fa946e7b5d640c92c68fa3f30fc8214d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-3aaf52e8f14b4f8a83b9a5b2c5011d0f",
+      "tags": [
+        "purple",
+        "plant",
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+        "badge"
+      ],
+      "thumbnail": {
+        "bytes": 24672,
+        "format": "webp",
+        "height": 384,
+        "path": "files/971cfa13cc0769be56820f28719e907bcd6dd3ca051fd4f2c6d1a0d01851f952.webp",
+        "sha256": "971cfa13cc0769be56820f28719e907bcd6dd3ca051fd4f2c6d1a0d01851f952",
+        "width": 216
+      },
+      "usage": "作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1789318894989",
+        "卡框",
+        "边框",
+        "frame",
+        "棕红",
+        "红棕",
+        "盾牌",
+        "爆裂",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕红，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-3d22644ad8c9467b9e417ee4e287d447",
+      "name": "双色卡框·棕红",
+      "original": {
+        "bytes": 281207,
+        "format": "png",
+        "height": 915,
+        "path": "files/72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d.png",
+        "sha256": "72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "72371899d4dd46aaf24ebf40f732a30436b9dbd27841fb14a1720aa8f3c41b2d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-3d22644ad8c9467b9e417ee4e287d447",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 15224,
+        "format": "webp",
+        "height": 384,
+        "path": "files/97b6200c022862617a0098f79089473350f8056c4f1caba737792ea412d2e4c3.webp",
+        "sha256": "97b6200c022862617a0098f79089473350f8056c4f1caba737792ea412d2e4c3",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-b8828b22-e5bd-4790-84f2-449e904b6efa",
+        "主角",
+        "主体",
+        "立绘",
+        "连队",
+        "长条",
+        "纵向",
+        "多组冬青",
+        "冬青高塔"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "多组冬青沿纵向排列，保留完整长画布。保留原始透明 PNG、画布与像素。",
+      "id": "asset-410178624f6a4fcebd4e47adc2fcbe5e",
+      "name": "冬青连队",
+      "original": {
+        "bytes": 1585503,
+        "format": "png",
+        "height": 2046,
+        "path": "files/81e627c7a54b0099fa97b250eb9a17ab277cf162031189ba7da01d42389b792d.png",
+        "sha256": "81e627c7a54b0099fa97b250eb9a17ab277cf162031189ba7da01d42389b792d",
+        "width": 768
+      },
+      "published_at": 1792168733000,
+      "revision": "81e627c7a54b0099fa97b250eb9a17ab277cf162031189ba7da01d42389b792d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-410178624f6a4fcebd4e47adc2fcbe5e",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192"
+      ],
+      "thumbnail": {
+        "bytes": 23696,
+        "format": "webp",
+        "height": 384,
+        "path": "files/a231a24da2cbe066ed37f08d663540bdd2b29337b4076bd84b9993cb877da15e.webp",
+        "sha256": "a231a24da2cbe066ed37f08d663540bdd2b29337b4076bd84b9993cb877da15e",
+        "width": 144
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318810662",
+        "卡框",
+        "边框",
+        "frame",
+        "棕绿",
+        "绿棕",
+        "盾牌",
+        "树叶",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕绿，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-4706163217a34159a8e4221aeee86447",
+      "name": "双色卡框·棕绿",
+      "original": {
+        "bytes": 278653,
+        "format": "png",
+        "height": 915,
+        "path": "files/7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec.png",
+        "sha256": "7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "7889b87fbe452dff5af56d83aff99f5a65c16bdf7776c557abbc03563eba27ec",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4706163217a34159a8e4221aeee86447",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "green"
+      ],
+      "thumbnail": {
+        "bytes": 15416,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3d4a581265cdb55ed612e7d20c342839f5fdb85beb59a796b05ecff04f94477f.webp",
+        "sha256": "3d4a581265cdb55ed612e7d20c342839f5fdb85beb59a796b05ecff04f94477f",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 01_36_02_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "掘墓",
+        "铲子",
+        "礼帽",
+        "苔藓"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "戴破旧礼帽、手持铁铲的僵尸。保留原始透明 PNG、画布与像素。",
+      "id": "asset-4c2d7258592d439b8df16189eaaf1178",
+      "name": "掘墓僵尸",
+      "original": {
+        "bytes": 1453578,
+        "format": "png",
+        "height": 1268,
+        "path": "files/25169a59fb0861b1c51cb8d766323e052665ed87bb7492de464979ffff2725ff.png",
+        "sha256": "25169a59fb0861b1c51cb8d766323e052665ed87bb7492de464979ffff2725ff",
+        "width": 1241
+      },
+      "published_at": 1792168732000,
+      "revision": "25169a59fb0861b1c51cb8d766323e052665ed87bb7492de464979ffff2725ff",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4c2d7258592d439b8df16189eaaf1178",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b"
+      ],
+      "thumbnail": {
+        "bytes": 25560,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d6566e9279898251b572995a02180755c5c3aa4f1fb1dfeed93215c30c861bf4.webp",
+        "sha256": "d6566e9279898251b572995a02180755c5c3aa4f1fb1dfeed93215c30c861bf4",
+        "width": 376
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_44_05_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "君王",
+        "亡灵",
+        "召唤",
+        "法杖",
+        "骷髅"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "持杖亡灵君王与周围墓碑、幽魂组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-4d1aa683fbc741a4aa8a13cf67e48e22",
+      "name": "亡灵君王僵尸",
+      "original": {
+        "bytes": 2023607,
+        "format": "png",
+        "height": 1254,
+        "path": "files/44e6ac665f9ea4fc2ab335667a322bf17f0a604b3731726262418832abfb83a1.png",
+        "sha256": "44e6ac665f9ea4fc2ab335667a322bf17f0a604b3731726262418832abfb83a1",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "44e6ac665f9ea4fc2ab335667a322bf17f0a604b3731726262418832abfb83a1",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4d1aa683fbc741a4aa8a13cf67e48e22",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-dc958d1634254e03984b9224614058d1"
+      ],
+      "thumbnail": {
+        "bytes": 44780,
+        "format": "webp",
+        "height": 384,
+        "path": "files/e5ba61e427560ef17bef6d3d1a78c0272ef700b65f1e17ed9529dfcef84ced9b.webp",
+        "sha256": "e5ba61e427560ef17bef6d3d1a78c0272ef700b65f1e17ed9529dfcef84ced9b",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1784980254792",
+        "主角",
+        "主体",
+        "立绘",
+        "冰车",
+        "冰面",
+        "清冰车",
+        "蓝白车辆",
+        "ice"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "驾驶蓝白车辆的红帽僵尸。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-4e4f05b991e8481db60f432be85c4f98",
+      "name": "冰车僵尸",
+      "original": {
+        "bytes": 410996,
+        "format": "png",
+        "height": 1080,
+        "path": "files/162a8bfc097a9c32e6c61cd8dbff5e12a2bad5adf9d7b73e584644fa2eb5f448.png",
+        "sha256": "162a8bfc097a9c32e6c61cd8dbff5e12a2bad5adf9d7b73e584644fa2eb5f448",
+        "width": 1080
+      },
+      "published_at": 1792167908000,
+      "revision": "162a8bfc097a9c32e6c61cd8dbff5e12a2bad5adf9d7b73e584644fa2eb5f448",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4e4f05b991e8481db60f432be85c4f98",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-0b4477f505a74f718f8f57a58bb0c5e7",
+        "tag-13a34529f254489da39505a0197fe64f"
+      ],
+      "thumbnail": {
+        "bytes": 17164,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1dc95e5cc1502445bee03dc49d39df6abbfdde4d937c7c1b8e1bedf799f1d869.webp",
+        "sha256": "1dc95e5cc1502445bee03dc49d39df6abbfdde4d937c7c1b8e1bedf799f1d869",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "Image_1790437269595_490.png",
+        "Image_1790437269595_490",
+        "吐司酱",
+        "光环",
+        "黄绿",
+        "日光"
+      ],
+      "author": "吐司酱",
+      "category": "FRAME",
+      "description": "作者投稿卡框，保留原始透明 PNG、完整画布及原始位置；显示名称按画面特征整理。",
+      "id": "asset-4e97631fce134550b7c858f2322bbf49",
+      "name": "黄色光环卡框",
+      "original": {
+        "bytes": 251293,
+        "format": "png",
+        "height": 2201,
+        "path": "files/d9617f6e4ca570a24130cc74b591a67f796e61cb466a858dbef7636c9b1ba825.png",
+        "sha256": "d9617f6e4ca570a24130cc74b591a67f796e61cb466a858dbef7636c9b1ba825",
+        "width": 1000
+      },
+      "published_at": 1792171093000,
+      "revision": "d9617f6e4ca570a24130cc74b591a67f796e61cb466a858dbef7636c9b1ba825",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4e97631fce134550b7c858f2322bbf49",
+      "tags": [
+        "yellow",
+        "plant"
+      ],
+      "thumbnail": {
+        "bytes": 5192,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1cc4885ce1936e9ba318e8a7b07917c21e9ccf65928bdab0b9d855628282ec5a.webp",
+        "sha256": "1cc4885ce1936e9ba318e8a7b07917c21e9ccf65928bdab0b9d855628282ec5a",
+        "width": 174
+      },
+      "usage": "作者：吐司酱。维护者确认可在公共素材库发布，供用户下载创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_7",
+        "主角",
+        "主体",
+        "立绘",
+        "橙花",
+        "暖橙",
+        "藤蔓",
+        "花冠",
+        "orange bloom"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "橙色花冠与卷曲藤茎造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-4f3f3d9347954cd1b0a59bf2f454d348",
+      "name": "暖橙花灵",
+      "original": {
+        "bytes": 1016251,
+        "format": "png",
+        "height": 1254,
+        "path": "files/d687d96f3d5932051ac5be42b8cec8029c7a98616d03a47f181c279f3a5eac85.png",
+        "sha256": "d687d96f3d5932051ac5be42b8cec8029c7a98616d03a47f181c279f3a5eac85",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "d687d96f3d5932051ac5be42b8cec8029c7a98616d03a47f181c279f3a5eac85",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-4f3f3d9347954cd1b0a59bf2f454d348",
+      "tags": [
+        "plant",
+        "flower",
+        "orange"
+      ],
+      "thumbnail": {
+        "bytes": 26518,
+        "format": "webp",
+        "height": 384,
+        "path": "files/733a3eff94b967b5a42ef7ed84f32d52ee0eb1271b33cade069c9a6abe1ba62a.webp",
+        "sha256": "733a3eff94b967b5a42ef7ed84f32d52ee0eb1271b33cade069c9a6abe1ba62a",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787072648706",
+        "主角",
+        "主体",
+        "立绘",
+        "法老",
+        "狮身像",
+        "金色机甲",
+        "古埃及",
+        "sphinx"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "埃及头饰与金色狮身机械造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-54d24bfe6f25492186fcb735d3b5d5b0",
+      "name": "狮身机甲僵尸",
+      "original": {
+        "bytes": 527292,
+        "format": "png",
+        "height": 1080,
+        "path": "files/3b3c500d1f36b53855a0dce05cb6fc21339ed05199089c2f4cc06e7959c27f79.png",
+        "sha256": "3b3c500d1f36b53855a0dce05cb6fc21339ed05199089c2f4cc06e7959c27f79",
+        "width": 1080
+      },
+      "published_at": 1792167908000,
+      "revision": "3b3c500d1f36b53855a0dce05cb6fc21339ed05199089c2f4cc06e7959c27f79",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-54d24bfe6f25492186fcb735d3b5d5b0",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-13a34529f254489da39505a0197fe64f",
+        "tag-428baff549e7486e93a1d02578d86172"
+      ],
+      "thumbnail": {
+        "bytes": 19962,
+        "format": "webp",
+        "height": 384,
+        "path": "files/bed0de2a4ffa4080e13215cd146c70a686dba483285b6539f7a591ec0d1b6448.webp",
+        "sha256": "bed0de2a4ffa4080e13215cd146c70a686dba483285b6539f7a591ec0d1b6448",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-1fea8f3e-0230-4f70-99b5-7a72c6378c03",
+        "主角",
+        "主体",
+        "立绘",
+        "蓝色浆果",
+        "蓝冬青",
+        "不快乐的冬青"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "三颗蓝色浆果与冬青叶片组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-54f8242f3ce549178e8f352352e2c4fb",
+      "name": "蓝色冬青",
+      "original": {
+        "bytes": 1083188,
+        "format": "png",
+        "height": 1153,
+        "path": "files/1e30c2428f13c9266fcfe940c74272de37eecde823e9795b1d2caebbfd543c6a.png",
+        "sha256": "1e30c2428f13c9266fcfe940c74272de37eecde823e9795b1d2caebbfd543c6a",
+        "width": 1364
+      },
+      "published_at": 1792168733000,
+      "revision": "1e30c2428f13c9266fcfe940c74272de37eecde823e9795b1d2caebbfd543c6a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-54f8242f3ce549178e8f352352e2c4fb",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "blue"
+      ],
+      "thumbnail": {
+        "bytes": 23728,
+        "format": "webp",
+        "height": 325,
+        "path": "files/f27c3f53601ab46ac53b1580293feb22d34148b607ba542dd35e3ecd420c16e5.webp",
+        "sha256": "f27c3f53601ab46ac53b1580293feb22d34148b607ba542dd35e3ecd420c16e5",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休007",
+        "卡框",
+        "边框",
+        "frame",
+        "幽紫",
+        "骷髅",
+        "幽灵",
+        "藤蔓",
+        "骨饰"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "幽紫骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-591be064cf5e46f2887c6f5136c7c92f",
+      "name": "幽紫骷髅卡框",
+      "original": {
+        "bytes": 648457,
+        "format": "png",
+        "height": 1888,
+        "path": "files/74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe.png",
+        "sha256": "74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "74468cce096b23c99f60b62a65053821eee0e7cc3479b8449936487afa1a66fe",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-591be064cf5e46f2887c6f5136c7c92f",
+      "tags": [
+        "purple",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 7312,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0654de272f190687dbeebced66b3ae3a84d6d4586629a2cc0de4fb9e0c0c158b.webp",
+        "sha256": "0654de272f190687dbeebced66b3ae3a84d6d4586629a2cc0de4fb9e0c0c158b",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787373353528",
+        "1787373353528 (1)",
+        "主角",
+        "主体",
+        "立绘",
+        "闪电",
+        "电能",
+        "电弧",
+        "青色",
+        "白色",
+        "electric pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "青白色发光豌豆与电弧造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-5f8cb8cac32b4d48bc9fcb32b9e8e164",
+      "name": "电光豌豆",
+      "original": {
+        "bytes": 353346,
+        "format": "png",
+        "height": 1080,
+        "path": "files/caff008c3f5875f140257465fc5349c0fec5d0a9d84368cb0524fca2a45a89b1.png",
+        "sha256": "caff008c3f5875f140257465fc5349c0fec5d0a9d84368cb0524fca2a45a89b1",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "caff008c3f5875f140257465fc5349c0fec5d0a9d84368cb0524fca2a45a89b1",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-5f8cb8cac32b4d48bc9fcb32b9e8e164",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-c93adab081bc41549f85261c385053ac"
+      ],
+      "thumbnail": {
+        "bytes": 25180,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1f6293228d569b147d91ecde593ee5dc484c355b84ae884059ca002876ea5a7a.webp",
+        "sha256": "1f6293228d569b147d91ecde593ee5dc484c355b84ae884059ca002876ea5a7a",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "齿轮",
+        "活塞",
+        "仪表",
+        "风机",
+        "管道",
+        "机械维修",
+        "扳手",
+        "螺丝刀",
+        "工程",
+        "蒸汽朋克",
+        "工业",
+        "mechanical",
+        "gear",
+        "piston",
+        "engineering"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含齿轮、活塞、风机仪表管道及交叉工具徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-5ffab5f6122b417ba6339b4d2d869b56",
+      "name": "机械徽章四格线稿",
+      "original": {
+        "bytes": 1704204,
+        "format": "png",
+        "height": 1254,
+        "path": "files/7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8.png",
+        "sha256": "7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "7fe4a9e4462ffcc0eda85000b6f1e613d7c32ee42c3ce56b29f7e29bdeca0be8",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-5ffab5f6122b417ba6339b4d2d869b56",
+      "tags": [
+        "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 60976,
+        "format": "webp",
+        "height": 384,
+        "path": "files/810c31820a5731ba341eac78f5a00cfb3925574d74a1185e61a5c5a4b10807ac.webp",
+        "sha256": "810c31820a5731ba341eac78f5a00cfb3925574d74a1185e61a5c5a4b10807ac",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_21_07_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "群手",
+        "破土",
+        "墓碑",
+        "手臂"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "墓土中伸出的多只手臂与墓碑。保留原始透明 PNG、画布与像素。",
+      "id": "asset-6182a7c94dc847dd9f3d7ca47d28e915",
+      "name": "群手墓地",
+      "original": {
+        "bytes": 1210486,
+        "format": "png",
+        "height": 1254,
+        "path": "files/2111b5cf922afaff0a8bc548e361185271ca6a4a4681d1e04bf3cccc43e3c196.png",
+        "sha256": "2111b5cf922afaff0a8bc548e361185271ca6a4a4681d1e04bf3cccc43e3c196",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "2111b5cf922afaff0a8bc548e361185271ca6a4a4681d1e04bf3cccc43e3c196",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6182a7c94dc847dd9f3d7ca47d28e915",
+      "tags": [
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-96bd1072c0b1493085f0026b51a49a42"
+      ],
+      "thumbnail": {
+        "bytes": 24246,
+        "format": "webp",
+        "height": 384,
+        "path": "files/9c33be9b884c0db0c189a9a95e3beee18744f4d4a9736a6810da15a4c1d2c16d.webp",
+        "sha256": "9c33be9b884c0db0c189a9a95e3beee18744f4d4a9736a6810da15a4c1d2c16d",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318612235",
+        "卡框",
+        "边框",
+        "frame",
+        "绿黄",
+        "黄绿",
+        "树叶",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-66f8c83c963c4331bc5408ddb71f0527",
+      "name": "双色卡框·绿黄",
+      "original": {
+        "bytes": 287292,
+        "format": "png",
+        "height": 915,
+        "path": "files/62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b.png",
+        "sha256": "62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "62db5a7fe4c5b8a86ade20dc195fac6c6ba8bf5983adeec35f06bf376c70f48b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-66f8c83c963c4331bc5408ddb71f0527",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16742,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0f57d52935fcb28f320c0f3c49850bd9a639dd996fdd67a82636c0c8ff2ff017.webp",
+        "sha256": "0f57d52935fcb28f320c0f3c49850bd9a639dd996fdd67a82636c0c8ff2ff017",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "黍",
+        "Shu",
+        "嘉禾盈仓",
+        "shu-frame-dark-panel-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "明日方舟角色「黍」配套原创设计，show策划、AI辅助制作。1000×2201完整画布；半透明墨青内衬，人物圆窗透明，适用于普通卡。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-6839b81e1353497f9cadff8bc4d746e0",
+      "name": "明日方舟 · 黍 · 丰稔暗底卡框",
+      "original": {
+        "bytes": 944447,
+        "format": "png",
+        "height": 2201,
+        "path": "files/38803b14bd557268c373a1e64736f12cea3438ebb5b435a1e80fa63b03134ad5.png",
+        "sha256": "38803b14bd557268c373a1e64736f12cea3438ebb5b435a1e80fa63b03134ad5",
+        "width": 1000
+      },
+      "published_at": 1792255038000,
+      "revision": "38803b14bd557268c373a1e64736f12cea3438ebb5b435a1e80fa63b03134ad5",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6839b81e1353497f9cadff8bc4d746e0",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-90266d2e35134994a7613f699be4c817",
+        "green",
+        "tag-b95c22f1fd9643d5884b568cd524dd38",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9"
+      ],
+      "thumbnail": {
+        "bytes": 12518,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3c730c45f7b048b30b64ef3d3b7bcfd08b26cab24bf31328e55ad5fa04e6efc5.webp",
+        "sha256": "3c730c45f7b048b30b64ef3d3b7bcfd08b26cab24bf31328e55ad5fa04e6efc5",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1789318620295",
+        "卡框",
+        "边框",
+        "frame",
+        "绿银",
+        "银绿",
+        "树叶",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-69096455910240de8a7db64a9573cfe6",
+      "name": "双色卡框·绿银",
+      "original": {
+        "bytes": 273619,
+        "format": "png",
+        "height": 915,
+        "path": "files/b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942.png",
+        "sha256": "b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "b0b25066a839805990959303fcfaa479564e9fac388c38525860a1fef6819942",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-69096455910240de8a7db64a9573cfe6",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 15078,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1a07c4dc11aa42a108dffccc2a93be97739c63545538c253027f4dc03ca8f154.webp",
+        "sha256": "1a07c4dc11aa42a108dffccc2a93be97739c63545538c253027f4dc03ca8f154",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787109628987",
+        "主角",
+        "主体",
+        "立绘",
+        "全息",
+        "立方体",
+        "方块头",
+        "能量",
+        "激光",
+        "hologram"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "紫色发光立方体头部与红色外套造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-6b088f6a47c9460a93b533591d71a352",
+      "name": "能量方块僵尸",
+      "original": {
+        "bytes": 513736,
+        "format": "png",
+        "height": 1080,
+        "path": "files/9d954afdc43368bc99b346a6d57c6128ba07b5360499ecb65b5a54676f2a13e3.png",
+        "sha256": "9d954afdc43368bc99b346a6d57c6128ba07b5360499ecb65b5a54676f2a13e3",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "9d954afdc43368bc99b346a6d57c6128ba07b5360499ecb65b5a54676f2a13e3",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6b088f6a47c9460a93b533591d71a352",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-ae5a694191254de1a8aadf374593bc1b",
+        "purple"
+      ],
+      "thumbnail": {
+        "bytes": 18742,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1db3f6b24203d64f6ba4633b20e2ba868c1c3dc7d1cd6e82c3aea6934258d03d.webp",
+        "sha256": "1db3f6b24203d64f6ba4633b20e2ba868c1c3dc7d1cd6e82c3aea6934258d03d",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休006",
+        "卡框",
+        "边框",
+        "frame",
+        "新春",
+        "春节",
+        "竹子",
+        "竹饰",
+        "福签",
+        "桃花",
+        "中式边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "新春竹饰卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-6e01c89d12c445caa10242a054847cf3",
+      "name": "新春竹饰卡框",
+      "original": {
+        "bytes": 444600,
+        "format": "png",
+        "height": 1888,
+        "path": "files/839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883.png",
+        "sha256": "839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "839dfc34cc42a71617ca6b9e2e6195840fcf59e536facc934f378bf803891883",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6e01c89d12c445caa10242a054847cf3",
+      "tags": [
+        "red",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+        "tag-2f9be048117b4975a9cd98f65dfd537a"
+      ],
+      "thumbnail": {
+        "bytes": 6788,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1581ac688c0beee59d919cf20c89e08ebd3e64f804747aa40c48f7d675590e72.webp",
+        "sha256": "1581ac688c0beee59d919cf20c89e08ebd3e64f804747aa40c48f7d675590e72",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_8",
+        "主角",
+        "主体",
+        "立绘",
+        "白金",
+        "花苞",
+        "白花",
+        "金黄",
+        "white gold bud"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "白色与金黄色花苞组合。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-6f326e5792124ed7ab85502b916e15c9",
+      "name": "白金花苞",
+      "original": {
+        "bytes": 965644,
+        "format": "png",
+        "height": 1254,
+        "path": "files/ba346e768b8764e30b31e87c422c8359c03a8e97abf145644624cd9916300e07.png",
+        "sha256": "ba346e768b8764e30b31e87c422c8359c03a8e97abf145644624cd9916300e07",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "ba346e768b8764e30b31e87c422c8359c03a8e97abf145644624cd9916300e07",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-6f326e5792124ed7ab85502b916e15c9",
+      "tags": [
+        "plant",
+        "flower",
+        "white",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 20738,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0cee22079a17aedebb36d9c1fe74b0c5e3ad7b278e82992dfe372a50397084eb.webp",
+        "sha256": "0cee22079a17aedebb36d9c1fe74b0c5e3ad7b278e82992dfe372a50397084eb",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-32dbc3ab-dda8-4b07-90e2-a163410ea3eb",
+        "主角",
+        "主体",
+        "立绘",
+        "科学家",
+        "实验",
+        "试管",
+        "眼镜",
+        "白大褂"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "戴眼镜、手持试管的科学家冬青。保留原始透明 PNG、画布与像素。",
+      "id": "asset-72aeebe1bf9e4a96a26b10f8559de0d9",
+      "name": "科学家冬青",
+      "original": {
+        "bytes": 1083647,
+        "format": "png",
+        "height": 1153,
+        "path": "files/b59e61a0a28b0570ba51a5814fae900913709f7566d1090b600d4ea5f06907ab.png",
+        "sha256": "b59e61a0a28b0570ba51a5814fae900913709f7566d1090b600d4ea5f06907ab",
+        "width": 1364
+      },
+      "published_at": 1792168733000,
+      "revision": "b59e61a0a28b0570ba51a5814fae900913709f7566d1090b600d4ea5f06907ab",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-72aeebe1bf9e4a96a26b10f8559de0d9",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "tag-b5927b1682db4f30b74f81703aa24c93"
+      ],
+      "thumbnail": {
+        "bytes": 27068,
+        "format": "webp",
+        "height": 325,
+        "path": "files/a397179d18b905d2a8ff7699af866a58dad39cfcb1a381c6b53cd8f3f8aa9324.webp",
+        "sha256": "a397179d18b905d2a8ff7699af866a58dad39cfcb1a381c6b53cd8f3f8aa9324",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "炼金",
+        "炼金术",
+        "炼金阵",
+        "魔法阵",
+        "符文",
+        "神秘学",
+        "衔尾蛇",
+        "药剂",
+        "坩埚",
+        "alchemy",
+        "alchemical",
+        "occult",
+        "magic"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含炼金阵、药剂瓶、衔尾蛇与坩埚徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-72eaf15aa43040a1b597f3eee7e78978",
+      "name": "炼金术徽章四格线稿",
+      "original": {
+        "bytes": 1474587,
+        "format": "png",
+        "height": 1254,
+        "path": "files/3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e.png",
+        "sha256": "3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "3b7bec0b9b74edb763acfa2f1987e02294fe564266727f5cd443c9c70d1a232e",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-72eaf15aa43040a1b597f3eee7e78978",
+      "tags": [
+        "tag-d68148cafc044a63be920ace56a7856d",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 55464,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6f1a01d3e934cc37f86b1ef1637316e8b626fbaa8056fa1b395e0f34d71189c6.webp",
+        "sha256": "6f1a01d3e934cc37f86b1ef1637316e8b626fbaa8056fa1b395e0f34d71189c6",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "1789318822841",
+        "卡框",
+        "边框",
+        "frame",
+        "棕黄",
+        "黄棕",
+        "盾牌",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-7c5ab7abd696452ea51b7806dda299b9",
+      "name": "双色卡框·棕黄",
+      "original": {
+        "bytes": 290501,
+        "format": "png",
+        "height": 915,
+        "path": "files/a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c.png",
+        "sha256": "a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "a82d983b3b549486629ea1c28209794c2c80e9df4af6001cb993902593ea1f0c",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-7c5ab7abd696452ea51b7806dda299b9",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16232,
+        "format": "webp",
+        "height": 384,
+        "path": "files/07c0783722b124f2998c34c34020b676ef018ccfa6cbbf0dd07e5d8b40a7dffc.webp",
+        "sha256": "07c0783722b124f2998c34c34020b676ef018ccfa6cbbf0dd07e5d8b40a7dffc",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 03_43_04_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "墓碑",
+        "破土",
+        "铁铲",
+        "伸手"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "紫色墓碑、铁铲与破土手臂。保留原始透明 PNG、画布与像素。",
+      "id": "asset-7c97b30156a74894a243fadddfef108a",
+      "name": "破土墓碑",
+      "original": {
+        "bytes": 1231734,
+        "format": "png",
+        "height": 1254,
+        "path": "files/fee5a7b64d3d6e001ab34abfcd2126bc5f699cb1b331d698ca4380d886c03603.png",
+        "sha256": "fee5a7b64d3d6e001ab34abfcd2126bc5f699cb1b331d698ca4380d886c03603",
+        "width": 1254
+      },
+      "published_at": 1792168732000,
+      "revision": "fee5a7b64d3d6e001ab34abfcd2126bc5f699cb1b331d698ca4380d886c03603",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-7c97b30156a74894a243fadddfef108a",
+      "tags": [
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 19064,
+        "format": "webp",
+        "height": 384,
+        "path": "files/14c773682eb6e2b8322367f4a049f2378a4a9a1b6b5b3560da2825a1342ed557.webp",
+        "sha256": "14c773682eb6e2b8322367f4a049f2378a4a9a1b6b5b3560da2825a1342ed557",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休005",
+        "卡框",
+        "边框",
+        "frame",
+        "暗红",
+        "蝙蝠",
+        "夜色",
+        "蝠翼"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "暗红蝙蝠卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-7d792501349d476faf8685f796720443",
+      "name": "暗红蝙蝠卡框",
+      "original": {
+        "bytes": 480109,
+        "format": "png",
+        "height": 1888,
+        "path": "files/ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303.png",
+        "sha256": "ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "ec2348cf1afadb78839004a443f48489a04c79343314e825902cc2ce364d6303",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-7d792501349d476faf8685f796720443",
+      "tags": [
+        "red",
+        "black",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 4512,
+        "format": "webp",
+        "height": 384,
+        "path": "files/bf156bab1ef6aeedd3f76aceee1c1b55c051855133c7d79620138677d6688a5d.webp",
+        "sha256": "bf156bab1ef6aeedd3f76aceee1c1b55c051855133c7d79620138677d6688a5d",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1788266372154",
+        "主角",
+        "主体",
+        "立绘",
+        "树桩",
+        "树干",
+        "木头",
+        "枝条",
+        "绿芽",
+        "斗士",
+        "wood"
+      ],
+      "author": "食虎草",
+      "category": "SUBJECT",
+      "description": "带绿芽、枝条与拳头的木桩造型。保留原始透明 PNG、1080 × 1080 画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-81fa23c774144b6e922e7c486b3369d6",
+      "name": "绿芽木桩斗士",
+      "original": {
+        "bytes": 154149,
+        "format": "png",
+        "height": 1080,
+        "path": "files/b06e936dcd287b6d9ad08eb6425f2d5581dd459d07bea61c016681baa366b661.png",
+        "sha256": "b06e936dcd287b6d9ad08eb6425f2d5581dd459d07bea61c016681baa366b661",
+        "width": 1080
+      },
+      "published_at": 1792169198000,
+      "revision": "b06e936dcd287b6d9ad08eb6425f2d5581dd459d07bea61c016681baa366b661",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-81fa23c774144b6e922e7c486b3369d6",
+      "tags": [
+        "plant",
+        "tag-440f51ce44b842b997f7a0f4bef8b181",
+        "tag-385593fee23745d98bf48d25337c7fcb"
+      ],
+      "thumbnail": {
+        "bytes": 10630,
+        "format": "webp",
+        "height": 384,
+        "path": "files/24c03958609dd13da627022007baad74fc92bd4a9acdb9c2decd7358f3cb59dd.webp",
+        "sha256": "24c03958609dd13da627022007baad74fc92bd4a9acdb9c2decd7358f3cb59dd",
+        "width": 384
+      },
+      "usage": "作者：食虎草；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_6",
+        "主角",
+        "主体",
+        "立绘",
+        "毒蕾",
+        "毒花",
+        "毒素",
+        "滴液",
+        "poison bloom"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "深紫色花体与滴状花蕾造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-8233cdd2b0fa451dae85b5d2328bddbf",
+      "name": "毒蕾花灵",
+      "original": {
+        "bytes": 1044042,
+        "format": "png",
+        "height": 1254,
+        "path": "files/73e10341e1df84f2339be756e72b03281310a0ddf5ca8ba01c521051aad979e1.png",
+        "sha256": "73e10341e1df84f2339be756e72b03281310a0ddf5ca8ba01c521051aad979e1",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "73e10341e1df84f2339be756e72b03281310a0ddf5ca8ba01c521051aad979e1",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-8233cdd2b0fa451dae85b5d2328bddbf",
+      "tags": [
+        "plant",
+        "flower",
+        "purple",
+        "tag-afb0c824e120447eb1bbc26bca4f0ce6",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 24814,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6f6426de3b8d8067c85286381b11dcd2c77ce60ec76b1e6e05c49fcdaf6408f8.webp",
+        "sha256": "6f6426de3b8d8067c85286381b11dcd2c77ce60ec76b1e6e05c49fcdaf6408f8",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "Image_1791195989203_326.png",
+        "Image_1791195989203_326",
+        "吐司酱",
+        "麦克风",
+        "话筒",
+        "演唱"
+      ],
+      "author": "吐司酱",
+      "category": "FRAME",
+      "description": "作者投稿卡框，保留原始透明 PNG、完整画布及原始位置；显示名称按画面特征整理。",
+      "id": "asset-8496701947a040169fcce7f90806ea90",
+      "name": "粉紫麦克风卡框",
+      "original": {
+        "bytes": 299080,
+        "format": "png",
+        "height": 2201,
+        "path": "files/a0146bae7a5533a8726777b9c4d6b178caec6bb00da6db10c6689f651e9c8513.png",
+        "sha256": "a0146bae7a5533a8726777b9c4d6b178caec6bb00da6db10c6689f651e9c8513",
+        "width": 1000
+      },
+      "published_at": 1792171094000,
+      "revision": "a0146bae7a5533a8726777b9c4d6b178caec6bb00da6db10c6689f651e9c8513",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-8496701947a040169fcce7f90806ea90",
+      "tags": [
+        "pink",
+        "purple",
+        "tag-7f7d8c3920024eaa88a9e05ac15b522c"
+      ],
+      "thumbnail": {
+        "bytes": 6562,
+        "format": "webp",
+        "height": 384,
+        "path": "files/10c065e4bb2f3e64fb3ae16fb999f41b56cdf6f112e9d5e728b805a1093e44b5.webp",
+        "sha256": "10c065e4bb2f3e64fb3ae16fb999f41b56cdf6f112e9d5e728b805a1093e44b5",
+        "width": 174
+      },
+      "usage": "作者：吐司酱。维护者确认可在公共素材库发布，供用户下载创作。"
+    },
+    {
+      "aliases": [
+        "exec-22f80c58-236d-4f94-891b-75dbdb52dd1b",
+        "主角",
+        "主体",
+        "立绘",
+        "红蘑菇",
+        "菌盖",
+        "蘑菇帽"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "红色蘑菇与冬青叶片组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-84aba2278705476dbb9a1c859281068c",
+      "name": "蘑菇冬青",
+      "original": {
+        "bytes": 1014895,
+        "format": "png",
+        "height": 1153,
+        "path": "files/0fd074ac1ea9d67e40acb21a19a0e7b100d7478db29f1040750ce99312235e71.png",
+        "sha256": "0fd074ac1ea9d67e40acb21a19a0e7b100d7478db29f1040750ce99312235e71",
+        "width": 1364
+      },
+      "published_at": 1792168733000,
+      "revision": "0fd074ac1ea9d67e40acb21a19a0e7b100d7478db29f1040750ce99312235e71",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-84aba2278705476dbb9a1c859281068c",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "tag-20d30a39902047c1a72148a230dba8af"
+      ],
+      "thumbnail": {
+        "bytes": 22814,
+        "format": "webp",
+        "height": 325,
+        "path": "files/ca0aaaa07e8e59e590e95aa1942b7b7600037c2f08a316cf921214f3fafc2dcd.webp",
+        "sha256": "ca0aaaa07e8e59e590e95aa1942b7b7600037c2f08a316cf921214f3fafc2dcd",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "retouch_2026082514451833",
+        "主角",
+        "主体",
+        "立绘",
+        "气球",
+        "派对",
+        "聚会",
+        "生日帽",
+        "红气球",
+        "三气球",
+        "balloon"
+      ],
+      "author": "zz",
+      "category": "SUBJECT",
+      "description": "佩戴派对帽、搭配红色气球的僵尸造型。保留原始透明 PNG、画布及像素；名称按画面特征整理。",
+      "id": "asset-86b877b4058845e8a680b1887bdef484",
+      "name": "红气球派对僵尸",
+      "original": {
+        "bytes": 607403,
+        "format": "png",
+        "height": 1312,
+        "path": "files/4544aeb5b47885bea2d34728c6728dbcb5dc31552b895da8b932ccbb4e8057ad.png",
+        "sha256": "4544aeb5b47885bea2d34728c6728dbcb5dc31552b895da8b932ccbb4e8057ad",
+        "width": 938
+      },
+      "published_at": 1792168314000,
+      "revision": "4544aeb5b47885bea2d34728c6728dbcb5dc31552b895da8b932ccbb4e8057ad",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-86b877b4058845e8a680b1887bdef484",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-2f9be048117b4975a9cd98f65dfd537a",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 22064,
+        "format": "webp",
+        "height": 384,
+        "path": "files/003c386a4b2c22eb0243459957b3966ae70e4870aa4b8287983a1711039bbb2a.webp",
+        "sha256": "003c386a4b2c22eb0243459957b3966ae70e4870aa4b8287983a1711039bbb2a",
+        "width": 275
+      },
+      "usage": "作者：zz；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "化学",
+        "实验室",
+        "量筒",
+        "锥形瓶",
+        "烧杯",
+        "试剂瓶",
+        "药剂",
+        "实验器材",
+        "科学",
+        "白色",
+        "透明PNG",
+        "chemistry",
+        "laboratory",
+        "beaker",
+        "flask"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含量筒、锥形瓶、烧杯与试剂瓶徽章；白色图形适合深色背景。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-86d11e052dba4ac2aba22ddcbd27e284",
+      "name": "化学实验室四格白色图案",
+      "original": {
+        "bytes": 899960,
+        "format": "png",
+        "height": 1254,
+        "path": "files/8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d.png",
+        "sha256": "8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "8551c5739ece06f9eb53088a238eebbc2ce98600732695c1dff455b8bb26247d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-86d11e052dba4ac2aba22ddcbd27e284",
+      "tags": [
+        "tag-995c1cae82824d529b2fd1e457673db3",
+        "white",
+        "badge",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 46008,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0dba8eb7bdcf2899f23b3a0a810de92ea494d0f2b5fd03c2852a4f7a02e3498e.webp",
+        "sha256": "0dba8eb7bdcf2899f23b3a0a810de92ea494d0f2b5fd03c2852a4f7a02e3498e",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_26_20_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "长条",
+        "墓柱",
+        "石柱",
+        "纵向",
+        "幽灵高塔"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "纵向长条墓柱与幽灵装饰，保留完整长画布。保留原始透明 PNG、画布与像素。",
+      "id": "asset-8b5632fa1d1646bd9f9f7ae3de9ef997",
+      "name": "幽灵墓柱",
+      "original": {
+        "bytes": 1634704,
+        "format": "png",
+        "height": 1983,
+        "path": "files/1703b23dbee90b03bb0e69be24ca85203403af3ce9ce834251afd3e349a634a3.png",
+        "sha256": "1703b23dbee90b03bb0e69be24ca85203403af3ce9ce834251afd3e349a634a3",
+        "width": 793
+      },
+      "published_at": 1792168733000,
+      "revision": "1703b23dbee90b03bb0e69be24ca85203403af3ce9ce834251afd3e349a634a3",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-8b5632fa1d1646bd9f9f7ae3de9ef997",
+      "tags": [
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-dc958d1634254e03984b9224614058d1",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 14118,
+        "format": "webp",
+        "height": 384,
+        "path": "files/9d60378a926cc7cc49412130cf16c4ccb2d81eb9d6173e89a3ec607d84481fc2.webp",
+        "sha256": "9d60378a926cc7cc49412130cf16c4ccb2d81eb9d6173e89a3ec607d84481fc2",
+        "width": 154
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_4",
+        "主角",
+        "主体",
+        "立绘",
+        "金蕊",
+        "金色",
+        "花蕊",
+        "金黄",
+        "golden bloom"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "金色花蕊与浅黄色花冠造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-8c90fae6dfc44010a527686cb0954bcd",
+      "name": "金蕊花灵",
+      "original": {
+        "bytes": 1080908,
+        "format": "png",
+        "height": 1254,
+        "path": "files/5efc85177156d02c1d78ab545d328cd4af9197edcbf9732d45e351760cb6558c.png",
+        "sha256": "5efc85177156d02c1d78ab545d328cd4af9197edcbf9732d45e351760cb6558c",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "5efc85177156d02c1d78ab545d328cd4af9197edcbf9732d45e351760cb6558c",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-8c90fae6dfc44010a527686cb0954bcd",
+      "tags": [
+        "plant",
+        "flower",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 26668,
+        "format": "webp",
+        "height": 384,
+        "path": "files/24871edfa4fbe67b76b0fbc58cab184b38d0331b4403e389a648e963cdaf4591.webp",
+        "sha256": "24871edfa4fbe67b76b0fbc58cab184b38d0331b4403e389a648e963cdaf4591",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "黍",
+        "01.png",
+        "01",
+        "明日方舟",
+        "稻穗",
+        "叶芽",
+        "金色角饰"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "明日方舟角色「黍」主题创作，作者 show；保留原始透明 PNG 字节、尺寸及完整画布。",
+      "id": "asset-8d0d6b87fb06400194ab803209647e55",
+      "name": "明日方舟 · 黍",
+      "original": {
+        "bytes": 2133406,
+        "format": "png",
+        "height": 1375,
+        "path": "files/232cc2aab4d3a4b643ed618537ca7dc6294539f186f9e4f3e79a68486e2c9d6f.png",
+        "sha256": "232cc2aab4d3a4b643ed618537ca7dc6294539f186f9e4f3e79a68486e2c9d6f",
+        "width": 1144
+      },
+      "published_at": 1792178414000,
+      "revision": "232cc2aab4d3a4b643ed618537ca7dc6294539f186f9e4f3e79a68486e2c9d6f",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-8d0d6b87fb06400194ab803209647e55",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-8b52a20311af413a96b513941bfe921e",
+        "plant",
+        "green",
+        "yellow",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9"
+      ],
+      "thumbnail": {
+        "bytes": 57128,
+        "format": "webp",
+        "height": 384,
+        "path": "files/7becdf379e966ecc3ae8fb21d2beacc9f5dc0879b3f61a6f53602a6da9738c98.webp",
+        "sha256": "7becdf379e966ecc3ae8fb21d2beacc9f5dc0879b3f61a6f53602a6da9738c98",
+        "width": 319
+      },
+      "usage": "本图作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1789318592924",
+        "卡框",
+        "边框",
+        "frame",
+        "绿红",
+        "红绿",
+        "树叶",
+        "爆裂",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·绿红，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-905899b24310403983237911e3a9d360",
+      "name": "双色卡框·绿红",
+      "original": {
+        "bytes": 278909,
+        "format": "png",
+        "height": 915,
+        "path": "files/9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b.png",
+        "sha256": "9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "9fadfd21e394564aebd0d63b8783619eb823aadff2f1f6b28841711d6c81d50b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-905899b24310403983237911e3a9d360",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "green",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 15966,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f2d2584d23c27f8e419f5689a509aec0bd30e62903f5074246ae1b9a08257a36.webp",
+        "sha256": "f2d2584d23c27f8e419f5689a509aec0bd30e62903f5074246ae1b9a08257a36",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_32_20_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "巨人",
+        "墓碑",
+        "背墓",
+        "幽灵"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "背负墓碑、伴随幽魂的巨人僵尸。保留原始透明 PNG、画布与像素。",
+      "id": "asset-90cc2dbf3f304b28ab1db29c5cb054d7",
+      "name": "背墓巨人僵尸",
+      "original": {
+        "bytes": 1926134,
+        "format": "png",
+        "height": 1254,
+        "path": "files/d75887f6abcd223f0ff6c7341d8cee4407c8deed08f0e5c8d89ae3918d1c5348.png",
+        "sha256": "d75887f6abcd223f0ff6c7341d8cee4407c8deed08f0e5c8d89ae3918d1c5348",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "d75887f6abcd223f0ff6c7341d8cee4407c8deed08f0e5c8d89ae3918d1c5348",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-90cc2dbf3f304b28ab1db29c5cb054d7",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-00e16cf749b242be93738beee266c94a",
+        "tag-385593fee23745d98bf48d25337c7fcb"
+      ],
+      "thumbnail": {
+        "bytes": 39346,
+        "format": "webp",
+        "height": 384,
+        "path": "files/388ad6e9648e195613d35086688c17f574a8742ab02eb24919f7a1b3450978f7.webp",
+        "sha256": "388ad6e9648e195613d35086688c17f574a8742ab02eb24919f7a1b3450978f7",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "IMG_0904",
+        "主角",
+        "主体",
+        "立绘",
+        "格纹帽",
+        "侦探",
+        "手绘",
+        "棕色帽"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "棕色格纹帽与绿色豌豆，原图带橙色背景。入库使用图像编辑服务生成的去背景衍生 PNG，原始带底色文件保留；衍生版不视为原图逐像素相同。",
+      "id": "asset-916ddf675ffb423c81f5bd0b5e441dc3",
+      "name": "格纹帽豌豆·手绘",
+      "original": {
+        "bytes": 876181,
+        "format": "png",
+        "height": 1254,
+        "path": "files/e4a7c485733ca231c0005e3a64c4905572453547212f7b410ed26f78cc24276a.png",
+        "sha256": "e4a7c485733ca231c0005e3a64c4905572453547212f7b410ed26f78cc24276a",
+        "width": 1254
+      },
+      "published_at": 1792168734000,
+      "revision": "e4a7c485733ca231c0005e3a64c4905572453547212f7b410ed26f78cc24276a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-916ddf675ffb423c81f5bd0b5e441dc3",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b"
+      ],
+      "thumbnail": {
+        "bytes": 21540,
+        "format": "webp",
+        "height": 384,
+        "path": "files/803c4adc82642356907a4239a7e29adf399a858fd7f561f4ef2cf2a40e5cc011.webp",
+        "sha256": "803c4adc82642356907a4239a7e29adf399a858fd7f561f4ef2cf2a40e5cc011",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_2",
+        "主角",
+        "主体",
+        "立绘",
+        "紫铃",
+        "紫花",
+        "铃铛",
+        "花蕾",
+        "purple bloom"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "紫色花冠与弯茎花蕾造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-93fe6fceec6341efb9632badb7c493ef",
+      "name": "紫铃花灵",
+      "original": {
+        "bytes": 979685,
+        "format": "png",
+        "height": 1254,
+        "path": "files/511707c1edbdafae03c8d20a85c2f6d6f0f2891d861a2721acdae2fd0830b9f9.png",
+        "sha256": "511707c1edbdafae03c8d20a85c2f6d6f0f2891d861a2721acdae2fd0830b9f9",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "511707c1edbdafae03c8d20a85c2f6d6f0f2891d861a2721acdae2fd0830b9f9",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-93fe6fceec6341efb9632badb7c493ef",
+      "tags": [
+        "plant",
+        "flower",
+        "purple"
+      ],
+      "thumbnail": {
+        "bytes": 24140,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3527e20e1a8cb7b4543938018fac2abf8926787e7e8c946697d50385961cd9f7.webp",
+        "sha256": "3527e20e1a8cb7b4543938018fac2abf8926787e7e8c946697d50385961cd9f7",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "海龟螺猫",
+        "卡框",
+        "边框",
+        "frame",
+        "暗红",
+        "爪痕",
+        "抓痕",
+        "三爪"
+      ],
+      "author": "海龟螺猫",
+      "category": "FRAME",
+      "description": "暗红爪痕卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-9c65840e670740d9ae04f8e4b638ae35",
+      "name": "暗红爪痕卡框",
+      "original": {
+        "bytes": 364412,
+        "format": "png",
+        "height": 1080,
+        "path": "files/072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a.png",
+        "sha256": "072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a",
+        "width": 1080
+      },
+      "published_at": 1792166280000,
+      "revision": "072f1f3829940b675441327794802bd5719c037a2346779c7b262fe78cfc451a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-9c65840e670740d9ae04f8e4b638ae35",
+      "tags": [
+        "red",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 12678,
+        "format": "webp",
+        "height": 384,
+        "path": "files/5d18cb7b6476d95b7da1d0fd920469008e238e97ae8bc2b98aa7d8c8d35fd9d5.webp",
+        "sha256": "5d18cb7b6476d95b7da1d0fd920469008e238e97ae8bc2b98aa7d8c8d35fd9d5",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT 图像 2026年9月27日 23_32_08.png",
+        "ChatGPT 图像 2026年9月27日 23_32_08",
+        "音符",
+        "乐谱",
+        "高音谱号",
+        "低音谱号"
+      ],
+      "author": "show",
+      "category": "BACKGROUND",
+      "description": "整张竖版背景底图，保留原始 PNG 字节及完整画布，按作者指定归入背景底图分区；显示名称按画面特征整理。",
+      "id": "asset-9f8e11a4827f4b94b74c7dd3a6bf2421",
+      "name": "蓝底音符背景",
+      "original": {
+        "bytes": 1352135,
+        "format": "png",
+        "height": 1672,
+        "path": "files/1d1d7bc437e61e0183036b47c910fb2c77b8742e610e48f0f87cff2379bfe1b2.png",
+        "sha256": "1d1d7bc437e61e0183036b47c910fb2c77b8742e610e48f0f87cff2379bfe1b2",
+        "width": 941
+      },
+      "published_at": 1792172160000,
+      "revision": "1d1d7bc437e61e0183036b47c910fb2c77b8742e610e48f0f87cff2379bfe1b2",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-9f8e11a4827f4b94b74c7dd3a6bf2421",
+      "tags": [
+        "blue",
+        "white",
+        "tag-7f7d8c3920024eaa88a9e05ac15b522c"
+      ],
+      "thumbnail": {
+        "bytes": 21124,
+        "format": "webp",
+        "height": 384,
+        "path": "files/5049d38eccb06a77b3e0e0708ee3384b73d227ce4cd5ecf7691bdc1b222499cb.webp",
+        "sha256": "5049d38eccb06a77b3e0e0708ee3384b73d227ce4cd5ecf7691bdc1b222499cb",
+        "width": 216
+      },
+      "usage": "作者：show。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "拉普兰德",
+        "Lappland",
+        "霜刃夜行",
+        "lappland-ribbon-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "RIBBON",
+      "description": "明日方舟角色「拉普兰德」配套原创设计，show策划、AI辅助制作。普通卡彩带，完整1000×2201透明大底图，文字中心(500,1302.5)；请保持完整画布，不裁成窄条。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-a1475952c4604bb2943f46789c4c6830",
+      "name": "明日方舟 · 拉普兰德 · 霜刃夜行彩带",
+      "original": {
+        "bytes": 237796,
+        "format": "png",
+        "height": 2201,
+        "path": "files/7b7129a4db8366c694f9fc4f4568ec32da3a09438483af323da4e0839ef5904f.png",
+        "sha256": "7b7129a4db8366c694f9fc4f4568ec32da3a09438483af323da4e0839ef5904f",
+        "width": 1000
+      },
+      "published_at": 1792255039000,
+      "revision": "7b7129a4db8366c694f9fc4f4568ec32da3a09438483af323da4e0839ef5904f",
+      "ribbon_scope": "CARD",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-a1475952c4604bb2943f46789c4c6830",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-f923342ec19c4d1dbd13251bc92bda21",
+        "black",
+        "white",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 3502,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b57546e44e76653f819d12c18c3ea4ec3aeabd8a2c64086711de14d3cc3ce21f.webp",
+        "sha256": "b57546e44e76653f819d12c18c3ea4ec3aeabd8a2c64086711de14d3cc3ce21f",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1788091219815",
+        "主角",
+        "主体",
+        "立绘",
+        "蘑菇群",
+        "尖牙",
+        "橙色菌盖",
+        "mushroom"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "多株橙色菌盖与尖牙蘑菇造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-a3122e86bf1545d5847921ea916ba3a2",
+      "name": "尖牙蘑菇",
+      "original": {
+        "bytes": 295018,
+        "format": "png",
+        "height": 1080,
+        "path": "files/744c47c03c999c8563629278543783e0d6873b6838ea0863f9abe0b7deadf594.png",
+        "sha256": "744c47c03c999c8563629278543783e0d6873b6838ea0863f9abe0b7deadf594",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "744c47c03c999c8563629278543783e0d6873b6838ea0863f9abe0b7deadf594",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-a3122e86bf1545d5847921ea916ba3a2",
+      "tags": [
+        "plant",
+        "tag-20d30a39902047c1a72148a230dba8af"
+      ],
+      "thumbnail": {
+        "bytes": 17062,
+        "format": "webp",
+        "height": 384,
+        "path": "files/44e68e45c93697768d0c9517ae15f026483d6b02321b2b3f2d9c9dfba11a5957.webp",
+        "sha256": "44e68e45c93697768d0c9517ae15f026483d6b02321b2b3f2d9c9dfba11a5957",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_1",
+        "主角",
+        "主体",
+        "立绘",
+        "赤瓣",
+        "食人花",
+        "红花",
+        "吞食",
+        "chomper"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "红色张口花冠与绿色植物主体。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-a37cf907c9024a34a2bf3e29f2d02e0d",
+      "name": "赤瓣食人花",
+      "original": {
+        "bytes": 1150374,
+        "format": "png",
+        "height": 1254,
+        "path": "files/50fc28add64652c21f546a91e75961b5ee7454307e59146b8cbc2b56f238b169.png",
+        "sha256": "50fc28add64652c21f546a91e75961b5ee7454307e59146b8cbc2b56f238b169",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "50fc28add64652c21f546a91e75961b5ee7454307e59146b8cbc2b56f238b169",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-a37cf907c9024a34a2bf3e29f2d02e0d",
+      "tags": [
+        "plant",
+        "flower",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 26356,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0b285bfc5982280ab588cec7430ef1c2e1e7c2932fcf1293e9bc394f21990a08.webp",
+        "sha256": "0b285bfc5982280ab588cec7430ef1c2e1e7c2932fcf1293e9bc394f21990a08",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1788872682645",
+        "主角",
+        "主体",
+        "立绘",
+        "兜帽",
+        "口罩",
+        "蒙面",
+        "黑衣",
+        "hood"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "穿黑色兜帽、戴面罩的僵尸。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-a54b9e0c250343b1bdced4b1f9486fab",
+      "name": "兜帽僵尸",
+      "original": {
+        "bytes": 290213,
+        "format": "png",
+        "height": 1080,
+        "path": "files/35a255793c3a3ad0890fa92856faacfdaa0fc847f257fa472f2af0103069723f.png",
+        "sha256": "35a255793c3a3ad0890fa92856faacfdaa0fc847f257fa472f2af0103069723f",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "35a255793c3a3ad0890fa92856faacfdaa0fc847f257fa472f2af0103069723f",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-a54b9e0c250343b1bdced4b1f9486fab",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 11678,
+        "format": "webp",
+        "height": 384,
+        "path": "files/460de0dd2f0c4edafda22b551ebfd77a70501fcd1f0484a1be3350bbc2202ad4.webp",
+        "sha256": "460de0dd2f0c4edafda22b551ebfd77a70501fcd1f0484a1be3350bbc2202ad4",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "exec-ffd24adc-a8f9-4197-9556-2763fdf5bd80",
+        "主角",
+        "主体",
+        "立绘",
+        "肌肉",
+        "力量",
+        "健身",
+        "手臂"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "拥有肌肉手臂的冬青。保留原始透明 PNG、画布与像素。",
+      "id": "asset-a64e045284dd4581a7970c006aa21303",
+      "name": "力量冬青",
+      "original": {
+        "bytes": 1166151,
+        "format": "png",
+        "height": 1153,
+        "path": "files/974331ebe14dcd50461b092feba9494eb146677411d78ad834857744dee7a72b.png",
+        "sha256": "974331ebe14dcd50461b092feba9494eb146677411d78ad834857744dee7a72b",
+        "width": 1364
+      },
+      "published_at": 1792168734000,
+      "revision": "974331ebe14dcd50461b092feba9494eb146677411d78ad834857744dee7a72b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-a64e045284dd4581a7970c006aa21303",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "tag-385593fee23745d98bf48d25337c7fcb"
+      ],
+      "thumbnail": {
+        "bytes": 26278,
+        "format": "webp",
+        "height": 325,
+        "path": "files/fd83666f75c9959877b5f034b45df3e8f6fc8c653c47c567102f10624fac20a1.webp",
+        "sha256": "fd83666f75c9959877b5f034b45df3e8f6fc8c653c47c567102f10624fac20a1",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014",
+        "主角",
+        "主体",
+        "立绘",
+        "水环",
+        "水流",
+        "蓝花",
+        "水珠",
+        "water flower"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "蓝色花朵、水环与水珠造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-aa668bac56c143a5b1912b564d4348cb",
+      "name": "水环蓝花",
+      "original": {
+        "bytes": 1042881,
+        "format": "png",
+        "height": 1254,
+        "path": "files/2a620b075023dbb27e2f6e2013cb962d3d920a9bceb88055f6c6b045919815b7.png",
+        "sha256": "2a620b075023dbb27e2f6e2013cb962d3d920a9bceb88055f6c6b045919815b7",
+        "width": 1254
+      },
+      "published_at": 1792169693000,
+      "revision": "2a620b075023dbb27e2f6e2013cb962d3d920a9bceb88055f6c6b045919815b7",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-aa668bac56c143a5b1912b564d4348cb",
+      "tags": [
+        "plant",
+        "flower",
+        "blue",
+        "tag-b065a4e51760488d80b2978194b2f271"
+      ],
+      "thumbnail": {
+        "bytes": 26140,
+        "format": "webp",
+        "height": 384,
+        "path": "files/89705372b94991748405d1c83a5f75314f68f4d06d058d2e21af08cf7e58870e.webp",
+        "sha256": "89705372b94991748405d1c83a5f75314f68f4d06d058d2e21af08cf7e58870e",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787711767766",
+        "1787711767766 (1)",
+        "主角",
+        "主体",
+        "立绘",
+        "歌唱",
+        "歌手",
+        "红色眼镜",
+        "麦克风",
+        "舞台",
+        "singer"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "戴红色眼镜、搭配麦克风的向日葵。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-aad46fc6048544c9a1e8b51735e21b15",
+      "name": "歌手向日葵",
+      "original": {
+        "bytes": 480234,
+        "format": "png",
+        "height": 1080,
+        "path": "files/eb361ba8d9e3c6dcd281b072d9c019b0cd1c415c019315ac563cde8b5f734f66.png",
+        "sha256": "eb361ba8d9e3c6dcd281b072d9c019b0cd1c415c019315ac563cde8b5f734f66",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "eb361ba8d9e3c6dcd281b072d9c019b0cd1c415c019315ac563cde8b5f734f66",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-aad46fc6048544c9a1e8b51735e21b15",
+      "tags": [
+        "plant",
+        "tag-e45dc97cb325441eb6a5eb268e24f4c3",
+        "tag-7f7d8c3920024eaa88a9e05ac15b522c"
+      ],
+      "thumbnail": {
+        "bytes": 22632,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3f51d3c413ace74010b2e3237003457df523ef064743790ceb55695a5c5e29ed.webp",
+        "sha256": "3f51d3c413ace74010b2e3237003457df523ef064743790ceb55695a5c5e29ed",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "IMG_0958",
+        "主角",
+        "主体",
+        "立绘",
+        "寒冰",
+        "毛线帽",
+        "橙帽",
+        "雪花",
+        "冰豌豆"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "戴橙绿毛线帽的蓝色豌豆，原图带蓝白背景。入库使用图像编辑服务生成的去背景衍生 PNG，原始带底色文件保留；衍生版不视为原图逐像素相同。",
+      "id": "asset-aaf8f7d8614d43a8b70ca34394ff07aa",
+      "name": "毛线帽寒冰豌豆",
+      "original": {
+        "bytes": 807919,
+        "format": "png",
+        "height": 1254,
+        "path": "files/6c85561a405269840ea91b4ee9bf1f3113ac1c7cb5c4b80e524a6fe25ff71849.png",
+        "sha256": "6c85561a405269840ea91b4ee9bf1f3113ac1c7cb5c4b80e524a6fe25ff71849",
+        "width": 1254
+      },
+      "published_at": 1792168734000,
+      "revision": "6c85561a405269840ea91b4ee9bf1f3113ac1c7cb5c4b80e524a6fe25ff71849",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-aaf8f7d8614d43a8b70ca34394ff07aa",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-0b4477f505a74f718f8f57a58bb0c5e7",
+        "tag-a90921b2fd31416cb9d1ee2b8622d79b"
+      ],
+      "thumbnail": {
+        "bytes": 22294,
+        "format": "webp",
+        "height": 384,
+        "path": "files/df7feac408d74fdf7832aff3a5dccd2a45ed9e7944f6379b58097ce3f2e49b7a.webp",
+        "sha256": "df7feac408d74fdf7832aff3a5dccd2a45ed9e7944f6379b58097ce3f2e49b7a",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "白金",
+        "Platinum",
+        "银羽弦音",
+        "platinum-ribbon-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "RIBBON",
+      "description": "明日方舟角色「白金」配套原创设计，show策划、AI辅助制作。普通卡彩带，完整1000×2201透明大底图，文字中心(500,1302.5)；请保持完整画布，不裁成窄条。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-adf7b756170f4f29b939fffbd21ba9af",
+      "name": "明日方舟 · 白金 · 银羽弦音彩带",
+      "original": {
+        "bytes": 251773,
+        "format": "png",
+        "height": 2201,
+        "path": "files/a0c1db5d925c492d5971fad419756b14959204b4b809d6350db9296cbc79647d.png",
+        "sha256": "a0c1db5d925c492d5971fad419756b14959204b4b809d6350db9296cbc79647d",
+        "width": 1000
+      },
+      "published_at": 1792255038000,
+      "revision": "a0c1db5d925c492d5971fad419756b14959204b4b809d6350db9296cbc79647d",
+      "ribbon_scope": "CARD",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-adf7b756170f4f29b939fffbd21ba9af",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-2fe5ec63414649a3828a53278744cb88",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "white",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 3456,
+        "format": "webp",
+        "height": 384,
+        "path": "files/ff5f418f91e7eb49ee27a229acbabcaa0e9b56917f41d1c6323f6e7e5167f2b9.webp",
+        "sha256": "ff5f418f91e7eb49ee27a229acbabcaa0e9b56917f41d1c6323f6e7e5167f2b9",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "闹吃",
+        "主角",
+        "主体",
+        "立绘",
+        "肌肉",
+        "健身",
+        "黑帽",
+        "黑裤"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "戴黑帽的肌肉人物主体，沿用作者文件名。保留原始透明 PNG、画布与像素。",
+      "id": "asset-ae486f61b5fa487daa14b2ccb1fe77ec",
+      "name": "闹吃",
+      "original": {
+        "bytes": 1887936,
+        "format": "png",
+        "height": 1293,
+        "path": "files/b1b5fe9421e3505a70102364e9b115e30ac22e4d580b102fc7b2bd860a8732e9.png",
+        "sha256": "b1b5fe9421e3505a70102364e9b115e30ac22e4d580b102fc7b2bd860a8732e9",
+        "width": 1216
+      },
+      "published_at": 1792168734000,
+      "revision": "b1b5fe9421e3505a70102364e9b115e30ac22e4d580b102fc7b2bd860a8732e9",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ae486f61b5fa487daa14b2ccb1fe77ec",
+      "tags": [
+        "tag-8b52a20311af413a96b513941bfe921e",
+        "tag-385593fee23745d98bf48d25337c7fcb",
+        "black"
+      ],
+      "thumbnail": {
+        "bytes": 18794,
+        "format": "webp",
+        "height": 384,
+        "path": "files/7fe50f4fe906987a2670a0e7185aea8f43e1a20e5eeb43d4463690d893706fdc.webp",
+        "sha256": "7fe50f4fe906987a2670a0e7185aea8f43e1a20e5eeb43d4463690d893706fdc",
+        "width": 361
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789535981015",
+        "主角",
+        "主体",
+        "立绘",
+        "双头",
+        "组合植物",
+        "阳光",
+        "黄色",
+        "sunflower pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "向日葵与豌豆组合的双头植物。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-b5037551baee4a9ba262a777f82eff74",
+      "name": "豌豆向日葵",
+      "original": {
+        "bytes": 457477,
+        "format": "png",
+        "height": 1080,
+        "path": "files/062b3d8d70b57440619663ce61d88e431b276537587c018c428fc9ad6bd9bdf3.png",
+        "sha256": "062b3d8d70b57440619663ce61d88e431b276537587c018c428fc9ad6bd9bdf3",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "062b3d8d70b57440619663ce61d88e431b276537587c018c428fc9ad6bd9bdf3",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-b5037551baee4a9ba262a777f82eff74",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-e45dc97cb325441eb6a5eb268e24f4c3"
+      ],
+      "thumbnail": {
+        "bytes": 21910,
+        "format": "webp",
+        "height": 384,
+        "path": "files/48f8e4dd3ac012456125165548657e63a770a1852495bac685ae7c69c56dfaf3.webp",
+        "sha256": "48f8e4dd3ac012456125165548657e63a770a1852495bac685ae7c69c56dfaf3",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1790430223",
+        "主角",
+        "主体",
+        "立绘",
+        "蔷薇",
+        "玫瑰",
+        "粉发",
+        "花瓣",
+        "rose"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "粉色头发、蔷薇花冠与绿叶组合。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-b8b687407bdb4738a10c5a6ded2c5c33",
+      "name": "蔷薇花灵",
+      "original": {
+        "bytes": 1471875,
+        "format": "png",
+        "height": 1254,
+        "path": "files/d44ffdece15941887e1af848c192f4c22a19cb7caf0b46b21e3ec11d8af758a5.png",
+        "sha256": "d44ffdece15941887e1af848c192f4c22a19cb7caf0b46b21e3ec11d8af758a5",
+        "width": 1254
+      },
+      "published_at": 1792169693000,
+      "revision": "d44ffdece15941887e1af848c192f4c22a19cb7caf0b46b21e3ec11d8af758a5",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-b8b687407bdb4738a10c5a6ded2c5c33",
+      "tags": [
+        "plant",
+        "flower",
+        "pink",
+        "tag-5a4f1386714145a4be3be6167eddd586"
+      ],
+      "thumbnail": {
+        "bytes": 47484,
+        "format": "webp",
+        "height": 384,
+        "path": "files/4b11aa335bec958fd1592af9dd0a41c836c135f50c00f761c04e77ffe12d1c5d.webp",
+        "sha256": "4b11aa335bec958fd1592af9dd0a41c836c135f50c00f761c04e77ffe12d1c5d",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318679116",
+        "卡框",
+        "边框",
+        "frame",
+        "红银",
+        "银红",
+        "爆裂",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·红银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-bec25e56341b4f20b232227e5e5ea18c",
+      "name": "双色卡框·红银",
+      "original": {
+        "bytes": 275050,
+        "format": "png",
+        "height": 915,
+        "path": "files/d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99.png",
+        "sha256": "d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "d318c323a43ca75001559d9211b57d8de8b4a9e3badb806f090c0ae87fa85e99",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-bec25e56341b4f20b232227e5e5ea18c",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "red",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 14838,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d491b9098689c01c53500554aa01b21df0ed4928ca7731cbd3ba42589c2dd284.webp",
+        "sha256": "d491b9098689c01c53500554aa01b21df0ed4928ca7731cbd3ba42589c2dd284",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789546124376",
+        "主角",
+        "主体",
+        "立绘",
+        "红色",
+        "拳击",
+        "拳套",
+        "红豌豆",
+        "boxing pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "红色拳套轮廓与豌豆炮口组合造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-bf58c527d58c4457921b56d9ec36a47f",
+      "name": "红拳豌豆",
+      "original": {
+        "bytes": 439467,
+        "format": "png",
+        "height": 1080,
+        "path": "files/cde02d56ec30e696c266720f586a2739a17d6f3e347942ad42243c789f294601.png",
+        "sha256": "cde02d56ec30e696c266720f586a2739a17d6f3e347942ad42243c789f294601",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "cde02d56ec30e696c266720f586a2739a17d6f3e347942ad42243c789f294601",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-bf58c527d58c4457921b56d9ec36a47f",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 18912,
+        "format": "webp",
+        "height": 384,
+        "path": "files/1fb2f7fd6c7649798d82fecd6e067e709ff20ac50a2b5d50d328f5803515e0e9.webp",
+        "sha256": "1fb2f7fd6c7649798d82fecd6e067e709ff20ac50a2b5d50d328f5803515e0e9",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "海龟螺猫2",
+        "卡框",
+        "边框",
+        "frame",
+        "红黑",
+        "骷髅",
+        "头骨",
+        "黑红"
+      ],
+      "author": "海龟螺猫2",
+      "category": "FRAME",
+      "description": "红黑骷髅卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-c1dca26f47ee4b4182fd20745d60e8f6",
+      "name": "红黑骷髅卡框",
+      "original": {
+        "bytes": 227647,
+        "format": "png",
+        "height": 2201,
+        "path": "files/f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda.png",
+        "sha256": "f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda",
+        "width": 1000
+      },
+      "published_at": 1792166280000,
+      "revision": "f644f17b9754479320c973ca45c012555617fde1265d4ad935412f101a2aebda",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-c1dca26f47ee4b4182fd20745d60e8f6",
+      "tags": [
+        "red",
+        "black",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 4490,
+        "format": "webp",
+        "height": 384,
+        "path": "files/c27b42c13c5272fd37b60f36b42ca02cb8e1f989adc75083631bfbdc418474b5.webp",
+        "sha256": "c27b42c13c5272fd37b60f36b42ca02cb8e1f989adc75083631bfbdc418474b5",
+        "width": 174
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_12_06_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "幽魂",
+        "魂火",
+        "破衣",
+        "绿焰"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "伴随绿色幽魂、衣物破旧的僵尸。保留原始透明 PNG、画布与像素。",
+      "id": "asset-c328d7b1044b459986590028a54d93d7",
+      "name": "幽魂僵尸",
+      "original": {
+        "bytes": 1621249,
+        "format": "png",
+        "height": 1254,
+        "path": "files/a0fc6fd4c8cfbf356496342e8bb52c78acd7b634e5233b9b42c6285a7718f2e7.png",
+        "sha256": "a0fc6fd4c8cfbf356496342e8bb52c78acd7b634e5233b9b42c6285a7718f2e7",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "a0fc6fd4c8cfbf356496342e8bb52c78acd7b634e5233b9b42c6285a7718f2e7",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-c328d7b1044b459986590028a54d93d7",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-dc958d1634254e03984b9224614058d1",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 32344,
+        "format": "webp",
+        "height": 384,
+        "path": "files/563a29424d034144706dc8f36ba92fcd61818f0c641c516a7fa4e27d0a8107ba.webp",
+        "sha256": "563a29424d034144706dc8f36ba92fcd61818f0c641c516a7fa4e27d0a8107ba",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1786884151912",
+        "主角",
+        "主体",
+        "立绘",
+        "香蕉",
+        "脑子",
+        "大脑",
+        "尖牙",
+        "紫色披风",
+        "brain banana"
+      ],
+      "author": "食虎草",
+      "category": "SUBJECT",
+      "description": "黄色香蕉造型，带尖牙与脑图案、紫色披风。保留原始透明 PNG、1080 × 1080 画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-ca7566080d044f29b46c3849fdcf2eb8",
+      "name": "噬脑香蕉",
+      "original": {
+        "bytes": 155338,
+        "format": "png",
+        "height": 1080,
+        "path": "files/e408e7999b74bba62e86dc61e7c4536ba628c2ad72f117ae4cf9724f58f9d6af.png",
+        "sha256": "e408e7999b74bba62e86dc61e7c4536ba628c2ad72f117ae4cf9724f58f9d6af",
+        "width": 1080
+      },
+      "published_at": 1792169198000,
+      "revision": "e408e7999b74bba62e86dc61e7c4536ba628c2ad72f117ae4cf9724f58f9d6af",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ca7566080d044f29b46c3849fdcf2eb8",
+      "tags": [
+        "plant",
+        "tag-ee82e33f40e84c82bbbd1f949d1895c5",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 17232,
+        "format": "webp",
+        "height": 384,
+        "path": "files/9f771e39339622d23671fecd4203e61713b2e735b7e159e5231bb41a356e2afd.webp",
+        "sha256": "9f771e39339622d23671fecd4203e61713b2e735b7e159e5231bb41a356e2afd",
+        "width": 384
+      },
+      "usage": "作者：食虎草；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1784699704233",
+        "主角",
+        "主体",
+        "立绘",
+        "暗影",
+        "幽影",
+        "绿色",
+        "紫色",
+        "shadow pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "绿色豌豆配紫色暗影底座。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-dde2568be46b4956a553b4777e18f518",
+      "name": "暗影豌豆",
+      "original": {
+        "bytes": 173516,
+        "format": "png",
+        "height": 1080,
+        "path": "files/bbb9dd5183463b292a884157e0ec774ac0543b473edf1d302e50a7fcd1c0ea52.png",
+        "sha256": "bbb9dd5183463b292a884157e0ec774ac0543b473edf1d302e50a7fcd1c0ea52",
+        "width": 1080
+      },
+      "published_at": 1792167908000,
+      "revision": "bbb9dd5183463b292a884157e0ec774ac0543b473edf1d302e50a7fcd1c0ea52",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-dde2568be46b4956a553b4777e18f518",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 9856,
+        "format": "webp",
+        "height": 384,
+        "path": "files/5fb7394b51fabdc2cc55e353623936409cbde88bce57f07828cff7526231ba70.webp",
+        "sha256": "5fb7394b51fabdc2cc55e353623936409cbde88bce57f07828cff7526231ba70",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790503014_3",
+        "主角",
+        "主体",
+        "立绘",
+        "垂铃",
+        "白花",
+        "铃兰",
+        "绿叶",
+        "hanging bloom"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "绿色花冠与下垂白色铃状花朵。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-dec151d4fd4f424abdb3c021fe358423",
+      "name": "垂铃花灵",
+      "original": {
+        "bytes": 957863,
+        "format": "png",
+        "height": 1254,
+        "path": "files/8e601b3cad4b5b6cad4c42f18acb05447afc444846448e70ac5f10337ea76b23.png",
+        "sha256": "8e601b3cad4b5b6cad4c42f18acb05447afc444846448e70ac5f10337ea76b23",
+        "width": 1254
+      },
+      "published_at": 1792169694000,
+      "revision": "8e601b3cad4b5b6cad4c42f18acb05447afc444846448e70ac5f10337ea76b23",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-dec151d4fd4f424abdb3c021fe358423",
+      "tags": [
+        "plant",
+        "flower",
+        "green",
+        "white"
+      ],
+      "thumbnail": {
+        "bytes": 23876,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f8ccc908037df63d2453bae29893cb09301ec0a67e889eb3171c83f4bc21b95f.webp",
+        "sha256": "f8ccc908037df63d2453bae29893cb09301ec0a67e889eb3171c83f4bc21b95f",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_16_17_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "幽灵",
+        "披布",
+        "魂火",
+        "鬼魂"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "紫色披布幽灵与绿色魂火。保留原始透明 PNG、画布与像素。",
+      "id": "asset-dfca3f8b3e1740a48290f778b7bd01e5",
+      "name": "紫衣幽灵",
+      "original": {
+        "bytes": 1588740,
+        "format": "png",
+        "height": 1254,
+        "path": "files/a4278540f1e77d82ffbf29a8aebbd84029bc92dcd455c516ff09cd54cb67e4da.png",
+        "sha256": "a4278540f1e77d82ffbf29a8aebbd84029bc92dcd455c516ff09cd54cb67e4da",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "a4278540f1e77d82ffbf29a8aebbd84029bc92dcd455c516ff09cd54cb67e4da",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-dfca3f8b3e1740a48290f778b7bd01e5",
+      "tags": [
+        "tag-dc958d1634254e03984b9224614058d1",
+        "purple",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 36042,
+        "format": "webp",
+        "height": 384,
+        "path": "files/ba732eb77979b4f2ca6f6068b87c5b0ac69a9ae6c33d637883eca6958aac841f.webp",
+        "sha256": "ba732eb77979b4f2ca6f6068b87c5b0ac69a9ae6c33d637883eca6958aac841f",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "休004",
+        "卡框",
+        "边框",
+        "frame",
+        "米白",
+        "象牙白",
+        "羽翼",
+        "翅膀",
+        "金色边框"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "米白羽翼卡框，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-e13a793925a64c868dfabc0c2b66cece",
+      "name": "米白羽翼卡框",
+      "original": {
+        "bytes": 546857,
+        "format": "png",
+        "height": 1888,
+        "path": "files/21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127.png",
+        "sha256": "21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127",
+        "width": 833
+      },
+      "published_at": 1792166280000,
+      "revision": "21a33cbf0a8ddd3db94ac7c4f62b72d562174f60d3f1fa91d8521a0c9ba92127",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e13a793925a64c868dfabc0c2b66cece",
+      "tags": [
+        "white",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 6000,
+        "format": "webp",
+        "height": 384,
+        "path": "files/06d61fe8f671aa6bf2ce1284db9f9d18db34cecd1f171f7435d8d11c789e8bdc.webp",
+        "sha256": "06d61fe8f671aa6bf2ce1284db9f9d18db34cecd1f171f7435d8d11c789e8bdc",
+        "width": 169
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1790432827",
+        "主角",
+        "主体",
+        "立绘",
+        "白发",
+        "星瞳",
+        "蓝眼",
+        "侧马尾",
+        "头饰",
+        "white hair pea"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "白发蓝眼星瞳、侧马尾与豌豆炮口组合。入库使用图像编辑服务生成的去背景衍生 PNG，原始黑底文件保留，衍生版不保证与原图逐像素相同。显示名称按画面特征整理。",
+      "id": "asset-e2dd98cb6b114f9aaed39417f2ab3337",
+      "name": "白发星瞳豌豆",
+      "original": {
+        "bytes": 1131021,
+        "format": "png",
+        "height": 1254,
+        "path": "files/1178e47016adf8e369e8eb94786549eb275428d817300317f449639978a446f7.png",
+        "sha256": "1178e47016adf8e369e8eb94786549eb275428d817300317f449639978a446f7",
+        "width": 1254
+      },
+      "published_at": 1792169693000,
+      "revision": "1178e47016adf8e369e8eb94786549eb275428d817300317f449639978a446f7",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e2dd98cb6b114f9aaed39417f2ab3337",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "white",
+        "star"
+      ],
+      "thumbnail": {
+        "bytes": 30466,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0ce72a591487a1752eface3e711a6cda5e857fc2a3b9753d0adb80eea5f81c41.webp",
+        "sha256": "0ce72a591487a1752eface3e711a6cda5e857fc2a3b9753d0adb80eea5f81c41",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "元素",
+        "火",
+        "水",
+        "土",
+        "风",
+        "火焰",
+        "水滴",
+        "山岩",
+        "晶体",
+        "旋风",
+        "自然元素",
+        "elemental",
+        "fire",
+        "water",
+        "earth",
+        "wind"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含火焰、水滴、山岩晶体与旋风四种元素徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-e51ba82e9ab74deea7b041ec2b7dded5",
+      "name": "四元素徽章四格线稿",
+      "original": {
+        "bytes": 1643972,
+        "format": "png",
+        "height": 1254,
+        "path": "files/05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2.png",
+        "sha256": "05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "05c0b1fa086f6d8a7cdfdb955b55de5319543fc41c2132ffa4bcd3b91e3308a2",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e51ba82e9ab74deea7b041ec2b7dded5",
+      "tags": [
+        "tag-42e36e00dfff4546829dfe8c6e126b0c",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 59410,
+        "format": "webp",
+        "height": 384,
+        "path": "files/9701308c5fa8fe981e31b1f9805a4a63453a873ba890869fbeb9bd6c3c299cd2.webp",
+        "sha256": "9701308c5fa8fe981e31b1f9805a4a63453a873ba890869fbeb9bd6c3c299cd2",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "白金",
+        "Platinum",
+        "银羽弦音",
+        "platinum-frame-1000x2201.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "FRAME",
+      "description": "明日方舟角色「白金」配套原创设计，show策划、AI辅助制作。1000×2201完整画布，象牙白银灰边框、半透明深灰蓝内衬，人物圆窗透明，适用于普通卡。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-e66084a67ceb47b6abf78c59041a5d82",
+      "name": "明日方舟 · 白金 · 银羽暗底卡框",
+      "original": {
+        "bytes": 1059738,
+        "format": "png",
+        "height": 2201,
+        "path": "files/543bc57f32c85fb6afa2241252bdf6fab28e85ba9b0ac055f4f2d83e9c209b24.png",
+        "sha256": "543bc57f32c85fb6afa2241252bdf6fab28e85ba9b0ac055f4f2d83e9c209b24",
+        "width": 1000
+      },
+      "published_at": 1792255038000,
+      "revision": "543bc57f32c85fb6afa2241252bdf6fab28e85ba9b0ac055f4f2d83e9c209b24",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e66084a67ceb47b6abf78c59041a5d82",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-2fe5ec63414649a3828a53278744cb88",
+        "tag-598ead10a7d24ea1ac340378a112a0a0",
+        "white",
+        "tag-b95c22f1fd9643d5884b568cd524dd38"
+      ],
+      "thumbnail": {
+        "bytes": 13028,
+        "format": "webp",
+        "height": 384,
+        "path": "files/66c230ae3a24cb6599bfae18519709c945f1f7c3b8f06044ed75df6b069c7164.webp",
+        "sha256": "66c230ae3a24cb6599bfae18519709c945f1f7c3b8f06044ed75df6b069c7164",
+        "width": 174
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "星月",
+        "太阳",
+        "月亮",
+        "星星",
+        "日月",
+        "天体",
+        "星空",
+        "白昼",
+        "夜晚",
+        "星辰",
+        "celestial",
+        "sun",
+        "moon",
+        "stars"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含太阳、弯月星光及日月组合的四款徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "asset-e764ba12d17246c1958197296edfb5c9",
+      "name": "日月星辰徽章四格线稿",
+      "original": {
+        "bytes": 1191166,
+        "format": "png",
+        "height": 1254,
+        "path": "files/eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a.png",
+        "sha256": "eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a",
+        "width": 1254
+      },
+      "published_at": 1792165833000,
+      "revision": "eeeb162da1642361a425c7659e169dc4cd3d14ce45ac36f7c2fad1b1a2b9ee2a",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e764ba12d17246c1958197296edfb5c9",
+      "tags": [
+        "tag-20d6314042a64a4da946b4b1860ae5b4",
+        "star",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 44810,
+        "format": "webp",
+        "height": 384,
+        "path": "files/65cec553a856ccce2c3aca1a459b1956ae6aa5bdea26be4644dc8ca77e8b200c.webp",
+        "sha256": "65cec553a856ccce2c3aca1a459b1956ae6aa5bdea26be4644dc8ca77e8b200c",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "0409_快乐的冬青",
+        "主角",
+        "主体",
+        "立绘",
+        "冬青",
+        "红色浆果",
+        "快乐冬青",
+        "0409"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "三颗红色浆果与冬青叶片组合。保留原始透明 PNG、画布与像素。",
+      "id": "asset-e99bc6c7ff954638b738bcfcd59678fa",
+      "name": "快乐的冬青",
+      "original": {
+        "bytes": 58675,
+        "format": "png",
+        "height": 223,
+        "path": "files/7fb224ec58a70f46db4795a7507dd684afdb70dcdf86a0ce98ae28301d778b20.png",
+        "sha256": "7fb224ec58a70f46db4795a7507dd684afdb70dcdf86a0ce98ae28301d778b20",
+        "width": 264
+      },
+      "published_at": 1792168732000,
+      "revision": "7fb224ec58a70f46db4795a7507dd684afdb70dcdf86a0ce98ae28301d778b20",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e99bc6c7ff954638b738bcfcd59678fa",
+      "tags": [
+        "plant",
+        "tag-71895e1e50a44752bf9d385555e79192",
+        "red"
+      ],
+      "thumbnail": {
+        "bytes": 24122,
+        "format": "webp",
+        "height": 324,
+        "path": "files/b105f9d36a9faf7fc1b7acfeab3ba2dc5b8267abb2653abee7a58a57f6e9028c.webp",
+        "sha256": "b105f9d36a9faf7fc1b7acfeab3ba2dc5b8267abb2653abee7a58a57f6e9028c",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 04_01_35_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "亡灵",
+        "法师",
+        "法杖",
+        "绿焰",
+        "召唤"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "手持骷髅法杖、召唤绿色幽灵的僵尸。保留原始透明 PNG、画布与像素。",
+      "id": "asset-ea64926c347349358b422173844f9222",
+      "name": "亡灵法师僵尸",
+      "original": {
+        "bytes": 2054039,
+        "format": "png",
+        "height": 1254,
+        "path": "files/758ff20be6d50335806dc11fd2ebc56856e194967c97cf14b7120a724abb7609.png",
+        "sha256": "758ff20be6d50335806dc11fd2ebc56856e194967c97cf14b7120a724abb7609",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "758ff20be6d50335806dc11fd2ebc56856e194967c97cf14b7120a724abb7609",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ea64926c347349358b422173844f9222",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-dc958d1634254e03984b9224614058d1",
+        "tag-00e16cf749b242be93738beee266c94a"
+      ],
+      "thumbnail": {
+        "bytes": 44628,
+        "format": "webp",
+        "height": 384,
+        "path": "files/5c85f1a9c9383c00c0ee2cfda7d9dfd1cf3ef0e6afb5de6500fb90f944bafa0e.webp",
+        "sha256": "5c85f1a9c9383c00c0ee2cfda7d9dfd1cf3ef0e6afb5de6500fb90f944bafa0e",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "ChatGPT Image 2026年9月6日 03_53_20_transparent",
+        "主角",
+        "主体",
+        "立绘",
+        "骨头",
+        "背包",
+        "拾骨",
+        "铲子"
+      ],
+      "author": "show",
+      "category": "SUBJECT",
+      "description": "携带骨头、背包与铁铲的僵尸。保留原始透明 PNG、画布与像素。",
+      "id": "asset-ea7fb933fc9449079cd778cb25a83b94",
+      "name": "拾骨僵尸",
+      "original": {
+        "bytes": 1325726,
+        "format": "png",
+        "height": 1254,
+        "path": "files/0ee99141944e57fbe95f6e5fabfcce3d7f44eafcb89b4e14ea511ca71c03862c.png",
+        "sha256": "0ee99141944e57fbe95f6e5fabfcce3d7f44eafcb89b4e14ea511ca71c03862c",
+        "width": 1254
+      },
+      "published_at": 1792168733000,
+      "revision": "0ee99141944e57fbe95f6e5fabfcce3d7f44eafcb89b4e14ea511ca71c03862c",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ea7fb933fc9449079cd778cb25a83b94",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-00e16cf749b242be93738beee266c94a"
+      ],
+      "thumbnail": {
+        "bytes": 26734,
+        "format": "webp",
+        "height": 384,
+        "path": "files/610ce3e24d5f82bb4c212eac8181dc744a4803a25cae5deead5a06e2a1476dde.webp",
+        "sha256": "610ce3e24d5f82bb4c212eac8181dc744a4803a25cae5deead5a06e2a1476dde",
+        "width": 384
+      },
+      "usage": "作者：show；维护者本人提供，可使用及下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789318633882",
+        "卡框",
+        "边框",
+        "frame",
+        "棕银",
+        "银棕",
+        "盾牌",
+        "学士帽",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·棕银，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-ed38dd26035a43c6a120007332478497",
+      "name": "双色卡框·棕银",
+      "original": {
+        "bytes": 275526,
+        "format": "png",
+        "height": 915,
+        "path": "files/3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786.png",
+        "sha256": "3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "3149c239f5f577075741d3e68764b71d2abe85fb0726f0807c55c2033493f786",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ed38dd26035a43c6a120007332478497",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "tag-178911e40079466b969cf2c29cf74778",
+        "tag-598ead10a7d24ea1ac340378a112a0a0"
+      ],
+      "thumbnail": {
+        "bytes": 14656,
+        "format": "webp",
+        "height": 384,
+        "path": "files/f5b8c0059bc55e36d836f3c67c818652d02e290475d3e833e1283fd0c3e23ca3.webp",
+        "sha256": "f5b8c0059bc55e36d836f3c67c818652d02e290475d3e833e1283fd0c3e23ca3",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787131568121",
+        "主角",
+        "主体",
+        "立绘",
+        "独眼",
+        "机器人",
+        "机械足",
+        "脑舱",
+        "robot"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "独眼机械躯体与顶部驾驶舱造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-ef93e028fb964b53af0056cab262eb57",
+      "name": "独眼机甲僵尸",
+      "original": {
+        "bytes": 505742,
+        "format": "png",
+        "height": 1080,
+        "path": "files/9fcd1a872ca53abebd8a52b13063655e8e91b129d6e22db88727bc023212ccb0.png",
+        "sha256": "9fcd1a872ca53abebd8a52b13063655e8e91b129d6e22db88727bc023212ccb0",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "9fcd1a872ca53abebd8a52b13063655e8e91b129d6e22db88727bc023212ccb0",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-ef93e028fb964b53af0056cab262eb57",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-13a34529f254489da39505a0197fe64f",
+        "tag-ae5a694191254de1a8aadf374593bc1b"
+      ],
+      "thumbnail": {
+        "bytes": 19764,
+        "format": "webp",
+        "height": 384,
+        "path": "files/ded4d3323ab7321c2701d10cf325869adff9d883fb7e57ab44f2fa5f07c8aaed.webp",
+        "sha256": "ded4d3323ab7321c2701d10cf325869adff9d883fb7e57ab44f2fa5f07c8aaed",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1788267742908",
+        "主角",
+        "主体",
+        "立绘",
+        "三眼",
+        "种荚",
+        "种壳",
+        "棕色",
+        "seed pod"
+      ],
+      "author": "食虎草",
+      "category": "SUBJECT",
+      "description": "棕色种荚与三只黑色眼睛造型。保留原始透明 PNG、1080 × 1080 画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-f02d254c856b4030a2c484a100f42f82",
+      "name": "三眼种荚",
+      "original": {
+        "bytes": 55690,
+        "format": "png",
+        "height": 1080,
+        "path": "files/676df8a7cfd8f945a91cc3237847e13eb940d2f0de7219b7af1ac06532805e80.png",
+        "sha256": "676df8a7cfd8f945a91cc3237847e13eb940d2f0de7219b7af1ac06532805e80",
+        "width": 1080
+      },
+      "published_at": 1792169198000,
+      "revision": "676df8a7cfd8f945a91cc3237847e13eb940d2f0de7219b7af1ac06532805e80",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f02d254c856b4030a2c484a100f42f82",
+      "tags": [
+        "plant",
+        "tag-264e6528778943119f465979b7f52521",
+        "tag-178911e40079466b969cf2c29cf74778"
+      ],
+      "thumbnail": {
+        "bytes": 6900,
+        "format": "webp",
+        "height": 384,
+        "path": "files/0933a2541f464ec80c38c177ca9bfff6ec1608c1b452b3a016cbe05d06e711da.webp",
+        "sha256": "0933a2541f464ec80c38c177ca9bfff6ec1608c1b452b3a016cbe05d06e711da",
+        "width": 384
+      },
+      "usage": "作者：食虎草；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "Image_1790905876689_241.png",
+        "Image_1790905876689_241",
+        "吐司酱",
+        "脑纹",
+        "大脑",
+        "旋涡"
+      ],
+      "author": "吐司酱",
+      "category": "FRAME",
+      "description": "作者投稿卡框，保留原始透明 PNG、完整画布及原始位置；显示名称按画面特征整理。",
+      "id": "asset-f02d55d306834a768860c789875dd283",
+      "name": "红色脑纹卡框",
+      "original": {
+        "bytes": 251649,
+        "format": "png",
+        "height": 2201,
+        "path": "files/e56bbaada57a90d76129cefcaa5d74afb27eb1397ccf65406111b2b25c9ba9fc.png",
+        "sha256": "e56bbaada57a90d76129cefcaa5d74afb27eb1397ccf65406111b2b25c9ba9fc",
+        "width": 1000
+      },
+      "published_at": 1792171093000,
+      "revision": "e56bbaada57a90d76129cefcaa5d74afb27eb1397ccf65406111b2b25c9ba9fc",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f02d55d306834a768860c789875dd283",
+      "tags": [
+        "red",
+        "tag-96bd1072c0b1493085f0026b51a49a42"
+      ],
+      "thumbnail": {
+        "bytes": 4592,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b5333ee8697dd98f880a9292a7af6875c721223046fe3cb0588df05381be8134.webp",
+        "sha256": "b5333ee8697dd98f880a9292a7af6875c721223046fe3cb0588df05381be8134",
+        "width": 174
+      },
+      "usage": "作者：吐司酱。维护者确认可在公共素材库发布，供用户下载创作。"
+    },
+    {
+      "aliases": [
+        "黍",
+        "Shu",
+        "嘉禾盈仓",
+        "shu-pattern.png",
+        "明日方舟",
+        "AI辅助"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "明日方舟角色「黍」配套原创设计，show策划、AI辅助制作。稻穗与水纹透明平铺图案；建议深玉绿底色#173A31，图案缩放100%、不透明度20%。 套系题名为原创设计用名，并非官方技能名。",
+      "id": "asset-f42db85384b743498e9089de9f4c7b06",
+      "name": "明日方舟 · 黍 · 丰稔图案",
+      "original": {
+        "bytes": 1634787,
+        "format": "png",
+        "height": 1254,
+        "path": "files/4c16890bfa5462f9b745e2067a979cf58f8fa86a9f2c1fab28cebdb7e00ff683.png",
+        "sha256": "4c16890bfa5462f9b745e2067a979cf58f8fa86a9f2c1fab28cebdb7e00ff683",
+        "width": 1254
+      },
+      "published_at": 1792255038000,
+      "revision": "4c16890bfa5462f9b745e2067a979cf58f8fa86a9f2c1fab28cebdb7e00ff683",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f42db85384b743498e9089de9f4c7b06",
+      "tags": [
+        "tag-1d229bb75c4245eca6abbd8cf867a122",
+        "tag-90266d2e35134994a7613f699be4c817",
+        "plant",
+        "yellow",
+        "green",
+        "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 121562,
+        "format": "webp",
+        "height": 384,
+        "path": "files/71fe7abea1591c460c61dd0ab6c06d2f19cadc349621e62b921f5f36a7da6a09.webp",
+        "sha256": "71fe7abea1591c460c61dd0ab6c06d2f19cadc349621e62b921f5f36a7da6a09",
+        "width": 384
+      },
+      "usage": "维护者 show 提供，AI辅助制作。允许使用、修改和分享。"
+    },
+    {
+      "aliases": [
+        "1789318703453",
+        "卡框",
+        "边框",
+        "frame",
+        "红黄",
+        "黄红",
+        "爆裂",
+        "太阳",
+        "双职业"
+      ],
+      "author": "不知道",
+      "category": "FRAME",
+      "description": "双色卡框·红黄，透明 PNG 卡框。保留群聊公共资源的原始画布、留白和像素，不裁剪或缩放原图。",
+      "id": "asset-f6fe98e4a04e48edb631e8e14fc82353",
+      "name": "双色卡框·红黄",
+      "original": {
+        "bytes": 289762,
+        "format": "png",
+        "height": 915,
+        "path": "files/5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215.png",
+        "sha256": "5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215",
+        "width": 915
+      },
+      "published_at": 1792166280000,
+      "revision": "5b44aaa1c646fcd39fe9df76ee7b0d637d3b920ca0584a71b635b827ad8f4215",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f6fe98e4a04e48edb631e8e14fc82353",
+      "tags": [
+        "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+        "plant",
+        "red",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 16538,
+        "format": "webp",
+        "height": 384,
+        "path": "files/e19e2ac77b122031ad73877f46aed4bb9c79f54573f5d7904cf578b0a0bfd0ab.webp",
+        "sha256": "e19e2ac77b122031ad73877f46aed4bb9c79f54573f5d7904cf578b0a0bfd0ab",
+        "width": 384
+      },
+      "usage": "群聊公共资源；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1787279016977",
+        "主角",
+        "主体",
+        "立绘",
+        "喷火",
+        "火焰喷射器",
+        "护目镜",
+        "背包",
+        "flamethrower"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "背负装备、手持喷射器并伴有火焰的僵尸。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-f7bcce1be5f14ef88aec20a6f031c7b9",
+      "name": "火焰喷射僵尸",
+      "original": {
+        "bytes": 675380,
+        "format": "png",
+        "height": 1080,
+        "path": "files/73556a2ef6343b7b025a5cc289b16b5bb0d9166ca33542df76856b7ec73a5046.png",
+        "sha256": "73556a2ef6343b7b025a5cc289b16b5bb0d9166ca33542df76856b7ec73a5046",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "73556a2ef6343b7b025a5cc289b16b5bb0d9166ca33542df76856b7ec73a5046",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-f7bcce1be5f14ef88aec20a6f031c7b9",
+      "tags": [
+        "tag-96bd1072c0b1493085f0026b51a49a42",
+        "tag-952308829dc94b298e0cb5c5e851503d",
+        "tag-328df90c1e8c431f89aee25bf10a78e9"
+      ],
+      "thumbnail": {
+        "bytes": 28838,
+        "format": "webp",
+        "height": 384,
+        "path": "files/4b19468ce544bd8fc6fc4a7aed0b36cbb7e94c526640af89875f8318b41c8b64.webp",
+        "sha256": "4b19468ce544bd8fc6fc4a7aed0b36cbb7e94c526640af89875f8318b41c8b64",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "backgrounderaser_1790434659",
+        "主角",
+        "主体",
+        "立绘",
+        "星帽",
+        "魔法帽",
+        "星星",
+        "花瓣",
+        "紫花",
+        "1790434641"
+      ],
+      "author": "快乐乐的冬青青",
+      "category": "SUBJECT",
+      "description": "紫色星光花帽与花瓣造型。保留原始透明 PNG、画布和像素。显示名称按画面特征整理。",
+      "id": "asset-fba7e7cb55f04ef29c0608303962ce2e",
+      "name": "星帽花灵",
+      "original": {
+        "bytes": 1213830,
+        "format": "png",
+        "height": 1254,
+        "path": "files/eae6a46bd0564a17e2770d3d4e484aa41659349c7d23c94d1084cffe45e8c853.png",
+        "sha256": "eae6a46bd0564a17e2770d3d4e484aa41659349c7d23c94d1084cffe45e8c853",
+        "width": 1254
+      },
+      "published_at": 1792169693000,
+      "revision": "eae6a46bd0564a17e2770d3d4e484aa41659349c7d23c94d1084cffe45e8c853",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-fba7e7cb55f04ef29c0608303962ce2e",
+      "tags": [
+        "plant",
+        "flower",
+        "purple",
+        "tag-5a4f1386714145a4be3be6167eddd586"
+      ],
+      "thumbnail": {
+        "bytes": 28320,
+        "format": "webp",
+        "height": 384,
+        "path": "files/8d95545401d532c643fa056dc9bb277eb36d491103fcf28b491d4dd216c1e0d7.webp",
+        "sha256": "8d95545401d532c643fa056dc9bb277eb36d491103fcf28b491d4dd216c1e0d7",
+        "width": 384
+      },
+      "usage": "作者：快乐乐的冬青青；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1791289944396",
+        "主角",
+        "主体",
+        "立绘",
+        "毒液",
+        "毒素",
+        "紫色黏液",
+        "绿色",
+        "poison pea"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "绿色豌豆搭配紫色毒液与滴状装饰。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-fc382006c2224dc58be21f28c4a5883a",
+      "name": "毒液豌豆",
+      "original": {
+        "bytes": 301440,
+        "format": "png",
+        "height": 1080,
+        "path": "files/d5336520f87ce262ba202cb04bafd998a2381dcbfae30300b0471389000459bb.png",
+        "sha256": "d5336520f87ce262ba202cb04bafd998a2381dcbfae30300b0471389000459bb",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "d5336520f87ce262ba202cb04bafd998a2381dcbfae30300b0471389000459bb",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-fc382006c2224dc58be21f28c4a5883a",
+      "tags": [
+        "plant",
+        "tag-687d815ee5cd45f9af830c5b66286929",
+        "tag-afb0c824e120447eb1bbc26bca4f0ce6"
+      ],
+      "thumbnail": {
+        "bytes": 13654,
+        "format": "webp",
+        "height": 384,
+        "path": "files/6021b8dd77903df63e850679294ae468cab3e72c10f9549e2682069bb22f0d29.webp",
+        "sha256": "6021b8dd77903df63e850679294ae468cab3e72c10f9549e2682069bb22f0d29",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "1789810229666",
+        "主角",
+        "主体",
+        "立绘",
+        "爆弹",
+        "炸弹",
+        "黑色",
+        "红眼",
+        "暗影",
+        "bomb"
+      ],
+      "author": "海龟螺猫",
+      "category": "SUBJECT",
+      "description": "深色爆弹与红眼植物造型。透明 PNG 主体素材，保留原始画布与像素；显示名称按画面特征整理，可后续补充正式名称。",
+      "id": "asset-fee8d3b0dea341aa98e85f58bc7638f0",
+      "name": "暗影爆弹",
+      "original": {
+        "bytes": 361642,
+        "format": "png",
+        "height": 1080,
+        "path": "files/949f48a04daabda3aa65496ec3e949a97f60a839435506fbb0f4f52d4394430d.png",
+        "sha256": "949f48a04daabda3aa65496ec3e949a97f60a839435506fbb0f4f52d4394430d",
+        "width": 1080
+      },
+      "published_at": 1792167909000,
+      "revision": "949f48a04daabda3aa65496ec3e949a97f60a839435506fbb0f4f52d4394430d",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-fee8d3b0dea341aa98e85f58bc7638f0",
+      "tags": [
+        "plant",
+        "tag-db61f628292e4a7b8e8323b20caa1654",
+        "tag-4dd88a38ef604a80bd07891588c969f1"
+      ],
+      "thumbnail": {
+        "bytes": 14150,
+        "format": "webp",
+        "height": 384,
+        "path": "files/a87b53474a069e4549c645fe90c5e7132f6d7571d5448d62862c9fb3ef56d5cd.webp",
+        "sha256": "a87b53474a069e4549c645fe90c5e7132f6d7571d5448d62862c9fb3ef56d5cd",
+        "width": 384
+      },
+      "usage": "作者：海龟螺猫；维护者确认可使用，可下载用于创作。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "BACKGROUND",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "background-demo-stars",
+      "name": "占位示例·星空底图",
+      "original": {
+        "bytes": 6021,
+        "format": "png",
+        "height": 1000,
+        "path": "files/9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b.png",
+        "sha256": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+        "width": 600
+      },
+      "published_at": 1792135964000,
+      "revision": "9abfa467d139c1e91b00481bc6752b1e9f2e19218a4e48d4f206de98a4434d2b",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/background-demo-stars",
+      "tags": [
+        "demo",
+        "star"
+      ],
+      "thumbnail": {
+        "bytes": 1116,
+        "format": "webp",
+        "height": 384,
+        "path": "files/7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df.webp",
+        "sha256": "7c3ff66e016e618df0ccad0d0112aafa1a13e8ce6caa8ce895cc7494083ee9df",
+        "width": 230
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "PATTERN",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "pattern-demo-flower",
+      "name": "占位示例·花朵图案",
+      "original": {
+        "bytes": 2382,
+        "format": "png",
+        "height": 384,
+        "path": "files/f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08.png",
+        "sha256": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+        "width": 384
+      },
+      "published_at": 1792135964000,
+      "revision": "f583c559d07c374e83bf967abf1b5e64add87e9afc6bc15739fa1c902903bf08",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "pink",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 2312,
+        "format": "webp",
+        "height": 384,
+        "path": "files/b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e.webp",
+        "sha256": "b364836cd30f8e570c47bd6ed13f4b8bec11ebb528bc8f3ca152350a7bee041e",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "数学徽章",
+        "圆周率",
+        "积分",
+        "无穷",
+        "几何",
+        "math",
+        "pi",
+        "infinity",
+        "数学符号",
+        "无穷大",
+        "π",
+        "运算",
+        "加减乘除",
+        "圆规"
+      ],
+      "author": "show",
+      "category": "PATTERN",
+      "description": "包含圆周率、积分、无穷与几何运算徽章。透明 PNG，保留原始四格整图；作为背景图案使用，可整图平铺。",
+      "id": "pattern-math-badges",
+      "name": "数学徽章四格线稿",
+      "original": {
+        "bytes": 1367108,
+        "format": "png",
+        "height": 1254,
+        "path": "files/4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408.png",
+        "sha256": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+        "width": 1254
+      },
+      "published_at": 1792151028000,
+      "revision": "4285807de8399329c05400e97fa42d49c686c5e08eab41c14339ad9b72012408",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/pattern-math-badges",
+      "tags": [
+        "math",
+        "badge",
+        "lineart",
+        "tile"
+      ],
+      "thumbnail": {
+        "bytes": 52248,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9.webp",
+        "sha256": "3d53802dbc054fb60e94f0d171d355bcb1c796918f63571cefb506b215ed4ba9",
+        "width": 384
+      },
+      "usage": "作者 show 授权：允许使用、修改和分享本素材。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "STICKER",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "sticker-demo-flower",
+      "name": "占位示例·花朵贴纸",
+      "original": {
+        "bytes": 1955,
+        "format": "png",
+        "height": 256,
+        "path": "files/87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946.png",
+        "sha256": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+        "width": 256
+      },
+      "published_at": 1792135964000,
+      "revision": "87d3bd98b370c2f62af8178e37031c7f91edc3c289ce84e858342b6a2d925946",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/sticker-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 5338,
+        "format": "webp",
+        "height": 384,
+        "path": "files/a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec.webp",
+        "sha256": "a894391194bcf453ce3df680eb35ad30614f25a5a76211f3bb34dc9dc1df05ec",
+        "width": 384
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    },
+    {
+      "aliases": [
+        "placeholder"
+      ],
+      "author": "热拉公共资源（程序生成示例）",
+      "category": "SUBJECT",
+      "description": "占位示例：仅用于体验分区、标签、预览和下载入库，后续可由维护者下架。",
+      "id": "subject-demo-flower",
+      "name": "占位示例·花朵主体",
+      "original": {
+        "bytes": 5093,
+        "format": "png",
+        "height": 640,
+        "path": "files/8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883.png",
+        "sha256": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+        "width": 512
+      },
+      "published_at": 1792135964000,
+      "revision": "8a6d4502979c87618b3723f18e51781933e71d0eb90b14df29eda6548e744883",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/subject-demo-flower",
+      "tags": [
+        "demo",
+        "flower",
+        "plant",
+        "yellow"
+      ],
+      "thumbnail": {
+        "bytes": 4832,
+        "format": "webp",
+        "height": 384,
+        "path": "files/d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1.webp",
+        "sha256": "d3d77952e556cb06a88a337eb299bb5c3ca2ca1ff77e6f6e018840a8187ba1a1",
+        "width": 307
+      },
+      "usage": "程序绘制的几何占位示例，允许在本工具中使用、修改和分享；不代表其他素材的使用范围。"
+    }
+  ],
+  "schema_version": 1,
+  "tags": [
+    {
+      "aliases": [
+        "示例",
+        "测试",
+        "placeholder"
+      ],
+      "id": "demo",
+      "label": "占位示例"
+    },
+    {
+      "aliases": [
+        "花卉",
+        "鲜花",
+        "flower"
+      ],
+      "id": "flower",
+      "label": "花朵"
+    },
+    {
+      "aliases": [
+        "plant"
+      ],
+      "id": "plant",
+      "label": "植物"
+    },
+    {
+      "aliases": [
+        "金黄",
+        "yellow"
+      ],
+      "id": "yellow",
+      "label": "黄色"
+    },
+    {
+      "aliases": [
+        "pink"
+      ],
+      "id": "pink",
+      "label": "粉色"
+    },
+    {
+      "aliases": [
+        "纹理",
+        "重复",
+        "tile"
+      ],
+      "id": "tile",
+      "label": "平铺"
+    },
+    {
+      "aliases": [
+        "星空",
+        "star"
+      ],
+      "id": "star",
+      "label": "星星"
+    },
+    {
+      "aliases": [
+        "数学符号",
+        "数理",
+        "math"
+      ],
+      "id": "math",
+      "label": "数学"
+    },
+    {
+      "aliases": [
+        "纹章",
+        "badge"
+      ],
+      "id": "badge",
+      "label": "徽章"
+    },
+    {
+      "aliases": [
+        "线条",
+        "黑白",
+        "lineart"
+      ],
+      "id": "lineart",
+      "label": "线稿"
+    },
+    {
+      "aliases": [
+        "炼金",
+        "炼金阵",
+        "神秘学",
+        "alchemy",
+        "occult"
+      ],
+      "id": "tag-d68148cafc044a63be920ace56a7856d",
+      "label": "炼金术"
+    },
+    {
+      "aliases": [
+        "工业",
+        "工程",
+        "齿轮",
+        "mechanical",
+        "engineering"
+      ],
+      "id": "tag-def10e43de7d4dcd9ee093d7fbaa6c7f",
+      "label": "机械"
+    },
+    {
+      "aliases": [
+        "电磁",
+        "力学",
+        "physics"
+      ],
+      "id": "tag-480181675bc34e478792a1748a3f6e20",
+      "label": "物理"
+    },
+    {
+      "aliases": [
+        "自然元素",
+        "火水土风",
+        "elemental"
+      ],
+      "id": "tag-42e36e00dfff4546829dfe8c6e126b0c",
+      "label": "四元素"
+    },
+    {
+      "aliases": [
+        "军徽",
+        "军章",
+        "military",
+        "army"
+      ],
+      "id": "tag-328df90c1e8c431f89aee25bf10a78e9",
+      "label": "军事"
+    },
+    {
+      "aliases": [
+        "日月星辰",
+        "星月",
+        "天体",
+        "celestial",
+        "astronomy"
+      ],
+      "id": "tag-20d6314042a64a4da946b4b1860ae5b4",
+      "label": "天文"
+    },
+    {
+      "aliases": [
+        "实验室",
+        "实验器材",
+        "chemistry",
+        "laboratory"
+      ],
+      "id": "tag-995c1cae82824d529b2fd1e457673db3",
+      "label": "化学"
+    },
+    {
+      "aliases": [
+        "纯白",
+        "白色图案",
+        "white"
+      ],
+      "id": "white",
+      "label": "白色"
+    },
+    {
+      "aliases": [
+        "双色卡框",
+        "双职业",
+        "two-tone"
+      ],
+      "id": "tag-ab4bbb3d76a145f1b1cf4c9949dec192",
+      "label": "双色"
+    },
+    {
+      "aliases": [
+        "绿",
+        "green"
+      ],
+      "id": "green",
+      "label": "绿色"
+    },
+    {
+      "aliases": [
+        "红",
+        "red"
+      ],
+      "id": "red",
+      "label": "红色"
+    },
+    {
+      "aliases": [
+        "银色",
+        "灰银",
+        "gray",
+        "silver"
+      ],
+      "id": "tag-598ead10a7d24ea1ac340378a112a0a0",
+      "label": "灰色"
+    },
+    {
+      "aliases": [
+        "棕",
+        "褐色",
+        "brown"
+      ],
+      "id": "tag-178911e40079466b969cf2c29cf74778",
+      "label": "棕色"
+    },
+    {
+      "aliases": [
+        "蓝",
+        "blue"
+      ],
+      "id": "blue",
+      "label": "蓝色"
+    },
+    {
+      "aliases": [
+        "黑",
+        "black"
+      ],
+      "id": "black",
+      "label": "黑色"
+    },
+    {
+      "aliases": [
+        "紫",
+        "purple"
+      ],
+      "id": "purple",
+      "label": "紫色"
+    },
+    {
+      "aliases": [
+        "金属边框",
+        "metal",
+        "metallic"
+      ],
+      "id": "tag-b95c22f1fd9643d5884b568cd524dd38",
+      "label": "金属"
+    },
+    {
+      "aliases": [
+        "暗色",
+        "哥特",
+        "dark"
+      ],
+      "id": "tag-4dd88a38ef604a80bd07891588c969f1",
+      "label": "暗黑"
+    },
+    {
+      "aliases": [
+        "国风",
+        "中国风",
+        "chinese"
+      ],
+      "id": "tag-bc684d9d1f8a4b5ab253128b9d442ff9",
+      "label": "中式"
+    },
+    {
+      "aliases": [
+        "春节",
+        "新春",
+        "festival"
+      ],
+      "id": "tag-2f9be048117b4975a9cd98f65dfd537a",
+      "label": "节日"
+    },
+    {
+      "aliases": [
+        "僵尸角色",
+        "zombie"
+      ],
+      "id": "tag-96bd1072c0b1493085f0026b51a49a42",
+      "label": "僵尸"
+    },
+    {
+      "aliases": [
+        "豌豆射手",
+        "pea",
+        "peashooter"
+      ],
+      "id": "tag-687d815ee5cd45f9af830c5b66286929",
+      "label": "豌豆"
+    },
+    {
+      "aliases": [
+        "太阳花",
+        "sunflower"
+      ],
+      "id": "tag-e45dc97cb325441eb6a5eb268e24f4c3",
+      "label": "向日葵"
+    },
+    {
+      "aliases": [
+        "菌菇",
+        "mushroom"
+      ],
+      "id": "tag-20d30a39902047c1a72148a230dba8af",
+      "label": "蘑菇"
+    },
+    {
+      "aliases": [
+        "火爆辣椒",
+        "pepper"
+      ],
+      "id": "tag-e66caa3363e24dcca05184220c4c3f3a",
+      "label": "辣椒"
+    },
+    {
+      "aliases": [
+        "机器人",
+        "机械载具",
+        "mecha",
+        "robot"
+      ],
+      "id": "tag-13a34529f254489da39505a0197fe64f",
+      "label": "机甲"
+    },
+    {
+      "aliases": [
+        "未来",
+        "高科技",
+        "sci-fi"
+      ],
+      "id": "tag-ae5a694191254de1a8aadf374593bc1b",
+      "label": "科幻"
+    },
+    {
+      "aliases": [
+        "古埃及",
+        "法老",
+        "egypt"
+      ],
+      "id": "tag-428baff549e7486e93a1d02578d86172",
+      "label": "埃及"
+    },
+    {
+      "aliases": [
+        "火",
+        "喷火",
+        "fire"
+      ],
+      "id": "tag-952308829dc94b298e0cb5c5e851503d",
+      "label": "火焰"
+    },
+    {
+      "aliases": [
+        "电光",
+        "电弧",
+        "闪电",
+        "electric"
+      ],
+      "id": "tag-c93adab081bc41549f85261c385053ac",
+      "label": "雷电"
+    },
+    {
+      "aliases": [
+        "歌唱",
+        "舞台",
+        "music"
+      ],
+      "id": "tag-7f7d8c3920024eaa88a9e05ac15b522c",
+      "label": "音乐"
+    },
+    {
+      "aliases": [
+        "冰",
+        "冰面",
+        "ice"
+      ],
+      "id": "tag-0b4477f505a74f718f8f57a58bb0c5e7",
+      "label": "冰雪"
+    },
+    {
+      "aliases": [
+        "爆弹",
+        "炸弹",
+        "explosive"
+      ],
+      "id": "tag-db61f628292e4a7b8e8323b20caa1654",
+      "label": "爆炸"
+    },
+    {
+      "aliases": [
+        "毒素",
+        "毒",
+        "poison"
+      ],
+      "id": "tag-afb0c824e120447eb1bbc26bca4f0ce6",
+      "label": "毒液"
+    },
+    {
+      "aliases": [
+        "服装",
+        "伪装",
+        "costume"
+      ],
+      "id": "tag-a90921b2fd31416cb9d1ee2b8622d79b",
+      "label": "装扮"
+    },
+    {
+      "aliases": [
+        "冬青浆果",
+        "holly"
+      ],
+      "id": "tag-71895e1e50a44752bf9d385555e79192",
+      "label": "冬青"
+    },
+    {
+      "aliases": [
+        "墓碑",
+        "坟墓",
+        "graveyard"
+      ],
+      "id": "tag-00e16cf749b242be93738beee266c94a",
+      "label": "墓地"
+    },
+    {
+      "aliases": [
+        "幽魂",
+        "亡灵",
+        "ghost"
+      ],
+      "id": "tag-dc958d1634254e03984b9224614058d1",
+      "label": "幽灵"
+    },
+    {
+      "aliases": [
+        "导弹",
+        "推进",
+        "rocket"
+      ],
+      "id": "tag-14af4986f07d4533b89820dbb840cf24",
+      "label": "火箭"
+    },
+    {
+      "aliases": [
+        "科学家",
+        "实验",
+        "science"
+      ],
+      "id": "tag-b5927b1682db4f30b74f81703aa24c93",
+      "label": "科学"
+    },
+    {
+      "aliases": [
+        "肌肉",
+        "健身",
+        "strength"
+      ],
+      "id": "tag-385593fee23745d98bf48d25337c7fcb",
+      "label": "力量"
+    },
+    {
+      "aliases": [
+        "真人",
+        "人像",
+        "person"
+      ],
+      "id": "tag-8b52a20311af413a96b513941bfe921e",
+      "label": "人物"
+    },
+    {
+      "aliases": [
+        "banana"
+      ],
+      "id": "tag-ee82e33f40e84c82bbbd1f949d1895c5",
+      "label": "香蕉"
+    },
+    {
+      "aliases": [
+        "树桩",
+        "树干",
+        "木头",
+        "tree",
+        "wood"
+      ],
+      "id": "tag-440f51ce44b842b997f7a0f4bef8b181",
+      "label": "树木"
+    },
+    {
+      "aliases": [
+        "种荚",
+        "种壳",
+        "seed"
+      ],
+      "id": "tag-264e6528778943119f465979b7f52521",
+      "label": "种子"
+    },
+    {
+      "aliases": [
+        "果子",
+        "fruit"
+      ],
+      "id": "tag-31cc1de23c9a45e4b058d32b125b42ac",
+      "label": "果实"
+    },
+    {
+      "aliases": [
+        "法术",
+        "魔幻",
+        "magic"
+      ],
+      "id": "tag-5a4f1386714145a4be3be6167eddd586",
+      "label": "魔法"
+    },
+    {
+      "aliases": [
+        "水环",
+        "流水",
+        "water"
+      ],
+      "id": "tag-b065a4e51760488d80b2978194b2f271",
+      "label": "水系"
+    },
+    {
+      "aliases": [
+        "橙",
+        "orange"
+      ],
+      "id": "orange",
+      "label": "橙色"
+    },
+    {
+      "aliases": [
+        "Android",
+        "安卓机器人"
+      ],
+      "id": "tag-2ad5a274836c4e2aa489af931a5986f4",
+      "label": "安卓"
+    },
+    {
+      "aliases": [
+        "方舟",
+        "Arknights"
+      ],
+      "id": "tag-1d229bb75c4245eca6abbd8cf867a122",
+      "label": "明日方舟"
+    },
+    {
+      "aliases": [
+        "Shu"
+      ],
+      "id": "tag-90266d2e35134994a7613f699be4c817",
+      "label": "黍"
+    },
+    {
+      "aliases": [
+        "Platinum"
+      ],
+      "id": "tag-2fe5ec63414649a3828a53278744cb88",
+      "label": "白金"
+    },
+    {
+      "aliases": [
+        "Lappland"
+      ],
+      "id": "tag-f923342ec19c4d1dbd13251bc92bda21",
+      "label": "拉普兰德"
+    }
+  ],
+  "version": "resources-5c0a15ce02dcd0a5"
+}
