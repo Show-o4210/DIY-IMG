@@ -558,5 +558,76 @@
     ],
     "id": "tag-f923342ec19c4d1dbd13251bc92bda21",
     "label": "拉普兰德"
+  },
+  {
+    "aliases": [
+      "WWII",
+      "WW2",
+      "World War II",
+      "二战套系"
+    ],
+    "id": "tag-1cddd87c6fb149acb45677042ad35df1",
+    "label": "二战"
+  },
+  {
+    "aliases": [
+      "GER",
+      "DEU",
+      "Germany"
+    ],
+    "id": "tag-75644e2a3d174de48276c9c078da8545",
+    "label": "德国"
+  },
+  {
+    "aliases": [
+      "SOV",
+      "USSR",
+      "Soviet Union"
+    ],
+    "id": "tag-9ef0fa6a86174208a10ac9dabd8e0285",
+    "label": "苏联"
+  },
+  {
+    "aliases": [
+      "ITA",
+      "Italy"
+    ],
+    "id": "tag-40c0c8a055a8498ebe6e461835ef3537",
+    "label": "意大利"
+  },
+  {
+    "aliases": [
+      "UK",
+      "ENG",
+      "United Kingdom",
+      "Britain"
+    ],
+    "id": "tag-ad250dfb192041e3a8fbcbf3a33648f3",
+    "label": "英国"
+  },
+  {
+    "aliases": [
+      "US",
+      "USA",
+      "United States"
+    ],
+    "id": "tag-2e13f79166c542ff9058a920ec3c6581",
+    "label": "美国"
+  },
+  {
+    "aliases": [
+      "FRA",
+      "France"
+    ],
+    "id": "tag-0c6a7585e60e454a9393c4333545778c",
+    "label": "法国"
+  },
+  {
+    "aliases": [
+      "cartoon",
+      "PVZH画风"
+    ],
+    "id": "tag-e76c5b54cece4747abd2956b856f801f",
+    "label": "卡通"
   }
 ]
