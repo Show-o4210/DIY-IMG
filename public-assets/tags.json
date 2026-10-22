@@ -629,5 +629,45 @@
     ],
     "id": "tag-e76c5b54cece4747abd2956b856f801f",
     "label": "卡通"
+  },
+  {
+    "aliases": [
+      "unit",
+      "minion"
+    ],
+    "id": "tag-e72c32779e4b4d708e027870f9694d3a",
+    "label": "单位"
+  },
+  {
+    "aliases": [
+      "trick",
+      "战术卡"
+    ],
+    "id": "tag-cc6f8fbdfba34b138bf7f0034bf33b0c",
+    "label": "锦囊"
+  },
+  {
+    "aliases": [
+      "environment",
+      "环境卡"
+    ],
+    "id": "tag-7a4832e6fec04982a46b0965e211e58a",
+    "label": "环境"
+  },
+  {
+    "aliases": [
+      "hero",
+      "英雄角色"
+    ],
+    "id": "tag-917b6d92f85c4fc086dbd38eeb8aa4ef",
+    "label": "英雄"
+  },
+  {
+    "aliases": [
+      "superpower",
+      "英雄技能"
+    ],
+    "id": "tag-0c3580d0d8dd432c824b44f1e6d86431",
+    "label": "超能力"
   }
 ]

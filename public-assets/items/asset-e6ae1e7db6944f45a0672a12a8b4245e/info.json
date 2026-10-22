@@ -1,0 +1,34 @@
+{
+  "aliases": [
+    "莫德尔-弹性防御",
+    "莫德尔-弹性防御.png",
+    "超能力/超能力/莫德尔-弹性防御.png",
+    "德国套系",
+    "PVZH",
+    "GER",
+    "Germany",
+    "WWII",
+    "WW2",
+    "超能力",
+    "超能力图标",
+    "英雄技能图标"
+  ],
+  "author": "show",
+  "category": "SKILL",
+  "description": "show制作并提供的二战德国主题卡通素材。带框超能力图标，适用于英雄编辑器技能 / 大招槽位；保留原始透明PNG与完整画布。",
+  "file": "original.png",
+  "id": "asset-e6ae1e7db6944f45a0672a12a8b4245e",
+  "name": "二战 · 德国 · 莫德尔-弹性防御",
+  "published_at": "2026-10-22T19:49:51+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-e6ae1e7db6944f45a0672a12a8b4245e",
+  "tags": [
+    "tag-1cddd87c6fb149acb45677042ad35df1",
+    "tag-75644e2a3d174de48276c9c078da8545",
+    "tag-328df90c1e8c431f89aee25bf10a78e9",
+    "tag-e76c5b54cece4747abd2956b856f801f",
+    "tag-0c3580d0d8dd432c824b44f1e6d86431",
+    "tag-96bd1072c0b1493085f0026b51a49a42"
+  ],
+  "usage": "维护者 show 提供，允许使用、修改和分享。"
+}

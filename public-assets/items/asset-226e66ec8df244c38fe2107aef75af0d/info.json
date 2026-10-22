@@ -1,0 +1,33 @@
+{
+  "aliases": [
+    "摩托侦察兵",
+    "摩托侦察兵.png",
+    "单位/摩托侦察兵.png",
+    "德国套系",
+    "PVZH",
+    "GER",
+    "Germany",
+    "WWII",
+    "WW2",
+    "单位"
+  ],
+  "author": "show",
+  "category": "SUBJECT",
+  "description": "show制作并提供的二战德国主题卡通素材。来源类型：单位；按维护者要求归入主体分区，保留原始透明PNG尺寸、留白与像素，不裁剪、不重编码。",
+  "file": "original.png",
+  "id": "asset-226e66ec8df244c38fe2107aef75af0d",
+  "name": "二战 · 德国 · 摩托侦察兵",
+  "published_at": "2026-10-22T19:49:48+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/items/asset-226e66ec8df244c38fe2107aef75af0d",
+  "tags": [
+    "tag-1cddd87c6fb149acb45677042ad35df1",
+    "tag-75644e2a3d174de48276c9c078da8545",
+    "tag-328df90c1e8c431f89aee25bf10a78e9",
+    "tag-e76c5b54cece4747abd2956b856f801f",
+    "tag-e72c32779e4b4d708e027870f9694d3a",
+    "tag-96bd1072c0b1493085f0026b51a49a42",
+    "tag-def10e43de7d4dcd9ee093d7fbaa6c7f"
+  ],
+  "usage": "维护者 show 提供，允许使用、修改和分享。"
+}
