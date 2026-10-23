@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "aliases": [
+        "护甲破坏",
+        "armor break"
+      ],
+      "author": "用户提供（作者未注明）",
+      "category": "TEXT_ICON",
+      "description": "备注名：破甲；引用语法：[khh]。原图由用户于 2026-10-23 提供，保留原始尺寸、透明度和 PNG 字节。",
+      "embed_key": "khh",
+      "id": "text-icon-armor-break-khh",
+      "name": "破甲",
+      "original": {
+        "bytes": 1370538,
+        "format": "png",
+        "height": 1254,
+        "path": "files/7d9c7167468bf1941a4ebcbf280d895ddf181f32570649cf76f2b8f133a3c153.png",
+        "sha256": "7d9c7167468bf1941a4ebcbf280d895ddf181f32570649cf76f2b8f133a3c153",
+        "width": 1254
+      },
+      "published_at": 1792757194000,
+      "revision": "7d9c7167468bf1941a4ebcbf280d895ddf181f32570649cf76f2b8f133a3c153",
+      "ribbon_scope": "COMMON",
+      "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/text-icons/items/text-icon-armor-break-khh",
+      "tags": [],
+      "thumbnail": {
+        "bytes": 30460,
+        "format": "webp",
+        "height": 384,
+        "path": "files/3e5a49dc59f989b296a257e1a9c173253564e3902e940333d56d54f1221670a7.webp",
+        "sha256": "3e5a49dc59f989b296a257e1a9c173253564e3902e940333d56d54f1221670a7",
+        "width": 384
+      },
+      "usage": "用户提供并指定收录到本工具公共文本图标库，用于本工具文字嵌入及卡牌创作。"
+    }
+  ],
+  "kind": "text-icons",
+  "schema_version": 1,
+  "tags": [],
+  "version": "text-icons-ee271510fbe3a90d"
+}

@@ -1,5 +1,7 @@
 # 热拉公共资源
 
+**维护目录分流：本目录的 `items/` 仅放普通素材；文本嵌入 icon 必须放入 [text-icons/items/](text-icons/README.md)，使用 `--text-icons` 单独生成、校验和同步。禁止把 `TEXT_ICON` 写进旧 items / 旧清单，生成器会拒绝。旧版普通素材接口、索引路径和协议保持不变。`SKILL` 技能素材仍属于普通素材。**
+
 本目录独立于玩家精选，由维护者统一管理，通过同仓库GitHub Pages发布。当前目录共170项素材 / 77标签：90项实际主体素材、18项真实背景图案、40项卡框、9项普通卡彩带、5项真实背景底图、4项技能图标，以及4项明确标注的程序占位示例。主体作者为海龟螺猫（18项）、zz（2项）、show（54项）、食虎草（4项）和快乐乐的冬青青（12项）。素材使用范围以各条目的作者 / 来源 / 使用说明为准。
 
 本批新增show的德国套系32项：12项单位、10项锦囊（含历史版闪电战）、1项环境、1项英雄、4项无框超能力插画均入主体分区，共28项；指定路径中的4项带框超能力进入技能图标分区（SKILL）。4项无框插画在名称中标注“无框插画”，旧闪电战标注“历史版·未加飞机”，文件名与原目录保留为搜索别名。全部保留原始透明PNG、画布、尺寸及alpha，允许使用、修改和分享；新增单位 / 锦囊 / 环境 / 英雄 / 超能力五个标签，支持德国套系 / 二战 / 名称搜索。原有138项元数据、ID、首次日期、图片版本与72标签不变，历史图片文件全部保留。
@@ -26,7 +28,7 @@
 3. 运行 `python scripts/build_public_assets.py --build`，自动生成缩略图、原图 / 缩略图哈希文件与客户端目录；运行 `python scripts/build_public_assets.py` 和 `python -m unittest discover -s tests -v` 校验。
 4. 提交原图、说明、缩略图、生成文件和目录。协作者通过 PR 提交，由维护者审核合并。公开前先确认素材可用于下载、创作及对应分享用途；精选的展示授权不自动扩展到素材再利用。
 
-分区：`SUBJECT` 主体、`FRAME` 卡框、`RIBBON` 彩带、`BACKGROUND` 底图、`PATTERN` 图案、`STICKER` 贴纸、`COST` 消耗、`ATTACK` 攻击、`HEALTH` 生命、`HERO_TYPE` 属性标志、`SKILL` 技能、`TEXT_ICON` 文字图标。彩带 `ribbon_scope` 为 `CARD` / `HERO` / `COMMON`，缺省通用。原图支持 PNG / JPEG，32 MiB、4000 万像素以内。
+分区：`SUBJECT` 主体、`FRAME` 卡框、`RIBBON` 彩带、`BACKGROUND` 底图、`PATTERN` 图案、`STICKER` 贴纸、`COST` 消耗、`ATTACK` 攻击、`HEALTH` 生命、`HERO_TYPE` 属性标志、`SKILL` 技能。彩带 `ribbon_scope` 为 `CARD` / `HERO` / `COMMON`，缺省通用。原图支持 PNG / JPEG，32 MiB、4000 万像素以内。
 
 ## 发布与回退
 

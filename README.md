@@ -1,4 +1,9 @@
 # PVZH DIY 精选与公共素材
+
+公共文本 icon 独立收录：**破甲**，引用 **`[khh]`**，见 [图标目录与添加说明](public-assets/text-icons/README.md)。原图 1254×1254 RGBA PNG 字节保留；图标的备注名 `name` 与嵌入名 `embed_key` 分开。图标发布入口为 [`public-assets/text-icons/catalog/index.json`](https://show-o4210.github.io/DIY-IMG/public-assets/text-icons/catalog/index.json)，普通素材入口保持不变。
+
+**新增文本嵌入 icon 只放 `public-assets/text-icons/items/`，使用 `--text-icons` 单独生成和校验；普通素材继续放 `public-assets/items/`。禁止将 `TEXT_ICON` 放入旧目录，避免旧客户端读取。**
+
 本仓库保留已归档的玩家精选，并管理可下载使用的公共素材。客户端源码不在本仓库，本仓库不是用户上传服务或通用图床。
 
 公共素材位于 [public-assets](public-assets/README.md)，按用途分区、标签和固定 ID 管理，客户端直接从 GitHub 获取目录、缩略图和原图。当前收录 show 授权的「数学徽章四格线稿」背景图案（允许使用、修改和分享），并保留四项程序绘制占位示例；与下述玩家精选的内容、用途和发布链路独立。维护命令为 `python scripts/build_public_assets.py --build`，检查为 `python scripts/build_public_assets.py`。

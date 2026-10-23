@@ -1,0 +1,18 @@
+{
+  "aliases": [
+    "护甲破坏",
+    "armor break"
+  ],
+  "author": "用户提供（作者未注明）",
+  "category": "TEXT_ICON",
+  "description": "备注名：破甲；引用语法：[khh]。原图由用户于 2026-10-23 提供，保留原始尺寸、透明度和 PNG 字节。",
+  "embed_key": "khh",
+  "file": "original.png",
+  "id": "text-icon-armor-break-khh",
+  "name": "破甲",
+  "published_at": "2026-10-23T20:06:34+08:00",
+  "ribbon_scope": "COMMON",
+  "source_url": "https://github.com/Show-o4210/DIY-IMG/tree/main/public-assets/text-icons/items/text-icon-armor-break-khh",
+  "tags": [],
+  "usage": "用户提供并指定收录到本工具公共文本图标库，用于本工具文字嵌入及卡牌创作。"
+}

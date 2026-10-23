@@ -24,10 +24,14 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements-publish.txt
       - run: python scripts/build_public_assets.py
+      - run: python scripts/build_public_assets.py --text-icons
       - name: Stage only public materials
         run: |
           mkdir -p _public_site/public-assets
           cp -R public-assets/catalog public-assets/files _public_site/public-assets/
+          mkdir -p _public_site/public-assets/text-icons
+          cp -R public-assets/text-icons/catalog _public_site/public-assets/text-icons/
+          if [ -d public-assets/text-icons/files ]; then cp -R public-assets/text-icons/files _public_site/public-assets/text-icons/; fi
           cp public-assets/index.html _public_site/index.html
           touch _public_site/.nojekyll
       - uses: actions/configure-pages@v5

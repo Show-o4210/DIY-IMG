@@ -16,4 +16,5 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements-publish.txt
       - run: python scripts/build_public_assets.py
+      - run: python scripts/build_public_assets.py --text-icons
       - run: python -m unittest discover -s tests -v

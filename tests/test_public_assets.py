@@ -44,6 +44,25 @@ class PublicAssetsTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             builder.compile_catalog(self.root, True)
 
+    def test_text_icons_require_separate_mode_and_keep_name_and_key_distinct(self):
+        self.info.update(category='TEXT_ICON', embed_key='khh', name='破甲')
+        self.write_info()
+        with self.assertRaisesRegex(ValueError, 'text-icons/items'):
+            builder.compile_catalog(self.root, True)
+        icons = builder.compile_catalog(self.root, True, text_icons=True)
+        self.assertEqual('text-icons', icons['kind'])
+        self.assertEqual(('破甲', 'khh'), (icons['items'][0]['name'], icons['items'][0]['embed_key']))
+        self.assertEqual(icons, builder.compile_catalog(self.root, text_icons=True))
+        self.assertEqual('text-icons', json.loads((self.root/'catalog/index.json').read_text())['kind'])
+
+    def test_published_icon_image_and_key_cannot_be_reassigned(self):
+        self.info.update(category='TEXT_ICON', embed_key='pub_show_frost')
+        self.write_info(); builder.compile_catalog(self.root, True, text_icons=True)
+        self.info['embed_key'] = 'pub_changed'; self.write_info()
+        with self.assertRaises(ValueError): builder.compile_catalog(self.root, True, text_icons=True)
+        self.info['embed_key'] = 'pub_show_frost'; self.write_info()
+        Image.new('RGBA', (64, 80), 'pink').save(self.root/'items/subject-test/original.png')
+        with self.assertRaises(ValueError): builder.compile_catalog(self.root, True, text_icons=True)
     def test_new_original_keeps_old_published_files(self):
         old = builder.compile_catalog(self.root, True)
         old_item = old['items'][0]
