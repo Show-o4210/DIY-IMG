@@ -6,7 +6,7 @@
 
 本仓库保留已归档的玩家精选，并管理可下载使用的公共素材。客户端源码不在本仓库，本仓库不是用户上传服务或通用图床。
 
-公共素材位于 [public-assets](public-assets/README.md)，按用途分区、标签和固定 ID 管理，客户端直接从 GitHub 获取目录、缩略图和原图。当前收录 show 授权的「数学徽章四格线稿」背景图案（允许使用、修改和分享），并保留四项程序绘制占位示例；与下述玩家精选的内容、用途和发布链路独立。维护命令为 `python scripts/build_public_assets.py --build`，检查为 `python scripts/build_public_assets.py`。
+公共素材位于 [public-assets](public-assets/README.md)，按用途分区、标签和固定 ID 管理，客户端直接从 GitHub 获取目录、缩略图和原图。当前普通目录为 **199 项 / 77 标签**，另有独立文字图标“破甲” `[khh]`；与下述玩家精选的内容、用途和发布链路独立。2026-10-27 新增 show 的法国套系 v2 共 29 项：25 项主体、4 项超能力徽章（SKILL），原图字节保留，供下载及卡牌创作使用，搜索“法国套系”“法国”或卡图编号 / 名称可查找。逐项使用范围见各条目。维护命令为 `python scripts/build_public_assets.py --build`，检查为 `python scripts/build_public_assets.py`。
 
 ## 玩家精选已归档（2026-10-23）
 
